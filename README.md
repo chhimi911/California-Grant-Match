@@ -29,7 +29,19 @@ The script:
 2. Paginates through every `datastore_search` record in batches of 500.
 3. Verifies the live schema before transforming data. The verified source fields include `AgencyDept`, `Categories`, `ApplicantType`, `Geography`, `OpenDate`, `ApplicationDeadline`, `EstAmounts`, and `GrantURL`.
 4. Keeps records that are open or scheduled to open within 90 days and whose deadline has not passed.
-5. Atomically replaces `public/grants.json` only after a complete, non-empty refresh. A failed refresh logs a loud error, exits unsuccessfully, and leaves the last good file untouched.
+5. Atomically replaces `public/grants.json` and its root deployment copy, `grants.json`, only after a complete, non-empty refresh. A failed refresh logs a loud error, exits unsuccessfully, and leaves the last good files untouched.
+
+## Deploy to Vercel
+
+The checked-in `vercel.json` locks the static output directory to the repository root, refreshes the data during each production build, and serves the frontend data from `/grants.json`.
+
+```bash
+cd /Users/jigmechhimi/aiuntangled/ca-grant-match
+npx vercel login
+npx vercel --prod
+```
+
+The repository also includes `.github/workflows/refresh-grants.yml`. Every Monday it refreshes and tests the official data, commits only changed JSON files, and pushes to `main`. A Git-connected Vercel project then deploys that commit automatically. Failed refreshes do not commit anything, so the last good production data remains live. The workflow can also be run manually from **GitHub → Actions → Refresh grant data → Run workflow**.
 
 ## Deploy to Netlify
 
@@ -68,8 +80,11 @@ Without that environment variable, the scheduled function still performs and log
 ```bash
 cd /Users/jigmechhimi/aiuntangled/ca-grant-match
 node --check scripts/refresh.js
+node --check scripts/matching.js
+node --check scripts/test.js
 node --check netlify/functions/refresh-grants.js
 node scripts/refresh.js
+npm test
 ```
 
 The production UI was browser-checked at desktop and 375px phone width for loading, default Small Business matching, applicant/category/county filter changes, deadline sorting, empty state behavior, external Apply links, and console errors.

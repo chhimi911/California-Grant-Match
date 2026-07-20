@@ -279,7 +279,10 @@ function sortByDeadline(grants) {
 }
 
 async function refreshGrants(options = {}) {
-  const outputPath = options.outputPath || path.join(__dirname, '..', 'public', 'grants.json');
+  const projectRoot = path.join(__dirname, '..');
+  const outputPaths = options.outputPath
+    ? [options.outputPath]
+    : [path.join(projectRoot, 'public', 'grants.json'), path.join(projectRoot, 'grants.json')];
   const now = options.now || new Date();
   const today = pacificDate(now);
   const resourceId = await findResource();
@@ -305,12 +308,15 @@ async function refreshGrants(options = {}) {
     grants,
   };
 
-  await fs.mkdir(path.dirname(outputPath), { recursive: true });
-  const temporaryPath = `${outputPath}.tmp`;
-  await fs.writeFile(temporaryPath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
-  await fs.rename(temporaryPath, outputPath);
-  console.log(`[CA Grant Match] Wrote ${grants.length} open or upcoming grants to ${outputPath}.`);
-  return { outputPath, grantCount: grants.length, resourceId };
+  const serialized = `${JSON.stringify(payload, null, 2)}\n`;
+  for (const outputPath of outputPaths) {
+    await fs.mkdir(path.dirname(outputPath), { recursive: true });
+    const temporaryPath = `${outputPath}.tmp`;
+    await fs.writeFile(temporaryPath, serialized, 'utf8');
+    await fs.rename(temporaryPath, outputPath);
+  }
+  console.log(`[CA Grant Match] Wrote ${grants.length} open or upcoming grants to ${outputPaths.join(' and ')}.`);
+  return { outputPath: outputPaths[0], outputPaths, grantCount: grants.length, resourceId };
 }
 
 if (require.main === module) {

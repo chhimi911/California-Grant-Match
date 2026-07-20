@@ -305,6 +305,7 @@
       </div>
     </footer>
 
+    <script src="scripts/matching.js"></script>
     <script>
       (() => {
         const COUNTY_NAMES = [
@@ -329,6 +330,7 @@
         const emptyState = document.querySelector('#empty-state');
         const errorState = document.querySelector('#error-state');
         const lastUpdated = document.querySelector('#last-updated');
+        const { grantMatchesFilters, normalizeDisplayAmounts } = window.GrantMatching;
 
         function localDateOnly() {
           const formatter = new Intl.DateTimeFormat('en-CA', {
@@ -366,7 +368,7 @@
         }
 
         function formatAmountRange(grant) {
-          const { amountMin, amountMax } = grant;
+          const { amountMin, amountMax } = normalizeDisplayAmounts(grant.amountMin, grant.amountMax);
           if (amountMin == null && amountMax == null) return 'See grant details';
           if (amountMin == null) return `Up to ${formatMoney(amountMax)}`;
           if (amountMax == null) return `From ${formatMoney(amountMin)}`;
@@ -442,9 +444,7 @@
 
         function filteredGrants() {
           return state.grants
-            .filter((grant) => grant.applicantTypes.includes(state.applicant))
-            .filter((grant) => !state.category || grant.categories.includes(state.category))
-            .filter((grant) => !state.county || grant.counties.includes('Statewide') || grant.counties.includes(state.county))
+            .filter((grant) => grantMatchesFilters(grant, state))
             .sort((a, b) => {
               if (a.closeDate && b.closeDate && a.closeDate !== b.closeDate) return a.closeDate.localeCompare(b.closeDate);
               if (a.closeDate) return -1;
@@ -478,13 +478,14 @@
         }
 
         filterForm.addEventListener('change', () => {
-          state.applicant = new FormData(filterForm).get('applicant') || 'business';
-          state.category = categorySelect.value;
-          state.county = countySelect.value;
+          const formData = new FormData(filterForm);
+          state.applicant = formData.get('applicant') || 'business';
+          state.category = formData.get('category') || '';
+          state.county = formData.get('county') || '';
           render();
         });
 
-        fetch('public/grants.json', { cache: 'no-cache' })
+        fetch('/grants.json', { cache: 'no-cache' })
           .then((response) => {
             if (!response.ok) throw new Error(`Grant data returned HTTP ${response.status}`);
             return response.json();

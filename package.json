@@ -5,6 +5,7 @@
   "description": "Match Californians to open grants from the official California Grants Portal.",
   "scripts": {
     "refresh": "node scripts/refresh.js",
+    "test": "node scripts/test.js",
     "serve": "python3 -m http.server 8000"
   },
   "engines": {

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "node scripts/refresh.js",
+  "outputDirectory": ".",
+  "headers": [
+    {
+      "source": "/grants.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=900, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/index.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ]
+}
