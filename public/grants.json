@@ -1,0 +1,4052 @@
+{
+  "lastUpdated": "2026-07-20T05:32:58.013Z",
+  "source": "California Grants Portal via the California Open Data Portal",
+  "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
+  "grantCount": 177,
+  "grants": [
+    {
+      "id": "183486",
+      "title": "OPIOID AND STIMULANT USE DISORDER PREVENTION AND EDUCATION",
+      "agency": "Department of Health Care Services",
+      "summary": "This program will be supported by the California State Opioid Response (SOR) IV grant program funded by DHCS. This grant was provided to DHCS by the U.S. Substance Abuse and Mental Health Services Administration (SAMHSA).",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-24",
+      "closeDate": "2026-07-22",
+      "amountMin": 1,
+      "amountMax": 200000,
+      "applyUrl": "https://www.shfcenter.org/wp-content/uploads/2026/06/SOR-4-NEW-RFA-2026_Final_06122026_ADA.pdf"
+    },
+    {
+      "id": "173910",
+      "title": "2026 Wildfire and Forest Resilience Directed Grant Program",
+      "agency": "Sierra Nevada Conservancy",
+      "summary": "This grant program is focused on high-impact forest-health projects that deliver strong, direct benefits to communities, critical infrastructure, or unique natural resources. Examples include constructing or improving fuelbreaks, protecting water supplies, improving safety along ingress/egress routes, and protecting hospitals, schools, giant sequoias, and…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Sierra"
+      ],
+      "openDate": "2026-06-08",
+      "closeDate": "2026-07-27",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://sierranevada.ca.gov/grants/wildfire-forest-resilience/"
+    },
+    {
+      "id": "171837",
+      "title": "CAL FIRE Forest Health Research Program (FY 2026-27) California Climate Investments Graduate Student Grants (RP-RFP-2026-02)",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "The intent of CAL FIRE's Forest Health Research Program is to fund scientific research that expands our knowledge in topics related to forest health and wildland fire. The outcomes of these projects will support agencies, organizations, landowners, and policy makers, while furthering the goals of the California Forest and Wildfire Resilience Action Plan and…",
+      "categories": [
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-11",
+      "closeDate": "2026-07-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/forest-health-research-program/applicant-and-grantee-resources"
+    },
+    {
+      "id": "171786",
+      "title": "CAL FIRE Forest Health Research Program (FY 2026-27) California Climate Investments Grants (RP-RFP-2026-01)",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "The intent of CAL FIRE's Forest Health Research Program is to fund scientific research that expands our knowledge in topics related to forest health and wildland fire. The outcomes of these projects will support agencies, organizations, landowners, and policy makers, while furthering the goals of the California Forest and Wildfire Resilience Action Plan and…",
+      "categories": [
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-11",
+      "closeDate": "2026-07-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/forest-health-research-program/applicant-and-grantee-resources"
+    },
+    {
+      "id": "171843",
+      "title": "CAL FIRE Forest Health Research Program (FY 2026-27) Proposition 4 California Climate Bond Grants (RP-RFP-2026-03)",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "The intent of CAL FIRE's Forest Health Research Program is to fund scientific research that expands our knowledge in topics related to forest health and wildland fire. The outcomes of these projects will support agencies, organizations, landowners, and policy makers, while furthering the goals of the California Forest and Wildfire Resilience Action Plan and…",
+      "categories": [
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-11",
+      "closeDate": "2026-07-30",
+      "amountMin": 1000000,
+      "amountMax": 1500000,
+      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/forest-health-research-program/applicant-and-grantee-resources"
+    },
+    {
+      "id": "173727",
+      "title": "2026 Natural Community Conservation Planning Local Assistance Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The Natural Community Conservation Planning Local Assistance Grant (NCCP LAG) Program is intended to assist local public agencies, tribes, and non-profit organizations with the highest priority tasks needed to implement NCCPs.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-01",
+      "closeDate": "2026-07-31",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Conservation/Planning/NCCP/Grants"
+    },
+    {
+      "id": "183483",
+      "title": "The Electric Vehicle Infrastructure Training Program Fund (EVITP Fund) 2.0",
+      "agency": "Employment Training Panel",
+      "summary": "ETP is administering the Electric Vehicle Infrastructure Training Program Fund (EVITP Fund) 2.0 in collaboration with the California Energy Commission (CEC) and is pleased to announce the availability of approximately $2,700,000 in funding to increase the number of electricians certified through EVITP within California.",
+      "categories": [
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-01",
+      "closeDate": "2026-07-31",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://etp.ca.gov/fundingopportunities/grants/evitp/"
+    },
+    {
+      "id": "161961",
+      "title": "Song Brown Primary Care Residency (PCR) 2026 Application",
+      "agency": "Department of Health Care Access and Information",
+      "summary": "The Song-Brown Program funds institutions that train primary care doctors to provide health care in California’s medically underserved areas.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-02-24",
+      "closeDate": "2026-08-03",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/primary-care-residency-pcr-grant/"
+    },
+    {
+      "id": "178419",
+      "title": "Joint Institute for Wood Products Innovation Grant, FY 2026-2027",
+      "agency": "Board of Forestry",
+      "summary": "This grant supports increasing the pace & scale of CA's sustainable forest restoration activities. Grant projects must (directly or indirectly) contribute to long-term forest ecosystem sustainability; forest health; carbon storage; & wood products, biofuels, or bioenergy. For more information, see the Grant Guidelines.",
+      "categories": [
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Science, Technology, and Research & Development",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-22",
+      "closeDate": "2026-08-03",
+      "amountMin": 5000,
+      "amountMax": 375000,
+      "applyUrl": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/bof-website/board-committees/joint-institute-for-wood-products-innovation---jiwpi/joint-institute-for-wood-products-innovation-grant-program/jiwpi-2026_27-guidelines/2026_27-institute-grant-guidelines_final_adamfk.pdf?rev=2f8f7cd1a2a54929a7503c0abc6d4897&hash=A6420CD3116DE9B21414F9908557C014"
+    },
+    {
+      "id": "175614",
+      "title": "FY 2026-27 Intimate Partner Violence Prevention (FD) Program Supplemental",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "To create or expand Intimate Partner Violence, Sexual Assault, and Teen Dating Violence prevention programs.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-11",
+      "closeDate": "2026-08-07",
+      "amountMin": 1,
+      "amountMax": 132828,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "180546",
+      "title": "2026 Wildfire Resilience Block Grants",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "CAL FIRE's Wildfire Resilience Program awards funding to build local capacity while providing financial and technical forestry assistance to nonindustrial forest landowners. The power of this program comes from the regional partner’s ability to set parameters for assistance that directly meet the unique needs of the landowners in their local region.",
+      "categories": [
+        "Agriculture"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "other",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-08",
+      "closeDate": "2026-08-07",
+      "amountMin": 100000,
+      "amountMax": 5000000,
+      "applyUrl": "https://www.fire.ca.gov/what-we-do/natural-resource-management/wildfire-resilience"
+    },
+    {
+      "id": "164664",
+      "title": "Tribal Capacity Building Program",
+      "agency": "Strategic Growth Council",
+      "summary": "The Tribal Capacity Building Program's key objectives are to: Build Tribal Staff Capacity to Advance and Sustain Climate and Housing Action; Secure Funding to Develop and Implement Tribal-led Climate and Housing Projects; Enhance Peer Learning Relationships Among Tribes",
+      "categories": [
+        "Agriculture",
+        "Disaster Prevention & Relief",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-11",
+      "closeDate": "2026-08-11",
+      "amountMin": 350000,
+      "amountMax": 420000,
+      "applyUrl": "https://sgc.ca.gov/initiatives/tribal/thcbi/"
+    },
+    {
+      "id": "171645",
+      "title": "Tribal Housing Pre-Development Fund",
+      "agency": "Strategic Growth Council",
+      "summary": "The Tribal Housing Pre-Development Fund is a grant opportunity that funds activities related to affordable housing development, including planning, infrastructure, construction, site preparation, and other pre-development activities. The goal of the Fund is to increase preparedness to build housing and access other state-funded, affordable housing programs.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "other",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-12",
+      "closeDate": "2026-08-11",
+      "amountMin": 1,
+      "amountMax": 3000000,
+      "applyUrl": "https://sgc.ca.gov/grant-programs/tribalpd/"
+    },
+    {
+      "id": "175272",
+      "title": "Beverage Container Recycling Grant Program (Fiscal Years 2026-27 and 2027-28)",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The Department of resources Recycling and Recovery offers the Beverage Container Recycling Grant Program pursuant to Section 14581(a)(4) of the Public Resources Code. The purpose of the grant is to issue up to $1,500,000 annually in the form of grants for beverage container recycling and litter reduction programs to promote increased recycling beverage…",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Education",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-16",
+      "closeDate": "2026-08-11",
+      "amountMin": 75000,
+      "amountMax": 275000,
+      "applyUrl": "https://www.calrecycle.ca.gov/BevContainer/Grants/BevContainer/"
+    },
+    {
+      "id": "171870",
+      "title": "2026-27 Public Charter Schools Grant Program Start-Up Subgrant",
+      "agency": "CA Department of Education",
+      "summary": "The Public Charter Schools Grant Program (PCSGP) is a discretionary grant program administered by the California Department of Education, on behalf of the State Board of Education, through funding awarded by the federal Charter Schools Program (CSP).",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-12",
+      "closeDate": "2026-08-14",
+      "amountMin": 250000,
+      "amountMax": 1900000,
+      "applyUrl": "https://www.cde.ca.gov/fg/fo/r1/pcsgppire26rfa.asp"
+    },
+    {
+      "id": "184461",
+      "title": "2026 Cooperative Endangered Species Conservation Fund: HCP Land Acquisition (Nontraditional Section 6)",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "Funds to support land acquisition projects in support of approved Habitat Conservation Plans that will conserve habitat for eligible species in perpetuity.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-15",
+      "closeDate": "2026-08-14",
+      "amountMin": 10000,
+      "amountMax": 26000000,
+      "applyUrl": "https://www.wildlife.ca.gov/Conservation/Planning/NCCP/Grants"
+    },
+    {
+      "id": "184464",
+      "title": "2026 Cooperative Endangered Species Conservation Fund: Conservation Planning Assistance (Nontraditional Section 6)",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "Support the development of new, or the renewal or amendment of existing, Habitat Conservation Plans and Conservation Benefit Agreements (formerly referred to as Safe Harbor Agreements and Candidate Conservation Agreements with Assurances).",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-15",
+      "closeDate": "2026-08-14",
+      "amountMin": 1,
+      "amountMax": 1000000,
+      "applyUrl": "https://www.wildlife.ca.gov/Conservation/Planning/NCCP/Grants"
+    },
+    {
+      "id": "182691",
+      "title": "Division of Boating and Waterways Clean Vessel Act Education and Outreach Grant FY 2026",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provide education and awareness about the proper disposal of boat sewage",
+      "categories": [
+        "Education",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-29",
+      "closeDate": "2026-08-17",
+      "amountMin": 360000,
+      "amountMax": 360000,
+      "applyUrl": "https://dbw.parks.ca.gov/?page_id=29109"
+    },
+    {
+      "id": "187587",
+      "title": "Technical Assistance Program (TAP) 2026-2027",
+      "agency": "Governor's Office of Business and Economic Development",
+      "summary": "This grant is ONLY open to Small Business Technical Assistance Centers. This is NOT a grant to small businesses. TAP seeks to expand advising and training to small businesses entrepreneurs. Funding is for new or enhanced advising and training services to small businesses.",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-17",
+      "closeDate": "2026-08-17",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calosba.ca.gov/for-calosba-partners/funding-opportunities-for-partners/"
+    },
+    {
+      "id": "177765",
+      "title": "Tire Incentive Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "CalRecycle provides the Tire Incentive Grant to: Divert waste tires from landfill disposal.Prevent illegal tire dumping that harms the environment.Promote markets for recycled-content tire products.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-18",
+      "closeDate": "2026-08-19",
+      "amountMin": 25000,
+      "amountMax": 650000,
+      "applyUrl": "https://calrecycle.ca.gov/Tires/Grants/TIP/"
+    },
+    {
+      "id": "187143",
+      "title": "Workforce Accelerator Fund 14",
+      "agency": "Workforce Development Board",
+      "summary": "The California Workforce Development Board (CWDB) is pleased to announce up to $3 million in Workforce Innovation and Opportunity Act (WIOA) Governor’s discretionary funds for the Workforce Accelerator Fund 14 (Accelerator 14) grant program.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Employment, Labor & Training",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-15",
+      "closeDate": "2026-08-27",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://cwdb.ca.gov/cwdb-home/grant-information/accelerator-14/"
+    },
+    {
+      "id": "184443",
+      "title": "FY 2026-27 Sexual Assault Response Teams (XS) Program Supplemental",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "The purpose of the Program is to fund a full-time Sexual Assault Counselor, per Evidence Code § 1035.2, to act as a SART Advocate to take a lead role in the planning and coordinating of SART efforts in their local community with the goal of improving the quality of, response to, and services for, sexual assault victims/survivors.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-07",
+      "closeDate": "2026-09-01",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "184446",
+      "title": "FY 2026-27 Unserved/Underserved Child and Youth Advocacy (XY) Program Supplemental",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "To provide funding for advocacy and support services to unserved/underserved child and youth victims/survivors of crime, by maintaining and/or enhancing an existing program by committing staff time to specifically address the needs of the identified unserved/underserved child and youth victim/survivor population, hiring staff that reflect that population,…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-07",
+      "closeDate": "2026-09-01",
+      "amountMin": 1,
+      "amountMax": 194000,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "184488",
+      "title": "FY 2026-27 Supervised Visitation (SP) Program Supplemental",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "Provide court ordered on-site supervised visitation services.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-07",
+      "closeDate": "2026-09-01",
+      "amountMin": 1,
+      "amountMax": 201000,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "184491",
+      "title": "2026-27 Child Abduction Training (AC) Program",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "The Program is to collaborate with the California Child Abduction Task Force (Task Force) to develop and provide statewide training and resources to multidisciplinary professionals involved in the investigation and intervention of child abduction cases.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-07",
+      "closeDate": "2026-09-01",
+      "amountMin": 1,
+      "amountMax": 250000,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "178956",
+      "title": "Tahoe for All",
+      "agency": "Tahoe Conservancy",
+      "summary": "The Tahoe for All Grant Program (TFA Program) is the Conservancy's Outdoors for All Grant opportunity. The Goal of the TFA Program is to support programs and projects that provide positive and inclusive outdoor experiences for historically underserved and excluded communities by providing grants for programs and projects that address economic, physical,…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-01",
+      "closeDate": "2026-09-04",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://tahoe.ca.gov/tahoe-for-all-grants/"
+    },
+    {
+      "id": "173352",
+      "title": "Community Resilience Centers Round 2 PLANNING Grant (FY 26-27)",
+      "agency": "Strategic Growth Council",
+      "summary": "The CRC Program funds the planning and construction or retrofits of community serving facilities that provide shelter and resources to mitigate the public health impacts of extreme heat and other emergency situations exacerbated by climate change, as well as year-round community programs and services.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Education",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Libraries and Arts",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-02",
+      "closeDate": "2026-09-04",
+      "amountMin": 100000,
+      "amountMax": 500000,
+      "applyUrl": "https://sgc.ca.gov/grant-programs/crc/application/"
+    },
+    {
+      "id": "180519",
+      "title": "Tribal Wildfire Resilience Grants Solicitation 2026",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "Tribal Wildfire Resilience grants is part of CAL FIRE’s Climate and Energy Program and supports California Native American tribes in managing ancestral lands, implementing and promoting Traditional Environmental Knowledges in wildfire resilience, and establishing wildfire safety for tribal communities.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Employment, Labor & Training",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-08",
+      "closeDate": "2026-09-08",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/tribal-wildfire-resilience"
+    },
+    {
+      "id": "184494",
+      "title": "2026-27 Student Trauma Notification (TN) Program",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "The purpose of the Program is to create school district notification systems designed to decrease the negative impacts on children who are exposed to violence and trauma by improving communication and collaboration between first responders, schools, and community resources.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-07",
+      "closeDate": "2026-09-10",
+      "amountMin": 1,
+      "amountMax": 214999,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "164058",
+      "title": "2026 Dairy Plus Program",
+      "agency": "CA Department of Food and Agriculture",
+      "summary": "The California Department of Food and Agriculture (CDFA) Office of Agricultural Resilience and Sustainability (OARS) 2026 Dairy Plus Program will award competitive grants to California dairy farms for the implementation of advanced manure management practices that address both methane emissions and nitrogen and salt surplus.",
+      "categories": [
+        "Agriculture",
+        "Animal Services",
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-16",
+      "closeDate": "2026-09-14",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cdfa.ca.gov/oars/dairyplus/docs/2026/2026_DairyPlus_RGA.pdf"
+    },
+    {
+      "id": "184500",
+      "title": "FY 2026-27 Bullying and Violence in School Advocacy (XB) Program Supplemental",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "The purpose of the Program is to provide counseling, advocacy, and other support services to children/teenagers who have been victimized by bullying and /or school violence.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-07",
+      "closeDate": "2026-09-14",
+      "amountMin": 1,
+      "amountMax": 127500,
+      "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "161955",
+      "title": "Song-Brown Certified Nurse Midwifery (CNM) Training Programs 2026 Application",
+      "agency": "Department of Health Care Access and Information",
+      "summary": "The Song-Brown program funds institutions that train primary care health professionals to provide healthcare in California’s medically underserved areas.",
+      "categories": [
+        "Education",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-02-23",
+      "closeDate": "2026-09-23",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/certified-nurse-midwifery-cnm/"
+    },
+    {
+      "id": "161952",
+      "title": "Song Brown Family Nurse Practitioner and Physician Assistant (FNP & PA) 2026 Application",
+      "agency": "Department of Health Care Access and Information",
+      "summary": "The Song-Brown program funds institutions that train primary care health professionals to provide healthcare in California’s medically underserved areas.",
+      "categories": [
+        "Education",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-02-24",
+      "closeDate": "2026-09-23",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/family-nurse-practitioner-physician-assistant-fnp-pa/"
+    },
+    {
+      "id": "173694",
+      "title": "Community Resilience Centers Round 2 IMPLEMENTATION Grant (FY 26-27)",
+      "agency": "Strategic Growth Council",
+      "summary": "The Community Resilience Centers Program (CRC) funds planning, development, construction, and upgrades of local facilities to serve as Community Resilience Centers, providing shelter and resources during climate and other emergencies. The program will also fund ongoing year-round community services and programs that build overall community resilience.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Education",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Libraries and Arts",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-02",
+      "closeDate": "2026-09-25",
+      "amountMin": 1000000,
+      "amountMax": 10000000,
+      "applyUrl": "https://sgc.ca.gov/grant-programs/crc/application/"
+    },
+    {
+      "id": "98154",
+      "title": "2025 Tribal Multifamily Finance Super Notice of Funding Availability",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The Department announces the availability of approximately $50 million in funds available through this first round of the Tribal Multifamily Finance Super Notice of Funding Availability (Tribal MFSN). This NOFA makes funds more easily accessible to Tribes and Tribal Entities and provides flexible options to address the unique needs of Indian communities to…",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-04-01",
+      "closeDate": "2026-09-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/tribal-multifamily-finance-super-nofa"
+    },
+    {
+      "id": "173037",
+      "title": "Transformative Climate Communities Round 6 PLANNING Grant (FY 25-26)",
+      "agency": "Strategic Growth Council",
+      "summary": "The Transformative Climate Communities Program furthers the purposes of AB 32 (Nunez, 2006) and AB 2722 (Burke, 2016) by funding projects that reduce greenhouse gas emissions (GHG) through the development and implementation of neighborhood-level transformative climate community plans that include multiple coordinated GHG emissions reduction projects that…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-29",
+      "closeDate": "2026-09-30",
+      "amountMin": 300000,
+      "amountMax": 300000,
+      "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
+    },
+    {
+      "id": "173232",
+      "title": "Transformative Climate Communities Round 6 PROJECT DEVELOPMENT Grant (FY 25-26)",
+      "agency": "Strategic Growth Council",
+      "summary": "The TCC Program furthers the purposes of AB 32 (Nunez, 2006) and AB 2722 (Burke, 2016) by funding projects that reduce greenhouse gas emissions (GHG) through the development and implementation of neighborhood-level transformative climate community plans that include multiple coordinated GHG emissions reduction projects that provide local economic,…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-29",
+      "closeDate": "2026-09-30",
+      "amountMin": 1,
+      "amountMax": 5000000,
+      "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
+    },
+    {
+      "id": "173241",
+      "title": "Transformative Climate Communities Round 6 IMPLEMENTATION Grant (FY 25-26)",
+      "agency": "Strategic Growth Council",
+      "summary": "The TCC Program furthers the purposes of AB 32 (Nunez, 2006) and AB 2722 (Burke, 2016) by funding projects that reduce greenhouse gas emissions (GHG) through the development and implementation of neighborhood-level transformative climate community plans that include multiple coordinated GHG emissions reduction projects that provide local economic,…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-29",
+      "closeDate": "2026-09-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
+    },
+    {
+      "id": "163098",
+      "title": "Farm and Ranch Solid Waste Cleanup and Abatement Grant Program FR92",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The Farm & Ranch Solid Waste Clean Up & Abatement Grant program provides funding for cleaning up and preventing illegal dumping on agricultural properties (CCR, Section 17991(d)). Each fiscal year has four application cycles, with the fourth serving as the pilot cycle. Cycle 92 (FR92) is the second cycle.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-09",
+      "closeDate": "2026-10-07",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
+    },
+    {
+      "id": "161958",
+      "title": "Song Brown Registered Nurse Education Programs (RN) 2026 Application",
+      "agency": "Department of Health Care Access and Information",
+      "summary": "The Song-Brown program funds institutions that train primary care health professionals to provide healthcare in California’s medically underserved areas.",
+      "categories": [
+        "Education",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-02-24",
+      "closeDate": "2026-10-22",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/registered-nurse-rn/"
+    },
+    {
+      "id": "184092",
+      "title": "2026-27 Digital Divide Grant Program Round 4",
+      "agency": "Public Utilities Commission",
+      "summary": "The Digital Divide Grant Program will award one grant of $100,000 for rural and urban public schools and two grants of up to $50,000 each for non-profit Community Based Organizations (CBO). The grants will fund digital projects that serve beneficiary public schools/districts and non-profit Community Organizations.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Housing, Community and Economic Development",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-06",
+      "closeDate": "2026-10-30",
+      "amountMin": 50000,
+      "amountMax": 100000,
+      "applyUrl": "https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/california-teleconnect-fund/digital-divide-grant-program"
+    },
+    {
+      "id": "187065",
+      "title": "Local Highway Safety Improvement Program (HSIP)",
+      "agency": "Department of Transportation",
+      "summary": "Achieve a significant reduction in traffic fatalities and serious injuries on all local public roads.",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-10",
+      "closeDate": "2026-11-02",
+      "amountMin": 100000,
+      "amountMax": 10000000,
+      "applyUrl": "https://dot.ca.gov/programs/local-assistance/fed-and-state-programs/highway-safety-improvement-program/apply-now"
+    },
+    {
+      "id": "152751",
+      "title": "2025–26 After School Education and Safety grant program (Round 2)",
+      "agency": "CA Department of Education",
+      "summary": "The purpose of the After School Education and Safety Program is to create incentives for establishing locally-driven Expanded Learning programs, including after school programs that partner with public schools and communities to provide academic and literacy support, and safe, constructive alternatives for youth.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-11-05",
+      "closeDate": "2026-12-03",
+      "amountMin": 50000,
+      "amountMax": 203500,
+      "applyUrl": "https://www.cde.ca.gov/fg/fo/r27/ases25rfaround2.asp"
+    },
+    {
+      "id": "83138",
+      "title": "Permanent Local Housing Allocation/ 2024 PLHA NOFA",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The principal goal of this program is to make funding available to eligible Local Governments in California for housing-related projects and programs that assist in addressing the unmet housing needs of their local communities.",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-09-30",
+      "closeDate": "2027-02-28",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/programs-active/permanent-local-housing-allocation"
+    },
+    {
+      "id": "11447",
+      "title": "Permanent Local Housing Allocation/ 2022 PLHA NOFA",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The principal goal of this program is to make funding available to eligible Local Governments in California for housing-related projects and programs that assist in addressing the unmet housing needs of their local communities.",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-04-30",
+      "closeDate": "2027-02-28",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/programs-active/permanent-local-housing-allocation"
+    },
+    {
+      "id": "57630",
+      "title": "Permanent Local Housing Allocation/ 2023 PLHA NOFA",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The principal goal of this program is to make funding available to eligible Local Governments in California for housing-related projects and programs that assist in addressing the unmet housing needs of their local communities.",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-12-29",
+      "closeDate": "2027-06-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/programs-active/permanent-local-housing-allocation"
+    },
+    {
+      "id": "182694",
+      "title": "Division of Boating and Waterways Local Assistance Pumpout/Dump Station/Floating Restroom Operation and Maintenance Grant FY26",
+      "agency": "Department of Parks and Recreation",
+      "summary": "This grant provides resources for keeping boater sewage from California waterways.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-01",
+      "closeDate": "2027-06-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "http://dbw.parks.ca.gov/?page_id=28820"
+    },
+    {
+      "id": "182706",
+      "title": "Division of Boating and Waterways Local Assistance Pumpout/Dump Station Installation Grant FY26",
+      "agency": "Department of Parks and Recreation",
+      "summary": "This grant provides resources for keeping boater sewage from California waterways.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-01",
+      "closeDate": "2027-06-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "http://dbw.parks.ca.gov/?page_id=28820"
+    },
+    {
+      "id": "184101",
+      "title": "Proposition 4 – Water Recycling",
+      "agency": "State Water Resources Control Board",
+      "summary": "The purpose of the funding is to provide technical and financial assistance to local agencies for the construction of water recycling projects that promote the beneficial use of treated municipal wastewater in order to augment fresh water supplies in California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-07-06",
+      "closeDate": "2030-06-30",
+      "amountMin": 1,
+      "amountMax": 15000000,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/2026/draft-2026-27-cwsrf-iup-comments.pdf"
+    },
+    {
+      "id": "37277",
+      "title": "2023 Homekey Tribal NOFA",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The Department announces the availability of $75 million of Homekey Program grant funding through this Round 3 Notice of Funding Availability (NOFA) for Tribal Entities. This NOFA aims to sustain and rapidly expand housing for households experiencing homelessness or At Risk of Homelessness, and who are, thereby, inherently impacted by or at increased risk…",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-07-05",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/homekey/2023-hk-tribal-nofa.pdf"
+    },
+    {
+      "id": "175863",
+      "title": "2024 Credit Enhancement",
+      "agency": "State Treasurer's Office",
+      "summary": "The program is to award grants to eligible entities that help charter schools address the cost of acquiring, constructing and renovating facilities by enhancing the accessibility and availability of loans and bond financing.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-10-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/enhancement"
+    },
+    {
+      "id": "76086",
+      "title": "2024 LHTF NOFA Round 5",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The principal goal of this program is to provide grants to Local Housing Trust Funds established by cities and counties, Native American Tribes, and incorporated 501(c)(3) nonprofit organizations to increase the supply of housing to households with incomes of 80 percent or less of area median income.",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-07-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/programs-active/local-housing-trust-fund"
+    },
+    {
+      "id": "129153",
+      "title": "2025 Multifamily Finance Super NOFA – Los Angeles",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The 2025 Multifamily Finance Super NOFA - Los Angeles Disaster makes funds more accessible to developers enables the funding to further serve the lowest income Californians and increases the range of potential applicants and target populations to achieve better outcomes in health, climate, and household stability.",
+      "categories": [
+        "Disaster Prevention & Relief",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Los Angeles"
+      ],
+      "openDate": "2025-08-22",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/supernofa"
+    },
+    {
+      "id": "5302",
+      "title": "Airport Improvement Program Matching Grant",
+      "agency": "Department of Transportation",
+      "summary": "Provides airport sponsor's a portion of the local match required for a Federal Aviation Administration Airport Improvement Program (AIP) grant to eligible public-use general aviation airports.",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-01-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dot.ca.gov/programs/aeronautics/airport-improvement-program-matching-grant"
+    },
+    {
+      "id": "149622",
+      "title": "Baldwin Hills & Urban Watersheds Conservancy (BH UWC) Consolidated Grant Program",
+      "agency": "Baldwin Hills & Urban Watersheds Conservancy",
+      "summary": "The BH UWC Consolidated Grant Program streamlines administration of State funds, aligning with the Cutting Green Tape initiative. Centered on Embedding Equity, it funds high-impact projects that advance conservation, climate resilience, and Access for All through Planning, Implementation, Acquisition, and Stewardship & Community Access Grants that deliver…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-10-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://bhc.ca.gov/grants/"
+    },
+    {
+      "id": "171510",
+      "title": "Baldwin Hills & Urban Watersheds Conservancy (BH UWC) Proposition 4: Community and Climate Resilience Grant Program",
+      "agency": "Baldwin Hills & Urban Watersheds Conservancy",
+      "summary": "The Baldwin Hills & Urban Watersheds Conservancy Proposition 4: Community and Climate Resilience Grant Program aim to award projects and programs that protect biodiversity; restore watershed function; and expand equitable access to parks and open space.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-25",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://bhc.ca.gov/wp-content/uploads/2026/01/BH-UWC-Prop-4-Grant-Guidelines_RM_1_6_25_RM.pdf"
+    },
+    {
+      "id": "141033",
+      "title": "Beet Curly Top Virus Control Program Grants",
+      "agency": "CA Department of Food and Agriculture",
+      "summary": "The Program may consider funding projects that develop new management methods for treating the beet leafhopper (BLH), or development of enhancements to other program areas that will mitigate the virus. The funding will be based on the researcher using a no pesticide alternative or Department of Pesticide Regulation (DPR) approved pesticides registered for…",
+      "categories": [
+        "Agriculture",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-07-17",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 190000,
+      "applyUrl": "https://www.cdfa.ca.gov/plant/ipc/curlytopvirus/ctv_hp.htm"
+    },
+    {
+      "id": "6325",
+      "title": "Brownfields Revolving Loan Fund (RLF) Grant Program",
+      "agency": "Department of Toxic Substances Control",
+      "summary": "The Revolving Loan Fund (RLF) Grant Program purpose is to help facilitate assessing and cleaning up contaminated sites by granting funds to nonprofits, tribal entitles, and local governments.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2021-12-22",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dtsc.ca.gov/revolving-loan-fund-rlf-program/"
+    },
+    {
+      "id": "11714",
+      "title": "California Forest Improvement Program",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "The purpose of the California Forest Improvement Program (CFIP) is to encourage private and public investment in, and improved management of, California forest lands and resources, to ensure adequate high quality timber supplies, related employment and other economic benefits, and the protection, maintenance, and enhancement of a productive and stable forest…",
+      "categories": [
+        "Agriculture",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "other",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-07-12",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/california-forest-improvement"
+    },
+    {
+      "id": "164595",
+      "title": "California National Archery in the Schools Program 2026 (CalNASP) Equipment Grant",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "CalNASP is an affiliate of the National Archery in the Schools Program (NASP™)—a non-profit, international style archery program dedicated to providing students in grades 4-12 the opportunity to learn and participate in target archery.The California Department of Fish and Wildlife (CDFW) oversees the CalNASP program and trains teachers to use NASP certified…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-05-06",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Learning/CALNASP"
+    },
+    {
+      "id": "1848",
+      "title": "California Pollution Control Financing Authority (CPCFA) Exempt Facility Bond Financing Program",
+      "agency": "State Treasurer's Office",
+      "summary": "The Pollution Control Tax-Exempt Bond Financing Program facilitates low cost capital through private activity, tax-exempt bonds. The securities pay for acquisition, construction or installation of qualified pollution control, water furnishing, waste disposal, waste recovery facilities and equipment.",
+      "categories": [
+        "Energy",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-09",
+      "closeDate": null,
+      "amountMin": 1500000,
+      "amountMax": 550000000,
+      "applyUrl": "https://www.treasurer.ca.gov/cpcfa/tax_exempt.asp"
+    },
+    {
+      "id": "130791",
+      "title": "Cannabis Research and Innovation Funding Opportunity (RIFO)",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "CDFW seeks high quality grant proposals that facilitate environmental sustainability of legal cannabis cultivation and addresses environmental impacts related to cannabis cultivation. Grants are provided through the Environmental Restoration and Protection Account pursuant to Revenue and Taxation Code section 34019(f)(2)(A).",
+      "categories": [
+        "Agriculture",
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-07-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Conservation/Cannabis/Restoration-Grants"
+    },
+    {
+      "id": "1662",
+      "title": "CEFA Bond Financing Program",
+      "agency": "State Treasurer's Office",
+      "summary": "This program will provide a borrower with access to low interest rate capital markets through the issuance of tax-exempt and taxable revenue bonds.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-06",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 5000000000,
+      "applyUrl": "https://www.treasurer.ca.gov/cefa/bond.asp"
+    },
+    {
+      "id": "141402",
+      "title": "Charter Access Bank Loan Enhancement Program (Charter ABLE)",
+      "agency": "State Treasurer's Office",
+      "summary": "Aimed to assist charter schools lower costs to access facility acquisition, renovation, and construction financing.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2021-03-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/charter-able"
+    },
+    {
+      "id": "141396",
+      "title": "Charter FinE Enhancement (Charter FinE) Program",
+      "agency": "State Treasurer's Office",
+      "summary": "Aimed to assist charter schools lower costs to access facility acquisition, renovation, and construction financing.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-10-12",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/charter-fine-program"
+    },
+    {
+      "id": "1941",
+      "title": "Charter School Facilities Credit Enhancement Grant Program",
+      "agency": "State Treasurer's Office",
+      "summary": "The federally-funded Charter School Facilities Credit Enhancement Grant Program provides grants to fully or partially fund debt service reserve accounts on bond transactions issued through the Authority. The grant is intended to reduce the overall cost of borrowing for charter schools as it eliminates the need to fund the reserve through bond proceeds.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2009-07-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/enhancement/index.asp"
+    },
+    {
+      "id": "157089",
+      "title": "Charter School Facilities Incentive Grants Program",
+      "agency": "State Treasurer's Office",
+      "summary": "The State Charter School Incentive Grant Program funds are applied toward a charter school’s annual costs of rent, lease, mortgage, debt service, or Proposition 39 pro-rata payments for facilities, or towards the costs of purchase, design, construction, and/or renovation of a new or existing facility.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-05-12",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/incentive.asp"
+    },
+    {
+      "id": "1944",
+      "title": "Charter School Facilities Program (CSFP)",
+      "agency": "State Treasurer's Office",
+      "summary": "Through the passage of Propositions 47, 55, 1D, and most recently, 51, $1.4 billion has been made available to charter schools for construction of new facilities or rehabilitation of existing school district facilities. CSFP provides low-cost financing for charter school facilities; 50% grant, 50% loan.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2002-11-05",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/charter.asp"
+    },
+    {
+      "id": "1935",
+      "title": "Charter School Facility Grant Program – (SB740)",
+      "agency": "State Treasurer's Office",
+      "summary": "To provide financial assistance for charter school facilities.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2013-07-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/csfgp/index.asp"
+    },
+    {
+      "id": "1584",
+      "title": "CHFFA Bond Financing Program",
+      "agency": "State Treasurer's Office",
+      "summary": "This program will provide a borrower with access to low interest rate capital markets through the issuance of tax-exempt and taxable revenue bonds.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-07",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 5000000000,
+      "applyUrl": "https://www.treasurer.ca.gov/chffa/programs/bond.asp"
+    },
+    {
+      "id": "46016",
+      "title": "CHFFA Commercial Paper Program",
+      "agency": "State Treasurer's Office",
+      "summary": "This program will provide a borrower with access to low interest rate capital markets through the issuance of tax-exempt and taxable commercial paper notes.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-09-13",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 5000000000,
+      "applyUrl": "https://www.treasurer.ca.gov/chffa/programs/bond.asp"
+    },
+    {
+      "id": "16307",
+      "title": "Children's Hospital Program of 2008 – Children's Hospitals (3rd funding round)",
+      "agency": "State Treasurer's Office",
+      "summary": "The purpose of the program is to improve the health and welfare of California's critically ill children, by providing a stable and ready source of funds for capital improvement projects for children's hospitals.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-07-01",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 9679509,
+      "applyUrl": "https://www.treasurer.ca.gov/chffa/hospital.asp"
+    },
+    {
+      "id": "1596",
+      "title": "Children's Hospital Program of 2018 -Children's Hospitals",
+      "agency": "State Treasurer's Office",
+      "summary": "The purpose of the program is to improve the health and welfare of California’s critically ill children, by providing a stable and ready source of funds for capital improvement projects for children's hospitals.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-02-22",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 135000000,
+      "applyUrl": "https://www.treasurer.ca.gov/chffa/hospital.asp"
+    },
+    {
+      "id": "1647",
+      "title": "Civil Money Penalty Reinvestment Grant",
+      "agency": "Department of Public Health",
+      "summary": "This grant allows applicants to apply for funding to implement programs for improving Skilled Nursing Facility residents' quality of life. Projects may span topics such as training, culture change and direct improvements to quality of life, direct improvements to quality of care, and other applicable topics.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-15",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CitationPenaltyAccountsReports.aspx"
+    },
+    {
+      "id": "1104",
+      "title": "Clean Water State Revolving Fund (CWSRF) Program",
+      "agency": "State Water Resources Control Board",
+      "summary": "Under federal and state law the primary purpose of the CWSRF Program is to provide financing for eligible projects to restore and maintain water quality in the state. The SWRCB also seeks to reduce the effects of climate change and to promote sustainable water resources for future generations.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-08",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/index.html"
+    },
+    {
+      "id": "1614",
+      "title": "Cleanup Loans and Environmental Assistance to Neighborhoods (CLEAN) Program",
+      "agency": "Department of Toxic Substances Control",
+      "summary": "Department of Toxic Substances Control's (DTSC) CLEAN Program helps developers, businesses, schools, and local governments accelerate the pace of assessment, cleanup, and redevelopment at abandoned and underutilized urban brownfield sites in California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-14",
+      "closeDate": null,
+      "amountMin": 2500000,
+      "amountMax": 2500000,
+      "applyUrl": "https://dtsc.ca.gov/clean-and-iscp-programs/"
+    },
+    {
+      "id": "15767",
+      "title": "Cleanup, Remediation, and Watershed Enhancement Funding Opportunity",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "CDFW seeks high quality grant proposals that support the enhancement of watersheds and communities in areas impacted by cannabis cultivation. Grants are provided through the Environmental Restoration and Protection Account pursuant to Revenue and Taxation Code section 34019(f)(2)(A).",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-01-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Conservation/Watersheds/Cannabis-Restoration-Grant"
+    },
+    {
+      "id": "83018",
+      "title": "Climate Adaptation and Resiliency",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Climate Adaptation and Resiliency Program was created by AB109, which amended the Budget Act of 2017 to provide local assistance through the Wildlife Conservation Board for conservation projects focusing on resilience to projected climate impacts.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "162927",
+      "title": "Coachella Valley Mountains Conservancy Proposition 4 Nature Based Solutions and Climate Adaptation Grant Program",
+      "agency": "Coachella Valley Mountains Conservancy",
+      "summary": "The program makes grants to address climate resilience and nature-based solutions in conservation lands and improve sustainability in the Coachella Valley.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-03-13",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://cvmc.ca.gov/grants/"
+    },
+    {
+      "id": "1920",
+      "title": "Coachella Valley Open Space Acquisition Program",
+      "agency": "Coachella Valley Mountains Conservancy",
+      "summary": "Acquire open space to protect wildlife or cultural resources and enhance recreational and educational use of that land.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-15",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "http://www.cvmc.ca.gov/"
+    },
+    {
+      "id": "1938",
+      "title": "Coachella Valley Proposition 68 Parks, Conservation Land Access and Climate Change Response Grant Program",
+      "agency": "Coachella Valley Mountains Conservancy",
+      "summary": "The program makes grants to expand recreational and educational use of conservation lands and improve sustainability in the Coachella Valley.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-15",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "http://www.cvmc.ca.gov/"
+    },
+    {
+      "id": "1683",
+      "title": "Coastal Conservancy Grants",
+      "agency": "Coastal Conservancy",
+      "summary": "Each year, the Coastal Conservancy issues millions of dollars in grants for projects that restore and protect the California coast, expand public access to it, and enhance its resilience to climate change. We fund a wide variety of projects along the California coast, San Francisco Bay, and in coastal watersheds.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "San Francisco"
+      ],
+      "openDate": "2020-07-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://scc.ca.gov/grants/"
+    },
+    {
+      "id": "2184",
+      "title": "Community and Economic Enhancement Grant Program – Proposition 68",
+      "agency": "Sacramento-San Joaquin Delta Conservancy",
+      "summary": "This non-competitive grant program focuses on increasing public access to the Delta through recreation and tourism opportunities, historic and cultural preservation, and environmental education in order to promote a robust Delta economy.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Sacramento",
+        "San Joaquin"
+      ],
+      "openDate": "2020-07-14",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "http://deltaconservancy.ca.gov/proposition-68"
+    },
+    {
+      "id": "81941",
+      "title": "Cost Share for Federal Clean Energy Funding Opportunities-EPIC Program",
+      "agency": "CA Energy Commission",
+      "summary": "The purpose is to provide cost share funding to applicants that apply for and receive one of the following: An award under an eligible federal Funding Opportunity Announcement (FOA) and meet the requirements of this solicitation, or Follow-on funding from the U.S.",
+      "categories": [
+        "Energy",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "individual",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-10-29",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.energy.ca.gov/solicitations/2022-03/gfo-21-901-cost-share-federal-clean-energy-funding-opportunities"
+    },
+    {
+      "id": "25793",
+      "title": "Cost Share for Federal Funding Opportunities Carbon Removal Innovation Support System (CRISP)",
+      "agency": "CA Energy Commission",
+      "summary": "This solicitation only applies to the Carbon Removal Innovation Support Program (CRISP) for projects that meet the requirements in Section II.C and the applicable federal Funding Opportunity Announcement.",
+      "categories": [
+        "Energy"
+      ],
+      "applicantTypes": [
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-03-16",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.energy.ca.gov/solicitations/2023-02/gfo-22-901-cost-share-federal-clean-energy-funding-opportunities-carbon"
+    },
+    {
+      "id": "29966",
+      "title": "Cost Share for Federal Funding Opportunities Clean Hydrogen Program",
+      "agency": "CA Energy Commission",
+      "summary": "The purpose of this solicitation is to provide cost share funding for eligible projects (see Section II.C. of GFO-22-903) to applicants that apply for and receive an award under an eligible federal Funding Opportunity Announcement (FOA).",
+      "categories": [
+        "Energy",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-05-23",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.energy.ca.gov/solicitations/2023-05/gfo-22-903-cost-share-federal-funding-opportunities-clean-hydrogen-program"
+    },
+    {
+      "id": "27053",
+      "title": "Cost Share for Federal Funding Opportunities Industrial Decarbonization and Improvement of Grid Operations (INDIGO) Program and Food Production Investment Program (FPIP)",
+      "agency": "CA Energy Commission",
+      "summary": "An award under an eligible federal Funding Opportunity Announcement (FOA) for a project that meets the requirements of this solicitation, or Subsequent funding from the U.S. Department of Energy to continue research from a previously awarded federal grant that also received Energy Commission federal cost share funding under GFO-21-901 or this GFO…",
+      "categories": [
+        "Energy"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-03-27",
+      "closeDate": null,
+      "amountMin": 500000,
+      "amountMax": 5000000,
+      "applyUrl": "https://www.energy.ca.gov/solicitations/2023-03/gfo-22-902-cost-share-federal-funding-opportunities-industrial"
+    },
+    {
+      "id": "175263",
+      "title": "Cost-Share for Federal Geothermal Energy Funding Opportunities",
+      "agency": "CA Energy Commission",
+      "summary": "This solicitation is issued under the Geothermal Grant and Loan Program (Geothermal Program). The purpose of this solicitation is to provide CEC cost-share funding for applicants who apply for and receive an award under an eligible federal Funding Opportunity Announcement (FOA) and meet the requirements of this solicitation.",
+      "categories": [
+        "Energy",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-06-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.energy.ca.gov/solicitations/2026-06/gfo-25-902-cost-share-federal-geothermal-energy-funding-opportunities"
+    },
+    {
+      "id": "11498",
+      "title": "County-wide and Regional Funding Program",
+      "agency": "State Water Resources Control Board",
+      "summary": "The State Water Resources Control Board (State Water Board) has identified a need for regional programs that address drought related and contamination issues for state small water systems (state smalls) and domestic wells serving disadvantaged communities (DACs) and low-income households.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-08-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/safer/funding_solicitation.html"
+    },
+    {
+      "id": "171777",
+      "title": "Dam Safety and Climate Resilience Local Assistance",
+      "agency": "Department of Water Resources",
+      "summary": "Senate Bill 122 added Part 4, Section 6700 to the Water Code to create a new program, the Dam Safety and Climate Resilience Local Assistance Program, within DWR for the purpose of providing state funding for repairs, rehabilitation, enhancements, and other dam safety projects at existing state jurisdictional dams and associated facilities that were in…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": null,
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://water.ca.gov/Work-With-Us/Grants-And-Loans/Dam-Safety-and-Enhancements-Program"
+    },
+    {
+      "id": "150465",
+      "title": "Department of Defense and State Memorandum of Agreement (DSMOA)",
+      "agency": "Department of Toxic Substances Control",
+      "summary": "To accomplish services sought by the Department of Defense (DoD) to provide expedited review and other related services to execute the Defense Environmental Restoration Program (DERP) at identified DoD installations.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-05-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dtsc.ca.gov/"
+    },
+    {
+      "id": "83081",
+      "title": "Desert Conservation Program",
+      "agency": "Wildlife Conservation Board",
+      "summary": "As a result of efforts undertaken by individuals and entities with a strong interest in protecting the Mojave and Colorado Deserts, Assembly Bill 1183, now known as the California Desert Conservation Act, was approved by Governor Gavin Newsom on September 28, 2021.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Programs/Desert"
+    },
+    {
+      "id": "1053",
+      "title": "Drinking Water State Revolving Fund (DWSRF) Construction",
+      "agency": "State Water Resources Control Board",
+      "summary": "The Drinking Water State Revolving Fund (DWRSF) program assists public water systems in financing the cost of drinking water infrastructure projects needed to achieve or maintain compliance with Safe Drinking Water Act (SDWA) requirements and support to human right to water.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-08",
+      "closeDate": null,
+      "amountMin": 2000000,
+      "amountMax": 10000000,
+      "applyUrl": "https://www.waterboards.ca.gov/drinking_water/services/funding/SRF.html"
+    },
+    {
+      "id": "1044",
+      "title": "Drinking Water State Revolving Fund (DWSRF) Planning",
+      "agency": "State Water Resources Control Board",
+      "summary": "The Drinking Water State Revolving Fund (DWRSF) program assists public water systems in financing the cost of drinking water infrastructure projects needed to achieve or maintain compliance with Safe Drinking Water Act (SDWA) requirements and support to human right to water.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-07",
+      "closeDate": null,
+      "amountMin": 250000,
+      "amountMax": 500000,
+      "applyUrl": "https://www.waterboards.ca.gov/drinking_water/services/funding/SRF.html"
+    },
+    {
+      "id": "1107",
+      "title": "Emergency Drinking Water / Cleanup & Abatement Account Programs",
+      "agency": "State Water Resources Control Board",
+      "summary": "The Cleanup and Abatement Account (CAA) funds may be utilized to fund: (1) projects that clean up and/or abate the effects of a waste on waters of the State, or (2) projects that address urgent drinking water needs.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-08",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/urgent_water_needs.html"
+    },
+    {
+      "id": "157350",
+      "title": "Empty Glass Beverage Transportation Grant Program, FY 2026-27",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The fundamental goal of the Empty Glass Beverage Transportation Grant Program is to facilitate the transportation of empty glass beverage containers to glass processing facilities through the use of rail transportation within California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-02-11",
+      "closeDate": null,
+      "amountMin": 500000,
+      "amountMax": 4000000,
+      "applyUrl": "https://calrecycle.ca.gov/bevcontainer/grants/egt/"
+    },
+    {
+      "id": "1671",
+      "title": "Explore the Coast Overnight",
+      "agency": "Coastal Conservancy",
+      "summary": "The Explore the Coast Overnight Program aims to create more opportunities for all Californians to stay overnight at the coast through the expansion or construction of hotels, motels, hostels, campgrounds, RV campgrounds, cabins, yurts, dorm rooms, and others.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-06",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "http://scc.ca.gov/grants"
+    },
+    {
+      "id": "83009",
+      "title": "Forest Conservation",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Forest Conservation Program supports planning, acquisition, and restoration projects throughout California’s forests, consistent with the Board's Strategic Plan.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "9746",
+      "title": "GFO-21-901 – Cost Share for Federal Clean Energy Funding Opportunities",
+      "agency": "CA Energy Commission",
+      "summary": "To provide cost share funding to applicants that apply for and receive one of the following: An award under an eligible federal Funding Opportunity Announcement (FOA) and meet the requirements of this solicitation, or Follow-on funding from the U.S.",
+      "categories": [
+        "Energy"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-03-22",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.energy.ca.gov/"
+    },
+    {
+      "id": "80633",
+      "title": "Grants and Cooperative Agreements Program (GCA)- G25",
+      "agency": "Department of Parks and Recreation",
+      "summary": "The Grants and Cooperative Agreements (GCA) Program provides for well managed Off-Highway Vehicle (OHV) Recreation by providing financial assistance to eligible agencies and organizations that develop, maintain, operate, expand, support, or contribute to well managed, high-quality, OHV Recreation areas, roads, and trails, and to responsibly maintain the…",
+      "categories": [
+        "Education",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-02-04",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://ohv.parks.ca.gov/?page_id=30524"
+    },
+    {
+      "id": "3309",
+      "title": "Greenhouse Gas Reduction Loan Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The GHG Reduction Loan Program provides funds to support new or expanded organics infrastructure, such as composting and anaerobic digestion facilities, as well as for facilities that manufacture fiber, plastic or glass waste materials into beneficial products.",
+      "categories": [
+        "Energy",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-08-03",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calrecycle.ca.gov/funding/ghgloans/"
+    },
+    {
+      "id": "83006",
+      "title": "Habitat Enhancement and Restoration",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The purpose of this program is to provide assistance for the restoration and enhancement of fish and wildlife resources.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "4310",
+      "title": "Hazard Mitigation Grant Program",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "Hazard Mitigation Grant Program (HMGP) funds plans and projects that reduce the effects of future natural disasters. In California, these funds are administered by the Cal OES HMGP Unit. Eligible subapplicants include state agencies, local governments, special districts, and some private non-profits.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-01-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.caloes.ca.gov/office-of-the-director/operations/recovery-directorate/hazard-mitigation/"
+    },
+    {
+      "id": "1641",
+      "title": "Healthcare Expansion Loan Program II (HELP II)",
+      "agency": "State Treasurer's Office",
+      "summary": "This program will provide low-interest rate loans to California's non-profit small or rural health facilities in an efficient, timely, and cost-effective manner.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "individual",
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-06",
+      "closeDate": null,
+      "amountMin": 25000,
+      "amountMax": 1500000,
+      "applyUrl": "https://www.treasurer.ca.gov/chffa/programs/help.asp"
+    },
+    {
+      "id": "164586",
+      "title": "HOME Investment Partnerships Program (HOME) 2024 Program Activities reopened NOFA",
+      "agency": "Department of Housing and Community Development",
+      "summary": "The state HOME program provides funding for housing rehabilitation, new construction, and acquisition and rehabilitation for multifamily projects; new construction and down payment assistance for single-family projects; first-time homebuyer down payment assistance, owner-occupied rehabilitation and tenant-based rental assistance programs; and predevelopment…",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-04-08",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/programs-active/home-investment-partnerships-program"
+    },
+    {
+      "id": "2001",
+      "title": "Infrastructure State Revolving Fund (ISRF) Program",
+      "agency": "Infrastructure and Economic Development Bank",
+      "summary": "IBank's ISRF Loan Fund program provides low-cost, direct loans to local governments and nonprofits sponsored by public agencies for a wide variety of public infrastructure and economic expansion projects (excluding housing) that improve and sustain communities, helping individuals and families thrive.",
+      "categories": [
+        "Energy",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Libraries and Arts",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-13",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://ibank.ca.gov/infrastructure-state-revolving-fund-isrf-program/"
+    },
+    {
+      "id": "83003",
+      "title": "Inland Wetlands Conservation",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Inland Wetlands Conservation Program (IWCP) was created to assist the Central Valley Joint Venture (CVJV) in its mission is to protect, restore, and enhance wetlands and associated habitats. The CVJV, a partnership of twenty two public and private organizations and agencies, has identified through its Implementation Plan, specific goals to increase…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "1626",
+      "title": "Investigating Site Contamination Program (ISCP)",
+      "agency": "Department of Toxic Substances Control",
+      "summary": "Department of Toxic Substances Control's (DTSC) ISCP offers loans to eligible applicants, including governmental entities, private businesses, individuals, and non-profit organizations, to help finance environmental site assessments.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-07",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 100000,
+      "applyUrl": "https://dtsc.ca.gov/clean-and-iscp-programs/"
+    },
+    {
+      "id": "104013",
+      "title": "Land Acquisition 2025",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The WCB acquires real property or rights in real property on behalf of the California Department of Fish and Wildlife (CDFW) and can also grant funds to other governmental entities or nonprofit organizations to acquire real property or rights in real property.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-04-22",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "5299",
+      "title": "Local Airport Loan Program",
+      "agency": "Department of Transportation",
+      "summary": "This program provides discretionary State loans to eligible public-use airports for projects that enhance an airport’s ability to provide general aviation services.",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-01-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dot.ca.gov/programs/aeronautics/airport-loans"
+    },
+    {
+      "id": "83084",
+      "title": "Lower American River Conservancy Program",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Program was created to provide a state partner to work cooperatively with local agencies, particularly the County of Sacramento in its role as the manager of the American River Parkway (Parkway) and nonprofit organizations to help fund projects and provide grants to restore, enhance, interpret, protect, and improve public access to the Parkway’s natural,…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Programs/Lower-American-River"
+    },
+    {
+      "id": "83054",
+      "title": "Monarch Butterfly and Pollinator Rescue",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Monarch Butterfly and Pollinator Rescue Program was created by Assembly Bill 2421, and signed into law in 2018 becoming effective immediately. The Program was created for the purpose of recovering and sustaining populations of monarch butterflies and other pollinators.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "86951",
+      "title": "Native American Preparedness Tribal Grant",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The Tribal Preparedness Grant is part of the Office of Spill Prevention and Response Program and supports California Native American tribes in preparing for and enhancing emergency preparedness, response, and recovery efforts while protecting their ancestral lands and communities from oil spills.",
+      "categories": [
+        "Disaster Prevention & Relief",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-01-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/OSPR/Local-Government-Outreach"
+    },
+    {
+      "id": "16238",
+      "title": "Nature Based Solutions – Wildlife Corridors",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "Funding to support connectivity projects that advance multi-benefit and nature-based solutions, consistent with the State Wildlife Action Plan, the California Wildlife Barriers Report, and the Fish Passage Annual Legislative Report.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-12-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Conservation/Watersheds/Restoration-Grants/Concept-Application"
+    },
+    {
+      "id": "82967",
+      "title": "Oak Woodlands Conservation",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Oak Woodlands Conservation Program offers landowners, conservation organizations, cities and counties, an opportunity to obtain funding for projects designed to conserve and restore California's oak woodlands. While the Program is statewide in nature, it provides opportunities to address oak woodland issues on a regional priority basis.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "13877",
+      "title": "Oil Spill Response Equipment Grant",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The objective of the Local Oil Spill Response Equipment Grant Program is to award grants to Native American tribal governments, counties, cities, and special districts in order to pre-position (pre-stage) response equipment to protect economic and environmental resources in the event of an oil spill.",
+      "categories": [
+        "Disaster Prevention & Relief",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-09-02",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/OSPR/Local-Government-Outreach"
+    },
+    {
+      "id": "1059",
+      "title": "Orphan Site Cleanup Fund",
+      "agency": "State Water Resources Control Board",
+      "summary": "The Orphan Site Cleanup Fund (OSCF) is a grant program providing financial assistance to eligible applicants for the cleanup of sites contaminated by leaking petroleum underground storage tanks where there is no financially responsible party, and the applicant is not an eligible claimant to the UST Cleanup Fund.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2014-09-25",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 1000000,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/ustcf/oscf.html"
+    },
+    {
+      "id": "105840",
+      "title": "PON-24-002 – K–12 Energy Efficiency Program (KTEP)",
+      "agency": "CA Energy Commission",
+      "summary": "The Kindergarten through Twelfth Grade Energy Efficiency Program’s (KTEP) goal is to provide zero-interest loans to Kindergarten through Twelfth Grade (K-12) schools in California for energy efficiency retrofits and renewable energy projects.",
+      "categories": [
+        "Education",
+        "Energy"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-04-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.energy.ca.gov/solicitations/2025-04/pon-24-002-k-12-energy-efficiency-program-ktep"
+    },
+    {
+      "id": "1962",
+      "title": "Project Acceleration Notes and Credit Enhancement Alternatives",
+      "agency": "State Treasurer's Office",
+      "summary": "Designed to help provide credit enhancement to facilitate the financing of the purchase, construction, and/or renovation of facilities for California public Charter Schools. Funds awarded under the Program will be used in conjunction with funding provided through the Charter School Facilities Program (CSFP) or the Authority’s Conduit Financing Program…",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2017-07-01",
+      "closeDate": null,
+      "amountMin": 0,
+      "amountMax": 1000000,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/panacea/index.asp"
+    },
+    {
+      "id": "175146",
+      "title": "Prop 4 – Nature-Based Solutions (NBS)",
+      "agency": "San Diego River Conservancy",
+      "summary": "The purposes of Prop 4 include watershed improvement, wildfire resilience, chaparral and forest restoration, and workforce development that addresses needs related to this subdivision and to reduce the risks of climate change impacts upon communities, fish and wildlife, and natural resources, and increase public access.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "San Diego"
+      ],
+      "openDate": "2026-06-08",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://sdrc.ca.gov/proposition-4-2024-climate-bond/"
+    },
+    {
+      "id": "164013",
+      "title": "Prop 4 – Randall Preserve",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Climate impact reduction and outdoor recreation opportunities at Randall Preserve.",
+      "categories": [
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-03-26",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "164031",
+      "title": "Prop 4 – Regional Wildfire",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Regional projects to improve wildfire resilience.",
+      "categories": [
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-04-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "175143",
+      "title": "Prop 4 – Wildfire and Forest Resilience",
+      "agency": "San Diego River Conservancy",
+      "summary": "Protect communities, improve forest health, enhance early detection and response and support long-term capital infrastructure projects.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "San Diego"
+      ],
+      "openDate": "2026-06-08",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://sdrc.ca.gov/proposition-4-2024-climate-bond/"
+    },
+    {
+      "id": "30926",
+      "title": "Proposition 1 – Water Recycling",
+      "agency": "State Water Resources Control Board",
+      "summary": "The purpose of the funding is to provide technical and financial assistance to local agencies for the construction of water recycling projects that promote the beneficial use of treated municipal wastewater in order to augment fresh water supplies in California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-06-06",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/wrfp_guidelines.pdf"
+    },
+    {
+      "id": "66249",
+      "title": "Proposition 1 Delta Water Quality and Ecosystem Restoration Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To fund multi-benefit ecosystem and watershed protection and restoration projects that benefit the Delta.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Sacramento",
+        "San Joaquin"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=183720&inline"
+    },
+    {
+      "id": "79601",
+      "title": "Proposition 1 Lower Los Angeles River Grants",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Priorities for RMC Prop 1 LLAR (Lower LA River) Grants: 1. Ecosystems and watershed protection and restoration projects, 2. Protect and Enhance the LA River 2. Expand access to diverse populations, 4. High-need project implementation RMC’s LLAR Grants are specific to the Lower LA River corridor, considered within 1.5 miles of the main stem or tributary of…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-08-21",
+      "closeDate": null,
+      "amountMin": 50000,
+      "amountMax": 2000000,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "79604",
+      "title": "Proposition 1 Regionwide Grants",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Priorities for RMC Prop 1 Grants: 1. Ecosystems and watershed protection and restoration projects 2. Expand access to diverse populations 3. High-need project implementation",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Los Angeles",
+        "Orange"
+      ],
+      "openDate": "2024-08-21",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "66096",
+      "title": "Proposition 1 Watershed Restoration Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To fund multi-benefit ecosystem and watershed protection and restoration projects.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=183720&inline"
+    },
+    {
+      "id": "32351",
+      "title": "Proposition 13 – Water Recycling – Planning Grant",
+      "agency": "State Water Resources Control Board",
+      "summary": "The purpose of the funding is to provide technical and financial assistance to local agencies for the planning of water recycling projects that promote the beneficial use of treated municipal wastewater in order to augment fresh water supplies in California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-06-07",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 300000,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2023/2023-24-cwsrf-iup.pdf"
+    },
+    {
+      "id": "117507",
+      "title": "Proposition 4 – Nature Based",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "To protect biodiversity or nature, restore landscape health, or achieve California’s climate goals.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "117504",
+      "title": "Proposition 4 – River",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "To protect or restore rivers, wetlands, streams, lakes, or watersheds; improve the resilience of fish and wildlife; or enhance climate resilience, water supply, or water quality.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "154743",
+      "title": "Proposition 4 – Wildfire and Forest Resilience",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Wildfire and Forest Resilience [Section 91520(l)]: may be awarded for projects that promote watershed improvement, wildfire resilience, chaparral and forest restoration, and workforce development that addresses needs related to this subdivision and is designed to create career pathways for individuals from disadvantaged communities, severely disadvantaged…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training",
+        "Environment & Water",
+        "Parks & Recreation",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-12-11",
+      "closeDate": null,
+      "amountMin": 50000,
+      "amountMax": 2000000,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "147945",
+      "title": "Proposition 4 Grant Program",
+      "agency": "Tahoe Conservancy",
+      "summary": "The Conservancy's Proposition 4 program aims to support watershed improvement, forest health biomass utilization, chaparral and forest restoration, and workforce development, and to reduce the risks of climate change impacts upon communities, fish and wildlife, and natural resources, and to increase public access.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Lake"
+      ],
+      "openDate": "2025-09-04",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://tahoe.ca.gov/grants/"
+    },
+    {
+      "id": "164613",
+      "title": "Proposition 4 Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024. Appropriations under Chapter 6 Protect Biodiversity and Accelerating Nature-Based Climate Solutions 93020 to reduce the risks of climate change impacts upon communities, fish and wildlife, and natural resources, and increase public access.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-04-13",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "117501",
+      "title": "Proposition 4 Wildfire",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "To improve local fire prevention capacity, enhance forest health and resilience, or reduce the risk of wildfire spreading from wildlands into populated areas.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "30929",
+      "title": "Proposition 68 – Water Recycling",
+      "agency": "State Water Resources Control Board",
+      "summary": "The purpose of the funding is to provide technical and financial assistance to local agencies for the construction of water recycling projects that promote the beneficial use of treated municipal wastewater in order to augment fresh water supplies in California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-06-06",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/wrfp_guidelines.pdf"
+    },
+    {
+      "id": "66270",
+      "title": "Proposition 68 Fish and Wildlife Improvement Grant Opportunities – (Including Severely Disadvantaged Communities)",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To restore and protect rivers and streams in support of fisheries and wildlife.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=161969&inline"
+    },
+    {
+      "id": "66234",
+      "title": "Proposition 68 Fish and Wildlife Improvement Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To improve conditions for fish and wildlife in streams, rivers, wildlife refuges, wetland habitat areas, and estuaries.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=161969&inline"
+    },
+    {
+      "id": "1896",
+      "title": "Proposition 68 Grant Program",
+      "agency": "Tahoe Conservancy",
+      "summary": "The principal goal of the Conservancy's Prop 68 grant program is to support purposes set forth in the Conservancy's governing statutes and strategic plan, including stewarding Conservancy lands and protecting Basin communities from wildfire; restoring the resilience of Basin forests and watersheds; providing public access and outdoor recreation for all…",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Lake"
+      ],
+      "openDate": "2020-07-10",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://tahoe.ca.gov/grants/"
+    },
+    {
+      "id": "79595",
+      "title": "Proposition 68 Grants for Lower Los Angeles River (LLAR)",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Priorities for RMC Prop 68 Grant Funding: 1. Develop urban recreation projects and habitat protection or restoration projects 2. Provide workforce development opportunities 3. Expand access to diverse populations RMC’s LLAR Grants are specific to the Lower LA River corridor, considered within 1.5 miles of the main stem or tributary of the Lower LA River.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-01-21",
+      "closeDate": null,
+      "amountMin": 10000,
+      "amountMax": 2000000,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "80480",
+      "title": "Proposition 68 LLAR Severely Disadvantaged Communities",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Priorities for RMC LLAR Prop 68: Develop urban recreation projects and habitat protection or restoration projects,Provide workforce development opportunities,Expand access to diverse populations,Secured matching funds RMC’s LLAR Grants are specific to the Lower LA River corridor, considered within 1.5 miles of the main stem or tributary of the Lower LA…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-09-04",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "79598",
+      "title": "Proposition 68 Regionwide Grants",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Create, expand, and/or improve public open space in the RMC's territory by improving water quality supply, create, enhance or improve a reliable water supply and/or restore an important species and habitat.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Los Angeles",
+        "Orange"
+      ],
+      "openDate": "2024-08-21",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "66240",
+      "title": "Proposition 68 Rivers and Streams Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To restore and protect rivers and streams in support of fisheries and wildlife.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=161969&inline"
+    },
+    {
+      "id": "66273",
+      "title": "Proposition 68 Rivers and Streams Grant Program – Klamath-Trinity Watershed",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To restore and protect rivers and streams in support of fisheries and wildlife.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Trinity"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=161969&inline"
+    },
+    {
+      "id": "66237",
+      "title": "Proposition 68 Southern Steelhead Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "To restore Southern California Steelhead habitat consistent with the Department of Fish and Wildlife’s Steelhead Restoration and Management Plan and the National Marine Fisheries Service’s Southern California Steelhead Recovery Plan.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-11-30",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=161969&inline"
+    },
+    {
+      "id": "80483",
+      "title": "Proposition 68 Technical Assistance",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Pursuant to Section 8008(b)(1) of Proposition 68, up to 10% of the funds available may be allocated for technical assistance to disadvantaged communities. RMC’s Technical Assistance Program (TAP) supports local communities with application assistance with the goal of facilitating access to the Conservancy’s funding programs.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-09-05",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "83087",
+      "title": "Public Access",
+      "agency": "Wildlife Conservation Board",
+      "summary": "Wildlife Conservation Board’s Public Access Program’s projects should focus on creating meaningful outdoor experiences for all Californians. Projects should provide public benefits, leverage funding to produce the greatest benefit, and provide access to natural and wild areas.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Programs/Public-Access"
+    },
+    {
+      "id": "3300",
+      "title": "Recycling Market Development Zone Revolving Loan Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The Recycling Market Development Zone (RMDZ) program combines recycling with economic development to fuel new businesses, expand existing ones, create jobs, and divert waste from landfills.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-08-03",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.calrecycle.ca.gov/RMDZ/loans"
+    },
+    {
+      "id": "83000",
+      "title": "Regional Conservation Investment Strategies",
+      "agency": "Wildlife Conservation Board",
+      "summary": "WCB is seeking high-quality grant proposals for the development of RCIS's. CDFW's RCIS program encourages public agencies to develop regional conservation planning documents using the best available science to identify regional conservation priorities and other actions to help California’s species populations that may be vulnerable or declining by…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "1131",
+      "title": "Replacing, Removing, or Upgrading Underground Storage Tanks Grant",
+      "agency": "State Water Resources Control Board",
+      "summary": "RUST grants may be used to finance up to 100 percent of the costs necessary to upgrade, remove, or replace UST project tanks to comply with the requirements of Health and Safety Code sections 25284.1, 25292.05, 25292.4, 25292.5, or 41954.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/ustcf/rust.html"
+    },
+    {
+      "id": "1128",
+      "title": "Replacing, Removing, or Upgrading Underground Storage Tanks Loan",
+      "agency": "State Water Resources Control Board",
+      "summary": "RUST loans may be used to finance up to 100 percent of the costs necessary to upgrade, remove or replace project tanks, including corrective actions, to meet applicable local state, or federal standards, including, but not limited to, any design, construction, monitoring, operation, or maintenance requirements adopted pursuant to Health and Safety Code…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-09",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/ustcf/rust.html"
+    },
+    {
+      "id": "83108",
+      "title": "Riparian Habitat Conservation",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The California Riparian Habitat Conservation Program (Program) is accepting concept proposals for projects that provide meaningful and sustainable improvements to riparian habitats.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-19",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Programs/Riparian"
+    },
+    {
+      "id": "79610",
+      "title": "RMC Lower LA River Grant Program",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Priorities for RMC Lower LA River Grants: 1. Ecosystems and watershed protection and restoration projects 2. Expand access to diverse populations 3. High-need project implementation 4. Implementation of projects congruent with the Lower LA River Revitalization Plan",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-08-21",
+      "closeDate": null,
+      "amountMin": 50000,
+      "amountMax": 2000000,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "1971",
+      "title": "Sales Tax Exclusion (STE) Program",
+      "agency": "State Treasurer's Office",
+      "summary": "CAEATFA supports California's mission to provide financial incentives to cutting-edge companies by offering a sales and use tax exclusion to manufacturers purchasing equipment to promote alternative energy, advanced transportation and recycling, as well as advanced manufacturing.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Employment, Labor & Training",
+        "Energy",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Science, Technology, and Research & Development",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2010-09-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/caeatfa/ste/index.asp"
+    },
+    {
+      "id": "8780",
+      "title": "San Diego River Conservancy Direct Grant Program",
+      "agency": "San Diego River Conservancy",
+      "summary": "Funding for this grant program was provided through the Budget Act of 2021-22 for local assistance projects.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "San Diego"
+      ],
+      "openDate": "2022-05-10",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://sdrc.ca.gov/wp-content/uploads/2022/01/SDRC_draft-guidelines-for-Directed-grants-for-posting-final.pdf"
+    },
+    {
+      "id": "83114",
+      "title": "San Joaquin River Conservancy",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The purpose of the SJRC is to create the San Joaquin River Parkway (Parkway) to preserve and enhance the river’s extraordinary biological diversity, protect its valued cultural and natural resources, and provide educational and recreational opportunities for local communities and visitors.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Fresno",
+        "Madera",
+        "San Joaquin"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=199421&inline"
+    },
+    {
+      "id": "1899",
+      "title": "Science and Lake Improvement Account Program",
+      "agency": "Tahoe Conservancy",
+      "summary": "The principal goal of the Conservancy's Science and Lake Improvement Account program is to support near-shore environmental improvement program activities and projects, particularly projects that manage aquatic invasive species or improve public access to sovereign land in Lake Tahoe.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Lake"
+      ],
+      "openDate": "2020-07-10",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://tahoe.ca.gov/grants/"
+    },
+    {
+      "id": "59151",
+      "title": "Senate Bill 1 Sea Level Rise Adaptation Grant Program – Track 1",
+      "agency": "Ocean Protection Council",
+      "summary": "The goal of the Senate Bill 1 Sea Level Rise Adaptation Planning Grant Program (SB 1 Grant Program) is to support the implementation of SB 1 (Atkins, 2021) for local, regional, and tribal governments. Ultimately, the SB 1 Grant Program aims to provide funding for coastal communities to develop consistent sea level rise (SLR) adaptation plans and projects to…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-02-27",
+      "closeDate": null,
+      "amountMin": 200000,
+      "amountMax": 1500000,
+      "applyUrl": "https://www.opc.ca.gov/sb-1-funding/"
+    },
+    {
+      "id": "141324",
+      "title": "Senate Bill 1 Sea Level Rise Tribal Cultural Resources Funding Program",
+      "agency": "Ocean Protection Council",
+      "summary": "The purpose of the Sea Level Rise (SLR) Tribal Cultural Resources Funding Program is to provide funding for tribes to assess and plan for the impacts of SLR on their ancestral lands, cultural sites, lifeways, and resources in a manner that is meaningful and beneficial to the tribe.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-07-19",
+      "closeDate": null,
+      "amountMin": 250000,
+      "amountMax": 750000,
+      "applyUrl": "https://www.opc.ca.gov/sb-1-tribal-funding/"
+    },
+    {
+      "id": "2187",
+      "title": "Small and Rural Hospital Relief Program",
+      "agency": "Department of Health Care Access and Information",
+      "summary": "With funding from the California Electronic Cigarette Excise Tax (Senate Bill 395, Chapter 489, Statutes of 2021), the Department of Health Care Access and Information (HCAI) is launching the Small and Rural Hospital Relief Program (SRHRP) to provide grants for seismic compliance projects. First round of funding projected to be available April 2023.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2023-01-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://hcai.ca.gov/wp-content/uploads/2022/06/19.-Small-and-Rural-Hospital-Relief-Program-Eligibility-Tool.pdf"
+    },
+    {
+      "id": "9824",
+      "title": "Solicitation for the Electric Bicycle Incentives Project",
+      "agency": "Air Resources Board",
+      "summary": "The California Air Resources Board (CARB or the Board) is soliciting a Grantee to implement and administer the Electric Bicycle Incentives Project (EBIP) for Fiscal Year (FY) 2021-22 with an option to renew for a new Grant Agreement for each of the following two years for FY 2022-23 and FY 2023-24.",
+      "categories": [
+        "Environment & Water",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2022-04-04",
+      "closeDate": null,
+      "amountMin": 10000000,
+      "amountMax": 10000000,
+      "applyUrl": "https://ww2.arb.ca.gov/our-work/programs/low-carbon-transportation-investments-and-air-quality-improvement-program/low"
+    },
+    {
+      "id": "83120",
+      "title": "Stream Flow Enhancement",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Stream Flow Enhancement Program (SFEP) funds projects that enhance stream flows across the state of California. The SFEP defines enhanced streamflow to mean: a change in the amount, timing, and/or quality of water flowing down a stream, or a portion of a stream, to benefit fish and wildlife.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-19",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Programs/Stream-Flow-Enhancement"
+    },
+    {
+      "id": "1632",
+      "title": "Tax-Exempt Equipment Financing Program – CHFFA",
+      "agency": "State Treasurer's Office",
+      "summary": "This program will provide a borrower with access to tax-exempt, fixed-rate financing for equipment purchases.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-07-06",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 50000000,
+      "applyUrl": "https://www.treasurer.ca.gov/chffa/programs/tax.asp"
+    },
+    {
+      "id": "117495",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All – (Prop 68 River – CA) Act of 2018 (Proposition 68) SMMC Grant Program – (Prop 68 River – California)",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "117471",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – (Prop 68 River – Severely Disadvantaged Community)",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "117489",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – (Prop 68 River San Fernando Valley – Severely Disadvantaged Community)",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "117456",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – Prop 68 River",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "117480",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – Prop 68 River San Fernando Valley",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "117498",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – Prop 68 River San Fernando Valley – California",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "1902",
+      "title": "The Charter School Revolving Loan Fund Program",
+      "agency": "State Treasurer's Office",
+      "summary": "The Charter School Revolving Loan Fund Program provides low-cost loans of up to $250,000 to charter schools",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2013-07-01",
+      "closeDate": null,
+      "amountMin": 100000,
+      "amountMax": 250000,
+      "applyUrl": "https://www.treasurer.ca.gov/csfa/csrlf/index.asp"
+    },
+    {
+      "id": "1098",
+      "title": "The Safe and Affordable Funding for Equity and Resilience Program (SAFER)",
+      "agency": "State Water Resources Control Board",
+      "summary": "The Safe and Affordable Funding for Equity and Resilience Program (SAFER) is a set of tools, funding sources, and regulatory authorities designed to ensure that one million Californians who currently lack safe drinking water receive safe & affordable drinking water as quickly as possible.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2020-06-08",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html"
+    },
+    {
+      "id": "115191",
+      "title": "The Water Quality, Supply, and Infrastructure Improvement Act of 2014 (Proposition 1) SMMC Grant Program",
+      "agency": "Santa Monica Mountains Conservancy",
+      "summary": "This program supports Santa Monica Mountains Conservancy’s (“Conservancy”) Proposition 1 Competitive Grant Program specifically pertain to competitive grants for multi benefit ecosystem and watershed protection and restoration projects pursuant to Water Code Section 79731(h), and for projects to protect and enhance an urban creek pursuant to Water Code…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2025-06-11",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+    },
+    {
+      "id": "1086",
+      "title": "Underground Storage Tank Cleanup Fund",
+      "agency": "State Water Resources Control Board",
+      "summary": "The Underground Storage Tank (UST) Cleanup Fund's mission is to (1) establish a mechanism to meet Financial Responsibility requirements for owners and operators of petroleum USTs, and (2) reimburse eligible corrective action costs incurred in the cleanup of contamination resulting from the unauthorized release of petroleum from USTs.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "1989-01-01",
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 1000000,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/ustcf/claimapplication.html"
+    },
+    {
+      "id": "66330",
+      "title": "Upland Game Bird Account Grant",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The purpose is to ensure funds generated by the sales of upland game bird hunting validations and stamps are used in programs and projects to benefit upland game bird species and their constituents.",
+      "categories": [
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-06-06",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Grants/Upland-Game-Bird"
+    },
+    {
+      "id": "79607",
+      "title": "Wildfire Prevention Grant Program",
+      "agency": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+      "summary": "Priorities for RMC Wildfire Prevention Grant Program: 1. Protect and expand native forests/wildlands; 2. Support communities in increasing their resilience to wildfire and improving fire safety; 3. Promote sustainable land use; 4. Promote investment in wildlands management and workforce development; 5. Protect cultural resources vulnerable to wildfire.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Los Angeles",
+        "Orange"
+      ],
+      "openDate": "2024-08-21",
+      "closeDate": null,
+      "amountMin": 50000,
+      "amountMax": 2000000,
+      "applyUrl": "https://rmc.ca.gov/grants/"
+    },
+    {
+      "id": "83012",
+      "title": "Wildlife Corridor and Fish Passage",
+      "agency": "Wildlife Conservation Board",
+      "summary": "The Program is seeking proposals for planning or implementation projects that construct, repair, modify, or remove transportation infrastructure or water resources infrastructure improving passage for wildlife or fish.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Science, Technology, and Research & Development",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-11-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wcb.ca.gov/Grants"
+    },
+    {
+      "id": "80909",
+      "title": "Wolf-Livestock Compensation Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The purpose of the grant is to help mitigate the impact of wolves on livestock producers in California. The Wolf-Livestock Compensation Grant Program has established three primary areas of need and compensation; direct livestock loss from wolf depredation, the use nonlethal deterrent tools, and the compensation for indirect loss or affects from wolves on…",
+      "categories": [
+        "Agriculture",
+        "Animal Services",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2024-10-28",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Conservation/Mammals/Gray-Wolf/Grants"
+    }
+  ]
+}

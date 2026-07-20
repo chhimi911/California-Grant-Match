@@ -1,0 +1,513 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Find open California state grants matched to your applicant type, category, and county."
+    />
+    <title>CA Grant Match — Open California Grants</title>
+    <link rel="icon" type="image/png" href="public/assets/poppy-mark.png" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              ink: '#10233f',
+              poppy: '#c7430d',
+              cream: '#f7f3ea',
+              sage: '#3f6b46',
+              sky: '#dbeaf1',
+            },
+            boxShadow: {
+              card: '0 14px 40px rgba(16, 35, 63, 0.08)',
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #10233f;
+        --muted: #526173;
+        --poppy: #c7430d;
+        --cream: #f7f3ea;
+        --sage: #3f6b46;
+        --line: #d9dedf;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        background:
+          radial-gradient(circle at 8% 5%, rgba(219, 234, 241, 0.72), transparent 29rem),
+          #fbfaf7;
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      h1,
+      h2,
+      h3,
+      .wordmark {
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      :focus-visible {
+        outline: 3px solid #145b8c;
+        outline-offset: 3px;
+      }
+
+      .skip-link {
+        position: fixed;
+        left: 1rem;
+        top: 1rem;
+        z-index: 100;
+        transform: translateY(-160%);
+        border-radius: 0.6rem;
+        background: white;
+        padding: 0.75rem 1rem;
+        font-weight: 700;
+        box-shadow: 0 8px 24px rgba(16, 35, 63, 0.2);
+      }
+
+      .skip-link:focus {
+        transform: translateY(0);
+      }
+
+      .hero-photo::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(90deg, rgba(247, 243, 234, 0.34), transparent 42%);
+        pointer-events: none;
+      }
+
+      .applicant-option span {
+        transition: border-color 160ms ease, background-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+      }
+
+      .applicant-option input:checked + span {
+        border-color: var(--sage);
+        background: #edf4ea;
+        box-shadow: 0 0 0 1px var(--sage), 0 8px 18px rgba(63, 107, 70, 0.1);
+      }
+
+      .applicant-option input:focus-visible + span {
+        outline: 3px solid #145b8c;
+        outline-offset: 3px;
+      }
+
+      .applicant-option span:hover {
+        border-color: #83938a;
+        transform: translateY(-1px);
+      }
+
+      .summary-clamp {
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+      }
+
+      .grant-card {
+        transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+      }
+
+      .grant-card:hover {
+        transform: translateY(-2px);
+        border-color: #b8c5c2;
+        box-shadow: 0 18px 48px rgba(16, 35, 63, 0.1);
+      }
+
+      .skeleton {
+        animation: pulse 1.6s ease-in-out infinite;
+        background: #e8ecea;
+      }
+
+      @keyframes pulse {
+        50% { opacity: 0.5; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        html { scroll-behavior: auto; }
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
+      }
+
+      @media (max-width: 767px) {
+        .hero-photo::after {
+          background: linear-gradient(0deg, rgba(16, 35, 63, 0.18), transparent 58%);
+        }
+      }
+    </style>
+  </head>
+  <body class="min-h-screen antialiased">
+    <a class="skip-link" href="#results">Skip to grant results</a>
+
+    <header class="border-b border-ink/10 bg-white/90 backdrop-blur">
+      <div class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-4 sm:px-6 lg:px-8">
+        <a href="#top" class="flex shrink-0 items-center gap-3 no-underline" aria-label="CA Grant Match home">
+          <img src="public/assets/poppy-mark.png" alt="" class="h-10 w-10 rounded-full" width="40" height="40" />
+          <span class="wordmark text-xl font-bold tracking-tight sm:text-2xl">CA Grant Match</span>
+        </a>
+        <p class="hidden text-sm font-medium text-slate-600 md:block">
+          California grants, matched to you in 30 seconds.
+        </p>
+        <a href="#matcher" class="rounded-full border border-ink/20 px-4 py-2 text-sm font-bold text-ink hover:border-ink hover:bg-cream">
+          Find grants
+        </a>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="mx-auto max-w-7xl px-4 pt-6 sm:px-6 sm:pt-10 lg:px-8">
+        <div class="overflow-hidden rounded-[1.75rem] border border-ink/10 bg-cream shadow-card md:grid md:min-h-[390px] md:grid-cols-[0.88fr_1.12fr]">
+          <div class="flex flex-col justify-center px-6 py-10 sm:px-10 md:py-14 lg:px-14">
+            <p class="mb-4 text-xs font-black uppercase tracking-[0.2em] text-sage">Free · No account required</p>
+            <h1 class="max-w-xl text-4xl font-bold leading-[1.03] tracking-[-0.035em] text-ink sm:text-5xl lg:text-6xl">
+              Find funding that fits your work.
+            </h1>
+            <p class="mt-5 max-w-lg text-lg leading-8 text-slate-700">
+              California grants, matched to you in 30 seconds.
+            </p>
+            <p class="mt-4 max-w-lg text-sm leading-6 text-slate-600">
+              Choose who you are. We’ll show open and soon-to-open state opportunities you may qualify for, with the closest deadlines first.
+            </p>
+          </div>
+          <div class="hero-photo relative min-h-56 overflow-hidden md:min-h-full">
+            <img
+              src="public/assets/hero-california-coast.jpg"
+              alt=""
+              class="absolute inset-0 h-full w-full object-cover"
+              width="1600"
+              height="800"
+              fetchpriority="high"
+            />
+            <div class="absolute bottom-4 right-4 z-10 rounded-full bg-white/90 px-3 py-1.5 text-xs font-bold text-ink shadow-sm">
+              Official state grant data
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="matcher" aria-labelledby="matcher-title" class="mx-auto max-w-7xl scroll-mt-4 px-4 py-8 sm:px-6 sm:py-10 lg:px-8">
+        <div class="rounded-[1.5rem] border border-ink/10 bg-white p-5 shadow-card sm:p-7 lg:p-8">
+          <div class="mb-7 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p class="text-xs font-black uppercase tracking-[0.18em] text-poppy">Your match</p>
+              <h2 id="matcher-title" class="mt-1 text-2xl font-bold sm:text-3xl">Tell us who you are</h2>
+            </div>
+            <p class="text-sm text-slate-600">Results update instantly.</p>
+          </div>
+
+          <form id="filters" aria-label="Grant filters">
+            <fieldset>
+              <legend class="text-sm font-bold text-ink">Applicant type</legend>
+              <p class="mt-1 text-sm text-slate-600">Choose the option that best describes you or your organization.</p>
+              <div class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+                <label class="applicant-option cursor-pointer">
+                  <input class="sr-only" type="radio" name="applicant" value="business" checked />
+                  <span class="flex min-h-20 items-center justify-center rounded-xl border border-slate-300 px-3 py-4 text-center text-sm font-bold">Small Business</span>
+                </label>
+                <label class="applicant-option cursor-pointer">
+                  <input class="sr-only" type="radio" name="applicant" value="nonprofit" />
+                  <span class="flex min-h-20 items-center justify-center rounded-xl border border-slate-300 px-3 py-4 text-center text-sm font-bold">Nonprofit</span>
+                </label>
+                <label class="applicant-option cursor-pointer">
+                  <input class="sr-only" type="radio" name="applicant" value="individual" />
+                  <span class="flex min-h-20 items-center justify-center rounded-xl border border-slate-300 px-3 py-4 text-center text-sm font-bold">Individual</span>
+                </label>
+                <label class="applicant-option cursor-pointer">
+                  <input class="sr-only" type="radio" name="applicant" value="tribal" />
+                  <span class="flex min-h-20 items-center justify-center rounded-xl border border-slate-300 px-3 py-4 text-center text-sm font-bold">Tribal</span>
+                </label>
+                <label class="applicant-option col-span-2 cursor-pointer sm:col-span-1">
+                  <input class="sr-only" type="radio" name="applicant" value="public agency" />
+                  <span class="flex min-h-20 items-center justify-center rounded-xl border border-slate-300 px-3 py-4 text-center text-sm font-bold">Public Agency</span>
+                </label>
+              </div>
+            </fieldset>
+
+            <div class="mt-6 grid gap-4 border-t border-slate-200 pt-6 sm:grid-cols-2">
+              <div>
+                <label for="category" class="mb-2 block text-sm font-bold text-ink">Category <span class="font-normal text-slate-500">(optional)</span></label>
+                <select id="category" name="category" class="h-12 w-full rounded-xl border border-slate-300 bg-white px-4 text-base text-ink shadow-sm hover:border-slate-500">
+                  <option value="">All categories</option>
+                </select>
+              </div>
+              <div>
+                <label for="county" class="mb-2 block text-sm font-bold text-ink">County <span class="font-normal text-slate-500">(optional)</span></label>
+                <select id="county" name="county" class="h-12 w-full rounded-xl border border-slate-300 bg-white px-4 text-base text-ink shadow-sm hover:border-slate-500">
+                  <option value="">Statewide (all of California)</option>
+                </select>
+              </div>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <section id="results" aria-labelledby="results-title" class="mx-auto max-w-7xl scroll-mt-4 px-4 pb-16 sm:px-6 lg:px-8">
+        <div class="mb-5 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <p class="text-xs font-black uppercase tracking-[0.18em] text-sage">Current opportunities</p>
+            <h2 id="results-title" class="mt-1 text-2xl font-bold sm:text-3xl">
+              <span id="result-count" aria-live="polite">Loading open grants…</span>
+            </h2>
+          </div>
+          <p class="text-sm text-slate-600">Sorted by soonest deadline</p>
+        </div>
+
+        <div id="loading-state" class="space-y-4" aria-hidden="true">
+          <div class="rounded-2xl border border-slate-200 bg-white p-6">
+            <div class="skeleton h-4 w-32 rounded"></div>
+            <div class="skeleton mt-4 h-7 w-3/4 rounded"></div>
+            <div class="skeleton mt-4 h-4 w-full rounded"></div>
+            <div class="skeleton mt-2 h-4 w-5/6 rounded"></div>
+          </div>
+          <div class="rounded-2xl border border-slate-200 bg-white p-6">
+            <div class="skeleton h-4 w-28 rounded"></div>
+            <div class="skeleton mt-4 h-7 w-2/3 rounded"></div>
+            <div class="skeleton mt-4 h-4 w-full rounded"></div>
+          </div>
+        </div>
+
+        <div id="grant-list" class="space-y-4"></div>
+
+        <div id="empty-state" hidden class="rounded-2xl border border-dashed border-slate-400 bg-white px-6 py-14 text-center">
+          <p class="mx-auto max-w-xl text-lg font-bold text-ink">
+            No open grants match those filters right now. Try widening your category, or check back — new grants are added weekly.
+          </p>
+        </div>
+
+        <div id="error-state" hidden role="alert" class="rounded-2xl border border-red-300 bg-red-50 px-6 py-8 text-center text-red-900">
+          <p class="font-bold">We couldn’t load the grant list.</p>
+          <p class="mt-2 text-sm">Please refresh the page. The last successful data file will remain available while an update is retried.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="border-t border-ink/10 bg-ink text-slate-200">
+      <div class="mx-auto max-w-7xl px-4 py-8 text-sm leading-6 sm:px-6 lg:px-8">
+        <p>
+          Independent project. Not affiliated with the State of California. Data:
+          <a class="font-bold text-white underline decoration-white/50 underline-offset-4 hover:decoration-white" href="https://data.ca.gov/dataset/california-grants-portal" target="_blank" rel="noopener noreferrer">California Grants Portal via the California Open Data Portal</a>, refreshed weekly.
+        </p>
+        <p class="mt-2 text-slate-400">Last updated: <time id="last-updated">Loading…</time></p>
+      </div>
+    </footer>
+
+    <script>
+      (() => {
+        const COUNTY_NAMES = [
+          'Alameda', 'Alpine', 'Amador', 'Butte', 'Calaveras', 'Colusa', 'Contra Costa',
+          'Del Norte', 'El Dorado', 'Fresno', 'Glenn', 'Humboldt', 'Imperial', 'Inyo',
+          'Kern', 'Kings', 'Lake', 'Lassen', 'Los Angeles', 'Madera', 'Marin', 'Mariposa',
+          'Mendocino', 'Merced', 'Modoc', 'Mono', 'Monterey', 'Napa', 'Nevada', 'Orange',
+          'Placer', 'Plumas', 'Riverside', 'Sacramento', 'San Benito', 'San Bernardino',
+          'San Diego', 'San Francisco', 'San Joaquin', 'San Luis Obispo', 'San Mateo',
+          'Santa Barbara', 'Santa Clara', 'Santa Cruz', 'Shasta', 'Sierra', 'Siskiyou',
+          'Solano', 'Sonoma', 'Stanislaus', 'Sutter', 'Tehama', 'Trinity', 'Tulare',
+          'Tuolumne', 'Ventura', 'Yolo', 'Yuba',
+        ];
+
+        const state = { grants: [], applicant: 'business', category: '', county: '' };
+        const filterForm = document.querySelector('#filters');
+        const categorySelect = document.querySelector('#category');
+        const countySelect = document.querySelector('#county');
+        const grantList = document.querySelector('#grant-list');
+        const resultCount = document.querySelector('#result-count');
+        const loadingState = document.querySelector('#loading-state');
+        const emptyState = document.querySelector('#empty-state');
+        const errorState = document.querySelector('#error-state');
+        const lastUpdated = document.querySelector('#last-updated');
+
+        function localDateOnly() {
+          const formatter = new Intl.DateTimeFormat('en-CA', {
+            timeZone: 'America/Los_Angeles',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+          });
+          const parts = Object.fromEntries(formatter.formatToParts(new Date()).map((part) => [part.type, part.value]));
+          return `${parts.year}-${parts.month}-${parts.day}`;
+        }
+
+        function dayDifference(fromDate, toDate) {
+          const from = Date.parse(`${fromDate}T12:00:00Z`);
+          const to = Date.parse(`${toDate}T12:00:00Z`);
+          return Math.ceil((to - from) / 86_400_000);
+        }
+
+        function formatDate(value, options = {}) {
+          if (!value) return 'Ongoing';
+          const date = new Date(`${value}T12:00:00Z`);
+          return new Intl.DateTimeFormat('en-US', {
+            month: options.short ? 'short' : 'long',
+            day: 'numeric',
+            year: 'numeric',
+            timeZone: 'UTC',
+          }).format(date);
+        }
+
+        function formatMoney(value) {
+          if (value >= 1_000_000_000) return `$${(value / 1_000_000_000).toLocaleString('en-US', { maximumFractionDigits: 1 })}B`;
+          if (value >= 1_000_000) return `$${(value / 1_000_000).toLocaleString('en-US', { maximumFractionDigits: 1 })}M`;
+          if (value >= 1_000) return `$${(value / 1_000).toLocaleString('en-US', { maximumFractionDigits: 0 })}K`;
+          return `$${value.toLocaleString('en-US')}`;
+        }
+
+        function formatAmountRange(grant) {
+          const { amountMin, amountMax } = grant;
+          if (amountMin == null && amountMax == null) return 'See grant details';
+          if (amountMin == null) return `Up to ${formatMoney(amountMax)}`;
+          if (amountMax == null) return `From ${formatMoney(amountMin)}`;
+          if (amountMin === amountMax) return formatMoney(amountMin);
+          return `${formatMoney(amountMin)} – ${formatMoney(amountMax)}`;
+        }
+
+        function element(tag, className, text) {
+          const node = document.createElement(tag);
+          if (className) node.className = className;
+          if (text !== undefined) node.textContent = text;
+          return node;
+        }
+
+        function deadlineBadge(grant) {
+          const today = localDateOnly();
+          if (!grant.closeDate) {
+            return element('span', 'inline-flex rounded-full bg-sky px-3 py-1.5 text-xs font-black text-ink', 'Ongoing');
+          }
+          const days = dayDifference(today, grant.closeDate);
+          const urgent = days < 14;
+          const label = days === 0 ? 'Closes today' : `Closes in ${days} day${days === 1 ? '' : 's'}`;
+          return element(
+            'span',
+            `inline-flex rounded-full px-3 py-1.5 text-xs font-black ${urgent ? 'bg-red-100 text-red-800' : 'bg-amber-100 text-amber-900'}`,
+            label,
+          );
+        }
+
+        function renderCard(grant) {
+          const card = element('article', 'grant-card rounded-2xl border border-slate-200 bg-white p-5 sm:p-6 lg:grid lg:grid-cols-[minmax(0,1fr)_13rem_13rem] lg:gap-6');
+
+          const primary = element('div', 'min-w-0');
+          primary.append(element('p', 'text-xs font-black uppercase tracking-[0.12em] text-sage', grant.agency));
+          const title = element('h3', 'mt-2 text-xl font-bold leading-snug text-ink sm:text-2xl', grant.title);
+          primary.append(title);
+          primary.append(element('p', 'summary-clamp mt-3 text-sm leading-6 text-slate-600 sm:text-base', grant.summary));
+
+          const tags = element('div', 'mt-4 flex flex-wrap gap-2');
+          grant.categories.slice(0, 3).forEach((category) => {
+            tags.append(element('span', 'rounded-full bg-slate-100 px-2.5 py-1 text-xs font-bold text-slate-700', category));
+          });
+          if (grant.counties.length && grant.counties[0] !== 'Statewide') {
+            const location = grant.counties.length === 1 ? `${grant.counties[0]} County` : `${grant.counties.length} counties`;
+            tags.append(element('span', 'rounded-full bg-sky px-2.5 py-1 text-xs font-bold text-ink', location));
+          }
+          primary.append(tags);
+
+          const deadline = element('div', 'mt-6 border-t border-slate-200 pt-5 lg:mt-0 lg:border-l lg:border-t-0 lg:pl-6 lg:pt-0');
+          const today = localDateOnly();
+          if (grant.openDate && grant.openDate > today) {
+            const opensIn = dayDifference(today, grant.openDate);
+            deadline.append(element('p', 'mb-3 text-xs font-black uppercase tracking-[0.12em] text-poppy', `Opens in ${opensIn} day${opensIn === 1 ? '' : 's'}`));
+          }
+          deadline.append(deadlineBadge(grant));
+          deadline.append(element('p', 'mt-4 text-xs font-bold uppercase tracking-wide text-slate-500', 'Application deadline'));
+          deadline.append(element('p', 'mt-1 font-bold text-ink', formatDate(grant.closeDate)));
+
+          const action = element('div', 'mt-6 flex flex-col border-t border-slate-200 pt-5 lg:mt-0 lg:border-l lg:border-t-0 lg:pl-6 lg:pt-0');
+          action.append(element('p', 'text-xs font-bold uppercase tracking-wide text-slate-500', 'Award amount'));
+          action.append(element('p', 'mt-1 text-lg font-black text-sage', formatAmountRange(grant)));
+          const link = element('a', 'mt-5 inline-flex min-h-12 items-center justify-center rounded-xl bg-poppy px-5 py-3 text-center text-sm font-black text-white shadow-sm hover:bg-[#b83e0b]');
+          link.href = grant.applyUrl;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = 'Apply on official site ↗';
+          link.setAttribute('aria-label', `Apply for ${grant.title} on the official grant site (opens in a new tab)`);
+          action.append(link);
+
+          card.append(primary, deadline, action);
+          return card;
+        }
+
+        function filteredGrants() {
+          return state.grants
+            .filter((grant) => grant.applicantTypes.includes(state.applicant))
+            .filter((grant) => !state.category || grant.categories.includes(state.category))
+            .filter((grant) => !state.county || grant.counties.includes('Statewide') || grant.counties.includes(state.county))
+            .sort((a, b) => {
+              if (a.closeDate && b.closeDate && a.closeDate !== b.closeDate) return a.closeDate.localeCompare(b.closeDate);
+              if (a.closeDate) return -1;
+              if (b.closeDate) return 1;
+              return a.title.localeCompare(b.title);
+            });
+        }
+
+        function render() {
+          const matches = filteredGrants();
+          grantList.replaceChildren(...matches.map(renderCard));
+          resultCount.textContent = `${matches.length} open grant${matches.length === 1 ? '' : 's'} match you.`;
+          emptyState.hidden = matches.length !== 0;
+        }
+
+        function populateSelects() {
+          const categories = [...new Set(state.grants.flatMap((grant) => grant.categories))].sort((a, b) => a.localeCompare(b));
+          categories.forEach((category) => {
+            const option = document.createElement('option');
+            option.value = category;
+            option.textContent = category;
+            categorySelect.append(option);
+          });
+
+          COUNTY_NAMES.forEach((county) => {
+            const option = document.createElement('option');
+            option.value = county;
+            option.textContent = `${county} County`;
+            countySelect.append(option);
+          });
+        }
+
+        filterForm.addEventListener('change', () => {
+          state.applicant = new FormData(filterForm).get('applicant') || 'business';
+          state.category = categorySelect.value;
+          state.county = countySelect.value;
+          render();
+        });
+
+        fetch('public/grants.json', { cache: 'no-cache' })
+          .then((response) => {
+            if (!response.ok) throw new Error(`Grant data returned HTTP ${response.status}`);
+            return response.json();
+          })
+          .then((payload) => {
+            if (!Array.isArray(payload.grants)) throw new Error('Grant data has an unexpected format.');
+            state.grants = payload.grants;
+            populateSelects();
+            lastUpdated.dateTime = payload.lastUpdated;
+            lastUpdated.textContent = new Intl.DateTimeFormat('en-US', {
+              month: 'long', day: 'numeric', year: 'numeric',
+            }).format(new Date(payload.lastUpdated));
+            loadingState.hidden = true;
+            render();
+          })
+          .catch((error) => {
+            console.error('[CA Grant Match] Grant data load failed.', error);
+            loadingState.hidden = true;
+            errorState.hidden = false;
+            resultCount.textContent = 'Grant data unavailable';
+            lastUpdated.textContent = 'Unavailable';
+          });
+      })();
+    </script>
+  </body>
+</html>

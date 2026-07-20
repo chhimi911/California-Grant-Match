@@ -1,0 +1,5 @@
+.DS_Store
+.netlify/
+.playwright-cli/
+output/
+public/assets/hero-california-coast-source.png
