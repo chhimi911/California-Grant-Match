@@ -1,29 +1,9 @@
 {
-  "lastUpdated": "2026-07-20T23:11:44.369Z",
+  "lastUpdated": "2026-07-27T17:08:12.029Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 177,
+  "grantCount": 178,
   "grants": [
-    {
-      "id": "183486",
-      "title": "OPIOID AND STIMULANT USE DISORDER PREVENTION AND EDUCATION",
-      "agency": "Department of Health Care Services",
-      "summary": "This program will be supported by the California State Opioid Response (SOR) IV grant program funded by DHCS. This grant was provided to DHCS by the U.S. Substance Abuse and Mental Health Services Administration (SAMHSA).",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-24",
-      "closeDate": "2026-07-22",
-      "amountMin": 1,
-      "amountMax": 200000,
-      "applyUrl": "https://www.shfcenter.org/wp-content/uploads/2026/06/SOR-4-NEW-RFA-2026_Final_06122026_ADA.pdf"
-    },
     {
       "id": "173910",
       "title": "2026 Wildfire and Forest Resilience Directed Grant Program",
@@ -581,6 +561,40 @@
       "applyUrl": "https://caloes.intelligrants.com/"
     },
     {
+      "id": "184455",
+      "title": "2027 Department of Pesticide Regulation Sustainable Pest Management Grants Program",
+      "agency": "Department of Pesticide Regulation",
+      "summary": "To promote safer, more sustainable pest management practices in California, the Department of Pesticide Regulation (DPR) annually funds projects that advance sustainable pest management (SPM) practices through integrated pest management (IPM) research, knowledge, tools, outreach, and implementation in agricultural, urban, and/or wildland settings.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Education",
+        "Employment, Labor & Training",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-23",
+      "closeDate": "2026-09-01",
+      "amountMin": 100000,
+      "amountMax": 1000000,
+      "applyUrl": "https://www.cdpr.ca.gov/spm-grants/spm-grants-program/"
+    },
+    {
       "id": "178956",
       "title": "Tahoe for All",
       "agency": "Tahoe Conservancy",
@@ -941,6 +955,34 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
+    },
+    {
+      "id": "188472",
+      "title": "Extreme Heat and Community Resilience Program Round 2",
+      "agency": "Governor’s Office of Land Use and Climate Innovation",
+      "summary": "The Extreme Heat and Community Resilience Program (Extreme Heat Program) is housed within the Governor’s Office of Land Use and Climate Innovation (LCI). The Program provides funding for projects to protect California communities most vulnerable to the impacts of extreme heat.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Education",
+        "Energy",
+        "Environment & Water",
+        "Health & Human Services",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-20",
+      "closeDate": "2026-10-13",
+      "amountMin": 750000,
+      "amountMax": 4500000,
+      "applyUrl": "https://lci.ca.gov/wp-content/uploads/Round-2-Final-Guidelines.pdf"
     },
     {
       "id": "161958",
