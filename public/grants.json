@@ -1,149 +1,9 @@
 {
-  "lastUpdated": "2026-07-27T17:08:12.029Z",
+  "lastUpdated": "2026-08-03T17:19:10.488Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 178,
+  "grantCount": 174,
   "grants": [
-    {
-      "id": "173910",
-      "title": "2026 Wildfire and Forest Resilience Directed Grant Program",
-      "agency": "Sierra Nevada Conservancy",
-      "summary": "This grant program is focused on high-impact forest-health projects that deliver strong, direct benefits to communities, critical infrastructure, or unique natural resources. Examples include constructing or improving fuelbreaks, protecting water supplies, improving safety along ingress/egress routes, and protecting hospitals, schools, giant sequoias, and…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Sierra"
-      ],
-      "openDate": "2026-06-08",
-      "closeDate": "2026-07-27",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://sierranevada.ca.gov/grants/wildfire-forest-resilience/"
-    },
-    {
-      "id": "171837",
-      "title": "CAL FIRE Forest Health Research Program (FY 2026-27) California Climate Investments Graduate Student Grants (RP-RFP-2026-02)",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "The intent of CAL FIRE's Forest Health Research Program is to fund scientific research that expands our knowledge in topics related to forest health and wildland fire. The outcomes of these projects will support agencies, organizations, landowners, and policy makers, while furthering the goals of the California Forest and Wildfire Resilience Action Plan and…",
-      "categories": [
-        "Environment & Water",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "individual",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-11",
-      "closeDate": "2026-07-30",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/forest-health-research-program/applicant-and-grantee-resources"
-    },
-    {
-      "id": "171786",
-      "title": "CAL FIRE Forest Health Research Program (FY 2026-27) California Climate Investments Grants (RP-RFP-2026-01)",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "The intent of CAL FIRE's Forest Health Research Program is to fund scientific research that expands our knowledge in topics related to forest health and wildland fire. The outcomes of these projects will support agencies, organizations, landowners, and policy makers, while furthering the goals of the California Forest and Wildfire Resilience Action Plan and…",
-      "categories": [
-        "Environment & Water",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "individual",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-11",
-      "closeDate": "2026-07-30",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/forest-health-research-program/applicant-and-grantee-resources"
-    },
-    {
-      "id": "171843",
-      "title": "CAL FIRE Forest Health Research Program (FY 2026-27) Proposition 4 California Climate Bond Grants (RP-RFP-2026-03)",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "The intent of CAL FIRE's Forest Health Research Program is to fund scientific research that expands our knowledge in topics related to forest health and wildland fire. The outcomes of these projects will support agencies, organizations, landowners, and policy makers, while furthering the goals of the California Forest and Wildfire Resilience Action Plan and…",
-      "categories": [
-        "Environment & Water",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-11",
-      "closeDate": "2026-07-30",
-      "amountMin": 1000000,
-      "amountMax": 1500000,
-      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/forest-health-research-program/applicant-and-grantee-resources"
-    },
-    {
-      "id": "173727",
-      "title": "2026 Natural Community Conservation Planning Local Assistance Grant Program",
-      "agency": "Department of Fish and Wildlife",
-      "summary": "The Natural Community Conservation Planning Local Assistance Grant (NCCP LAG) Program is intended to assist local public agencies, tribes, and non-profit organizations with the highest priority tasks needed to implement NCCPs.",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-01",
-      "closeDate": "2026-07-31",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://wildlife.ca.gov/Conservation/Planning/NCCP/Grants"
-    },
-    {
-      "id": "183483",
-      "title": "The Electric Vehicle Infrastructure Training Program Fund (EVITP Fund) 2.0",
-      "agency": "Employment Training Panel",
-      "summary": "ETP is administering the Electric Vehicle Infrastructure Training Program Fund (EVITP Fund) 2.0 in collaboration with the California Energy Commission (CEC) and is pleased to announce the availability of approximately $2,700,000 in funding to increase the number of electricians certified through EVITP within California.",
-      "categories": [
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "business"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-01",
-      "closeDate": "2026-07-31",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://etp.ca.gov/fundingopportunities/grants/evitp/"
-    },
     {
       "id": "161961",
       "title": "Song Brown Primary Care Residency (PCR) 2026 Application",
@@ -983,6 +843,49 @@
       "amountMin": 750000,
       "amountMax": 4500000,
       "applyUrl": "https://lci.ca.gov/wp-content/uploads/Round-2-Final-Guidelines.pdf"
+    },
+    {
+      "id": "189801",
+      "title": "Tire-Derived Aggregate Grant Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The Tire-Derived Aggregate (TDA) Grant Program (Program) provides assistance to local governments to solve a variety of engineering challenges, using tire derived aggregate from shredded tires as an alternative to conventional lightweight aggregates in civil engineering projects and assists in diverting waste tires from landfill disposal, prevent illegal…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-27",
+      "closeDate": "2026-10-15",
+      "amountMin": 1,
+      "amountMax": 375000,
+      "applyUrl": "https://calrecycle.ca.gov/tires/grants/tda/fy202627/"
+    },
+    {
+      "id": "189912",
+      "title": "Quantum FAST Challenge",
+      "agency": "Governor's Office of Business and Economic Development",
+      "summary": "The Quantum FAST Challenge is a competitive grant program that seeks to strengthen California's quantum ecosystem by funding projects in two priority areas: (1) Education and workforce development projects that build the talent pipeline that quantum technologies require; and (2) Applied use case demonstrations that pair researchers and students with industry…",
+      "categories": [
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "other",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-07-30",
+      "closeDate": "2026-10-20",
+      "amountMin": 50000,
+      "amountMax": 500000,
+      "applyUrl": "https://calearninglab.org/grant/quantum-fast/"
     },
     {
       "id": "161958",
