@@ -1,103 +1,9 @@
 {
-  "lastUpdated": "2026-08-03T17:19:10.488Z",
+  "lastUpdated": "2026-08-10T16:08:37.562Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
   "grantCount": 174,
   "grants": [
-    {
-      "id": "161961",
-      "title": "Song Brown Primary Care Residency (PCR) 2026 Application",
-      "agency": "Department of Health Care Access and Information",
-      "summary": "The Song-Brown Program funds institutions that train primary care doctors to provide health care in California’s medically underserved areas.",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-02-24",
-      "closeDate": "2026-08-03",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/primary-care-residency-pcr-grant/"
-    },
-    {
-      "id": "178419",
-      "title": "Joint Institute for Wood Products Innovation Grant, FY 2026-2027",
-      "agency": "Board of Forestry",
-      "summary": "This grant supports increasing the pace & scale of CA's sustainable forest restoration activities. Grant projects must (directly or indirectly) contribute to long-term forest ecosystem sustainability; forest health; carbon storage; & wood products, biofuels, or bioenergy. For more information, see the Grant Guidelines.",
-      "categories": [
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Housing, Community and Economic Development",
-        "Science, Technology, and Research & Development",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "business",
-        "individual",
-        "nonprofit",
-        "other",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-22",
-      "closeDate": "2026-08-03",
-      "amountMin": 5000,
-      "amountMax": 375000,
-      "applyUrl": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/bof-website/board-committees/joint-institute-for-wood-products-innovation---jiwpi/joint-institute-for-wood-products-innovation-grant-program/jiwpi-2026_27-guidelines/2026_27-institute-grant-guidelines_final_adamfk.pdf?rev=2f8f7cd1a2a54929a7503c0abc6d4897&hash=A6420CD3116DE9B21414F9908557C014"
-    },
-    {
-      "id": "175614",
-      "title": "FY 2026-27 Intimate Partner Violence Prevention (FD) Program Supplemental",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "To create or expand Intimate Partner Violence, Sexual Assault, and Teen Dating Violence prevention programs.",
-      "categories": [
-        "Education"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-11",
-      "closeDate": "2026-08-07",
-      "amountMin": 1,
-      "amountMax": 132828,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "180546",
-      "title": "2026 Wildfire Resilience Block Grants",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "CAL FIRE's Wildfire Resilience Program awards funding to build local capacity while providing financial and technical forestry assistance to nonindustrial forest landowners. The power of this program comes from the regional partner’s ability to set parameters for assistance that directly meet the unique needs of the landowners in their local region.",
-      "categories": [
-        "Agriculture"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "other",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-08",
-      "closeDate": "2026-08-07",
-      "amountMin": 100000,
-      "amountMax": 5000000,
-      "applyUrl": "https://www.fire.ca.gov/what-we-do/natural-resource-management/wildfire-resilience"
-    },
     {
       "id": "164664",
       "title": "Tribal Capacity Building Program",
@@ -169,8 +75,8 @@
         "Transportation"
       ],
       "applicantTypes": [
-        "individual",
         "nonprofit",
+        "other",
         "public agency",
         "tribal"
       ],
@@ -558,6 +464,31 @@
       "applyUrl": "https://caloes.intelligrants.com/"
     },
     {
+      "id": "190263",
+      "title": "Rubberized Pavement Grant Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The purpose of the grant is to promote markets for Rubberized Asphalt Concrete (RAC) products with crumb rubber derived from only California-generated waste tires to resurface roads using RAC Hot-Mix or Chip Seal applications. The program is designed to encourage first-time users of rubberized pavement. Parking lots and alleys are eligible.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Disaster Prevention & Relief",
+        "Environment & Water",
+        "Science, Technology, and Research & Development",
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-05",
+      "closeDate": "2026-09-10",
+      "amountMin": 375000,
+      "amountMax": 750000,
+      "applyUrl": "https://calrecycle.ca.gov/Tires/Grants/Pavement/"
+    },
+    {
       "id": "164058",
       "title": "2026 Dairy Plus Program",
       "agency": "CA Department of Food and Agriculture",
@@ -792,6 +723,26 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
+    },
+    {
+      "id": "190254",
+      "title": "California Serves Grant Program 2026-27",
+      "agency": "CA Department of Education",
+      "summary": "Funding for the annual grant program is intended to support expanding access for high school graduates to the State Seal of Civic Engagement through high quality service-learning programs. Emphasis shall be on programs that demonstrate rich civic engagement and learning in pursuit of a State Seal of Civic Engagement specifically through service-learning.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-07",
+      "closeDate": "2026-10-05",
+      "amountMin": 500000,
+      "amountMax": 500000,
+      "applyUrl": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp"
     },
     {
       "id": "163098",
@@ -1309,6 +1260,31 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://dtsc.ca.gov/revolving-loan-fund-rlf-program/"
+    },
+    {
+      "id": "184437",
+      "title": "California Community Reinvestment Grants Program",
+      "agency": "Governor's Office of Business and Economic Development",
+      "summary": "The CalCRG program awards grants to Local Health Departments and qualified Community-based Nonprofit Organizations to support job placement, mental health treatment, substance use disorder treatment, system navigation services, legal services to address barriers to reentry, and linkages to medical care for communities disproportionately affected by past…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training",
+        "Health & Human Services",
+        "Housing, Community and Economic Development",
+        "Law, Justice, and Legal Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-03",
+      "closeDate": null,
+      "amountMin": 600000,
+      "amountMax": 3000000,
+      "applyUrl": "https://www.business.ca.gov/CalCRG"
     },
     {
       "id": "11714",
@@ -3914,6 +3890,29 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://wildlife.ca.gov/Grants/Upland-Game-Bird"
+    },
+    {
+      "id": "190194",
+      "title": "Watershed Resilience Conservation Implementation",
+      "agency": "Department of Water Resources",
+      "summary": "The Watershed Resilience Conservation Implementation grant program funds projects that reduce water use and improve water efficiency, helping communities save water and build resilience to drought and supply shortages.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": null,
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://water.ca.gov/Work-With-Us/Grants-And-Loans/watershed-resilience-program"
     },
     {
       "id": "79607",
