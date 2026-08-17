@@ -1,162 +1,9 @@
 {
-  "lastUpdated": "2026-08-10T16:08:37.562Z",
+  "lastUpdated": "2026-08-17T15:39:36.053Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 174,
+  "grantCount": 173,
   "grants": [
-    {
-      "id": "164664",
-      "title": "Tribal Capacity Building Program",
-      "agency": "Strategic Growth Council",
-      "summary": "The Tribal Capacity Building Program's key objectives are to: Build Tribal Staff Capacity to Advance and Sustain Climate and Housing Action; Secure Funding to Develop and Implement Tribal-led Climate and Housing Projects; Enhance Peer Learning Relationships Among Tribes",
-      "categories": [
-        "Agriculture",
-        "Disaster Prevention & Relief",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-05-11",
-      "closeDate": "2026-08-11",
-      "amountMin": 350000,
-      "amountMax": 420000,
-      "applyUrl": "https://sgc.ca.gov/initiatives/tribal/thcbi/"
-    },
-    {
-      "id": "171645",
-      "title": "Tribal Housing Pre-Development Fund",
-      "agency": "Strategic Growth Council",
-      "summary": "The Tribal Housing Pre-Development Fund is a grant opportunity that funds activities related to affordable housing development, including planning, infrastructure, construction, site preparation, and other pre-development activities. The goal of the Fund is to increase preparedness to build housing and access other state-funded, affordable housing programs.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Housing, Community and Economic Development",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "other",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-05-12",
-      "closeDate": "2026-08-11",
-      "amountMin": 1,
-      "amountMax": 3000000,
-      "applyUrl": "https://sgc.ca.gov/grant-programs/tribalpd/"
-    },
-    {
-      "id": "175272",
-      "title": "Beverage Container Recycling Grant Program (Fiscal Years 2026-27 and 2027-28)",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The Department of resources Recycling and Recovery offers the Beverage Container Recycling Grant Program pursuant to Section 14581(a)(4) of the Public Resources Code. The purpose of the grant is to issue up to $1,500,000 annually in the form of grants for beverage container recycling and litter reduction programs to promote increased recycling beverage…",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Education",
-        "Environment & Water",
-        "Housing, Community and Economic Development",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "other",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-16",
-      "closeDate": "2026-08-11",
-      "amountMin": 75000,
-      "amountMax": 275000,
-      "applyUrl": "https://www.calrecycle.ca.gov/BevContainer/Grants/BevContainer/"
-    },
-    {
-      "id": "171870",
-      "title": "2026-27 Public Charter Schools Grant Program Start-Up Subgrant",
-      "agency": "CA Department of Education",
-      "summary": "The Public Charter Schools Grant Program (PCSGP) is a discretionary grant program administered by the California Department of Education, on behalf of the State Board of Education, through funding awarded by the federal Charter Schools Program (CSP).",
-      "categories": [
-        "Education"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-12",
-      "closeDate": "2026-08-14",
-      "amountMin": 250000,
-      "amountMax": 1900000,
-      "applyUrl": "https://www.cde.ca.gov/fg/fo/r1/pcsgppire26rfa.asp"
-    },
-    {
-      "id": "184461",
-      "title": "2026 Cooperative Endangered Species Conservation Fund: HCP Land Acquisition (Nontraditional Section 6)",
-      "agency": "Department of Fish and Wildlife",
-      "summary": "Funds to support land acquisition projects in support of approved Habitat Conservation Plans that will conserve habitat for eligible species in perpetuity.",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "individual",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-15",
-      "closeDate": "2026-08-14",
-      "amountMin": 10000,
-      "amountMax": 26000000,
-      "applyUrl": "https://www.wildlife.ca.gov/Conservation/Planning/NCCP/Grants"
-    },
-    {
-      "id": "184464",
-      "title": "2026 Cooperative Endangered Species Conservation Fund: Conservation Planning Assistance (Nontraditional Section 6)",
-      "agency": "Department of Fish and Wildlife",
-      "summary": "Support the development of new, or the renewal or amendment of existing, Habitat Conservation Plans and Conservation Benefit Agreements (formerly referred to as Safe Harbor Agreements and Candidate Conservation Agreements with Assurances).",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "business",
-        "individual",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-15",
-      "closeDate": "2026-08-14",
-      "amountMin": 1,
-      "amountMax": 1000000,
-      "applyUrl": "https://www.wildlife.ca.gov/Conservation/Planning/NCCP/Grants"
-    },
     {
       "id": "182691",
       "title": "Division of Boating and Waterways Clean Vessel Act Education and Outreach Grant FY 2026",
@@ -725,6 +572,27 @@
       "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
     },
     {
+      "id": "190497",
+      "title": "California Investment and Innovation Program (Cal IIP) 2027",
+      "agency": "State Treasurer's Office",
+      "summary": "Cal IIP was established to provide grants to enhance the capacity and ability of community development financial institutions (CDFIs) to provide programs including technical assistance and access to capital to economically disadvantaged communities throughout California.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-12",
+      "closeDate": "2026-10-01",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.treasurer.ca.gov/cpcfa/caliip/application.asp"
+    },
+    {
       "id": "190254",
       "title": "California Serves Grant Program 2026-27",
       "agency": "CA Department of Education",
@@ -926,6 +794,90 @@
       "amountMin": 50000,
       "amountMax": 203500,
       "applyUrl": "https://www.cde.ca.gov/fg/fo/r27/ases25rfaround2.asp"
+    },
+    {
+      "id": "190524",
+      "title": "Division of Boating and Waterways Local Assistance Boat Launching Facility Grant Program FY27",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provide resources to local agencies to develop or improve public boat launching facilities, primarily for motorized vessels.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-13",
+      "closeDate": "2027-02-01",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dbw.parks.ca.gov/?page_id=28818"
+    },
+    {
+      "id": "190530",
+      "title": "Division of Boating and Waterways Local Assistance Statewide Ramp Repair and Modification Grant Program FY27",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provide resources to local agencies to repair or renovate public boating access facilities.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-13",
+      "closeDate": "2027-02-01",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dbw.parks.ca.gov/?page_id=28818"
+    },
+    {
+      "id": "190533",
+      "title": "Division of Boating and Waterways Local Assistance Statewide Non-Motorized Boat Launching Facility Grant Program FY27",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provide resources to local agencies to develop or improve public non-motorized boating access.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-13",
+      "closeDate": "2027-02-01",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://dbw.parks.ca.gov/?page_id=28818"
+    },
+    {
+      "id": "190536",
+      "title": "Division of Boating and Waterways Local Assistance Statewide Sign Grant Program FY27",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provide resources to replace or install signs at DBW funded boat launching facilities.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-13",
+      "closeDate": "2027-02-01",
+      "amountMin": 1000,
+      "amountMax": 10000,
+      "applyUrl": "https://dbw.parks.ca.gov/?page_id=28818"
     },
     {
       "id": "83138",
@@ -2085,6 +2037,27 @@
       "amountMin": 250000,
       "amountMax": 500000,
       "applyUrl": "https://www.waterboards.ca.gov/drinking_water/services/funding/SRF.html"
+    },
+    {
+      "id": "190512",
+      "title": "Elevate Youth California: Cohort 8 Standard Track",
+      "agency": "Department of Health Care Services",
+      "summary": "Through this round of Elevate Youth California (EYC) funding, the Department of Health Care Services (DHCS) is making approximately $44 million available to community-based, Tribal, and county behavioral health organizations throughout California to expand youth and young adult substance use prevention through policy, systems, and environmental change.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": null,
+      "closeDate": null,
+      "amountMin": 1,
+      "amountMax": 1000000,
+      "applyUrl": "https://elevateyouthca.org/2026/08/funding-available-for-youth-substance-use-disorder-prevention-cohort-8-standard-track/"
     },
     {
       "id": "1107",
@@ -3584,28 +3557,6 @@
       "applyUrl": "https://hcai.ca.gov/wp-content/uploads/2022/06/19.-Small-and-Rural-Hospital-Relief-Program-Eligibility-Tool.pdf"
     },
     {
-      "id": "9824",
-      "title": "Solicitation for the Electric Bicycle Incentives Project",
-      "agency": "Air Resources Board",
-      "summary": "The California Air Resources Board (CARB or the Board) is soliciting a Grantee to implement and administer the Electric Bicycle Incentives Project (EBIP) for Fiscal Year (FY) 2021-22 with an option to renew for a new Grant Agreement for each of the following two years for FY 2022-23 and FY 2023-24.",
-      "categories": [
-        "Environment & Water",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2022-04-04",
-      "closeDate": null,
-      "amountMin": 10000000,
-      "amountMax": 10000000,
-      "applyUrl": "https://ww2.arb.ca.gov/our-work/programs/low-carbon-transportation-investments-and-air-quality-improvement-program/low"
-    },
-    {
       "id": "83120",
       "title": "Stream Flow Enhancement",
       "agency": "Wildlife Conservation Board",
@@ -3650,7 +3601,7 @@
     },
     {
       "id": "117495",
-      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All – (Prop 68 River – CA) Act of 2018 (Proposition 68) SMMC Grant Program – (Prop 68 River – California)",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All – (Prop 68 River – CA) Act of 2018 (Proposition 68) SMMC Grant Program – (Prop 68 River – Community Access))",
       "agency": "Santa Monica Mountains Conservancy",
       "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
       "categories": [
@@ -3760,7 +3711,7 @@
     },
     {
       "id": "117498",
-      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – Prop 68 River San Fernando Valley – California",
+      "title": "The California Drought, Water, Parks, Climate, Coastal Protection and Outdoor Access for All Act of 2018 (Proposition 68) SMMC Grant Program – Prop 68 River San Fernando Valley – Community Access",
       "agency": "Santa Monica Mountains Conservancy",
       "summary": "Projects which facilitate the protection and restoration of wildlife, habitat and historical/archaeological resources, including habitat restoration projects in urban rural areas.",
       "categories": [
