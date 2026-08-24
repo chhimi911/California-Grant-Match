@@ -1,72 +1,9 @@
 {
-  "lastUpdated": "2026-08-17T15:39:36.053Z",
+  "lastUpdated": "2026-08-24T15:55:33.137Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 173,
+  "grantCount": 174,
   "grants": [
-    {
-      "id": "182691",
-      "title": "Division of Boating and Waterways Clean Vessel Act Education and Outreach Grant FY 2026",
-      "agency": "Department of Parks and Recreation",
-      "summary": "Provide education and awareness about the proper disposal of boat sewage",
-      "categories": [
-        "Education",
-        "Environment & Water",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-29",
-      "closeDate": "2026-08-17",
-      "amountMin": 360000,
-      "amountMax": 360000,
-      "applyUrl": "https://dbw.parks.ca.gov/?page_id=29109"
-    },
-    {
-      "id": "187587",
-      "title": "Technical Assistance Program (TAP) 2026-2027",
-      "agency": "Governor's Office of Business and Economic Development",
-      "summary": "This grant is ONLY open to Small Business Technical Assistance Centers. This is NOT a grant to small businesses. TAP seeks to expand advising and training to small businesses entrepreneurs. Funding is for new or enhanced advising and training services to small businesses.",
-      "categories": [
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-17",
-      "closeDate": "2026-08-17",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://calosba.ca.gov/for-calosba-partners/funding-opportunities-for-partners/"
-    },
-    {
-      "id": "177765",
-      "title": "Tire Incentive Program",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "CalRecycle provides the Tire Incentive Grant to: Divert waste tires from landfill disposal.Prevent illegal tire dumping that harms the environment.Promote markets for recycled-content tire products.",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "business"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-18",
-      "closeDate": "2026-08-19",
-      "amountMin": 25000,
-      "amountMax": 650000,
-      "applyUrl": "https://calrecycle.ca.gov/Tires/Grants/TIP/"
-    },
     {
       "id": "187143",
       "title": "Workforce Accelerator Fund 14",
@@ -336,6 +273,26 @@
       "applyUrl": "https://calrecycle.ca.gov/Tires/Grants/Pavement/"
     },
     {
+      "id": "191013",
+      "title": "Capital Infusion Program (CIP) 2026-2027",
+      "agency": "Governor's Office of Business and Economic Development",
+      "summary": "This grant is ONLY open to the five Small Business Development Center (SBDC) Networks in California. This is NOT a grant for small businesses. This funding is for the Small Business Development Centers (SBDCs) in the Northern CA, Central CA, Los Angeles, Orange County Inland Empire, and San Diego and Imperial regions to support their efforts to help small…",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-18",
+      "closeDate": "2026-09-11",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calosba.ca.gov/for-calosba-partners/funding-opportunities-for-partners/"
+    },
+    {
       "id": "164058",
       "title": "2026 Dairy Plus Program",
       "agency": "CA Department of Food and Agriculture",
@@ -379,6 +336,47 @@
       "amountMin": 1,
       "amountMax": 127500,
       "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "191022",
+      "title": "CDSS San Diego Newcomers Project",
+      "agency": "Department of Social Services",
+      "summary": "The purpose of the SDNP is to ensure the effective resettlement of refugees and other eligible noncitizens through culturally and linguistically appropriate services and promote refugee advancement past self-sufficiency and towards long-term integration in San Diego County.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "San Diego"
+      ],
+      "openDate": "2026-08-19",
+      "closeDate": "2026-09-18",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cdss.ca.gov/inforesources/refugees/funding"
+    },
+    {
+      "id": "190512",
+      "title": "Elevate Youth California: Cohort 8 Standard Track",
+      "agency": "Department of Health Care Services",
+      "summary": "Through this round of Elevate Youth California (EYC) funding, the Department of Health Care Services (DHCS) is making approximately $44 million available to community-based, Tribal, and county behavioral health organizations throughout California to expand youth and young adult substance use prevention through policy, systems, and environmental change.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-17",
+      "closeDate": "2026-09-21",
+      "amountMin": 1,
+      "amountMax": 1000000,
+      "applyUrl": "https://elevateyouthca.org/2026/08/funding-available-for-youth-substance-use-disorder-prevention-cohort-8-standard-track/"
     },
     {
       "id": "161955",
@@ -634,6 +632,27 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
+    },
+    {
+      "id": "191019",
+      "title": "FY 2027-28 Sustainable Transportation Planning Grant",
+      "agency": "Department of Transportation",
+      "summary": "Sustainable Communities support/implement local/regional multimodal transportation and land use planning projects that further a region’s RTP SCS and contribute to GHG reduction. Strategic Partnerships support Federal Planning Factors and transportation/multimodal planning studies in partnership with Caltrans that address regional, interregional, and…",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-18",
+      "closeDate": "2026-10-09",
+      "amountMin": 50000,
+      "amountMax": 700000,
+      "applyUrl": "https://dot.ca.gov/programs/transportation-planning/division-of-transportation-planning/regional-and-community-planning/sustainable-transportation-planning-grants"
     },
     {
       "id": "188472",
@@ -2039,27 +2058,6 @@
       "applyUrl": "https://www.waterboards.ca.gov/drinking_water/services/funding/SRF.html"
     },
     {
-      "id": "190512",
-      "title": "Elevate Youth California: Cohort 8 Standard Track",
-      "agency": "Department of Health Care Services",
-      "summary": "Through this round of Elevate Youth California (EYC) funding, the Department of Health Care Services (DHCS) is making approximately $44 million available to community-based, Tribal, and county behavioral health organizations throughout California to expand youth and young adult substance use prevention through policy, systems, and environmental change.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": null,
-      "closeDate": null,
-      "amountMin": 1,
-      "amountMax": 1000000,
-      "applyUrl": "https://elevateyouthca.org/2026/08/funding-available-for-youth-substance-use-disorder-prevention-cohort-8-standard-track/"
-    },
-    {
       "id": "1107",
       "title": "Emergency Drinking Water / Cleanup & Abatement Account Programs",
       "agency": "State Water Resources Control Board",
@@ -2126,6 +2124,27 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "http://scc.ca.gov/grants"
+    },
+    {
+      "id": "191055",
+      "title": "Flood Partnership: Real-time Data Grant Program",
+      "agency": "Department of Water Resources",
+      "summary": "The Real-time Data Grant Program was created to help fund projects to fill a gap in our current flood warning system. This grant program will fund additional real-time telemetry of reservoir elevations at dams with ungated spillways.",
+      "categories": [
+        "Disaster Prevention & Relief",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-21",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://water.ca.gov/Work-With-Us/Grants-And-Loans/Real-Time-Data-Grants"
     },
     {
       "id": "83009",
