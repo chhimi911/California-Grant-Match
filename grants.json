@@ -1,205 +1,9 @@
 {
-  "lastUpdated": "2026-08-24T15:55:33.137Z",
+  "lastUpdated": "2026-09-07T19:09:37.028Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 174,
+  "grantCount": 170,
   "grants": [
-    {
-      "id": "187143",
-      "title": "Workforce Accelerator Fund 14",
-      "agency": "Workforce Development Board",
-      "summary": "The California Workforce Development Board (CWDB) is pleased to announce up to $3 million in Workforce Innovation and Opportunity Act (WIOA) Governor’s discretionary funds for the Workforce Accelerator Fund 14 (Accelerator 14) grant program.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Education",
-        "Employment, Labor & Training",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-15",
-      "closeDate": "2026-08-27",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://cwdb.ca.gov/cwdb-home/grant-information/accelerator-14/"
-    },
-    {
-      "id": "184443",
-      "title": "FY 2026-27 Sexual Assault Response Teams (XS) Program Supplemental",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "The purpose of the Program is to fund a full-time Sexual Assault Counselor, per Evidence Code § 1035.2, to act as a SART Advocate to take a lead role in the planning and coordinating of SART efforts in their local community with the goal of improving the quality of, response to, and services for, sexual assault victims/survivors.",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-07",
-      "closeDate": "2026-09-01",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "184446",
-      "title": "FY 2026-27 Unserved/Underserved Child and Youth Advocacy (XY) Program Supplemental",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "To provide funding for advocacy and support services to unserved/underserved child and youth victims/survivors of crime, by maintaining and/or enhancing an existing program by committing staff time to specifically address the needs of the identified unserved/underserved child and youth victim/survivor population, hiring staff that reflect that population,…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-07",
-      "closeDate": "2026-09-01",
-      "amountMin": 1,
-      "amountMax": 194000,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "184488",
-      "title": "FY 2026-27 Supervised Visitation (SP) Program Supplemental",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "Provide court ordered on-site supervised visitation services.",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-07",
-      "closeDate": "2026-09-01",
-      "amountMin": 1,
-      "amountMax": 201000,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "184491",
-      "title": "2026-27 Child Abduction Training (AC) Program",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "The Program is to collaborate with the California Child Abduction Task Force (Task Force) to develop and provide statewide training and resources to multidisciplinary professionals involved in the investigation and intervention of child abduction cases.",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-07",
-      "closeDate": "2026-09-01",
-      "amountMin": 1,
-      "amountMax": 250000,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "184455",
-      "title": "2027 Department of Pesticide Regulation Sustainable Pest Management Grants Program",
-      "agency": "Department of Pesticide Regulation",
-      "summary": "To promote safer, more sustainable pest management practices in California, the Department of Pesticide Regulation (DPR) annually funds projects that advance sustainable pest management (SPM) practices through integrated pest management (IPM) research, knowledge, tools, outreach, and implementation in agricultural, urban, and/or wildland settings.",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Education",
-        "Employment, Labor & Training",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Parks & Recreation",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "business",
-        "individual",
-        "nonprofit",
-        "other",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-23",
-      "closeDate": "2026-09-01",
-      "amountMin": 100000,
-      "amountMax": 1000000,
-      "applyUrl": "https://www.cdpr.ca.gov/spm-grants/spm-grants-program/"
-    },
-    {
-      "id": "178956",
-      "title": "Tahoe for All",
-      "agency": "Tahoe Conservancy",
-      "summary": "The Tahoe for All Grant Program (TFA Program) is the Conservancy's Outdoors for All Grant opportunity. The Goal of the TFA Program is to support programs and projects that provide positive and inclusive outdoor experiences for historically underserved and excluded communities by providing grants for programs and projects that address economic, physical,…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-01",
-      "closeDate": "2026-09-04",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://tahoe.ca.gov/tahoe-for-all-grants/"
-    },
-    {
-      "id": "173352",
-      "title": "Community Resilience Centers Round 2 PLANNING Grant (FY 26-27)",
-      "agency": "Strategic Growth Council",
-      "summary": "The CRC Program funds the planning and construction or retrofits of community serving facilities that provide shelter and resources to mitigate the public health impacts of extreme heat and other emergency situations exacerbated by climate change, as well as year-round community programs and services.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Education",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Libraries and Arts",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-02",
-      "closeDate": "2026-09-04",
-      "amountMin": 100000,
-      "amountMax": 500000,
-      "applyUrl": "https://sgc.ca.gov/grant-programs/crc/application/"
-    },
     {
       "id": "180519",
       "title": "Tribal Wildfire Resilience Grants Solicitation 2026",
@@ -377,6 +181,35 @@
       "amountMin": 1,
       "amountMax": 1000000,
       "applyUrl": "https://elevateyouthca.org/2026/08/funding-available-for-youth-substance-use-disorder-prevention-cohort-8-standard-track/"
+    },
+    {
+      "id": "191016",
+      "title": "2027 Specialty Crop Block Grant Program",
+      "agency": "CA Department of Food and Agriculture",
+      "summary": "The California Department of Food and Agriculture's (CDFA) Specialty Crop Block Grant Program (SCBGP) funds projects that enhance the competitiveness of California specialty crops. The SCBGP is designed to support all sectors of California's specialty crop industry and improve the performance of California specialty crops within local, domestic, national,…",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Education",
+        "Employment, Labor & Training",
+        "Environment & Water",
+        "Food & Nutrition",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-24",
+      "closeDate": "2026-09-21",
+      "amountMin": 100000,
+      "amountMax": 600000,
+      "applyUrl": "https://www.cdfa.ca.gov/Specialty_Crop_Competitiveness_Grants/docs/2027_RFCP.pdf"
     },
     {
       "id": "161955",
@@ -655,6 +488,30 @@
       "applyUrl": "https://dot.ca.gov/programs/transportation-planning/division-of-transportation-planning/regional-and-community-planning/sustainable-transportation-planning-grants"
     },
     {
+      "id": "190281",
+      "title": "Farmworkers Advancement Program (FAP) Grant for Program Year 2026-27 (PY 26-27)",
+      "agency": "Employment Development Department",
+      "summary": "The goal of this grant is to fund projects that focus on farmworker needs at a regional level by offering essential skills and upskilling training for farmworkers to either advance in the agricultural industry and/or prepare for advancement outside of the agricultural sector.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Employment, Labor & Training"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "San Joaquin"
+      ],
+      "openDate": "2026-09-03",
+      "closeDate": "2026-10-12",
+      "amountMin": 1,
+      "amountMax": 1000000,
+      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/wdsfp_workforce_development_solicitations_for_proposals"
+    },
+    {
       "id": "188472",
       "title": "Extreme Heat and Community Resilience Program Round 2",
       "agency": "Governor’s Office of Land Use and Climate Innovation",
@@ -703,6 +560,26 @@
       "amountMin": 1,
       "amountMax": 375000,
       "applyUrl": "https://calrecycle.ca.gov/tires/grants/tda/fy202627/"
+    },
+    {
+      "id": "191181",
+      "title": "FY 2026-27 Intimate Partner Violence Prevention (FD) Program Supplemental",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "The purpose of the Intimate Partner Violence Prevention (FD) Program is to prevent intimate partner violence, including teen dating violence, and sexual assault.",
+      "categories": [
+        "Education"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-28",
+      "closeDate": "2026-10-16",
+      "amountMin": 1,
+      "amountMax": 132828,
+      "applyUrl": "https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/grants-management/grants-central-system/"
     },
     {
       "id": "189912",
@@ -813,6 +690,30 @@
       "amountMin": 50000,
       "amountMax": 203500,
       "applyUrl": "https://www.cde.ca.gov/fg/fo/r27/ases25rfaround2.asp"
+    },
+    {
+      "id": "191124",
+      "title": "Statewide Park Development and Community Revitalization Program (SPP) – Round 5 – Proposition 4",
+      "agency": "Department of Parks and Recreation",
+      "summary": "The Statewide Park Development and Community Revitalization Program (SPP) that helps support the acquisition and development of new parks and the renovation or expansion of existing parks in critically underserved and climate-vulnerable communities. Visit the California State Parks SPP webpage for information about the grant program and application process.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Health & Human Services",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-08-28",
+      "closeDate": "2026-12-17",
+      "amountMin": 200000,
+      "amountMax": 8500000,
+      "applyUrl": "https://www.parks.ca.gov/spp"
     },
     {
       "id": "190524",
@@ -1231,31 +1132,6 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://dtsc.ca.gov/revolving-loan-fund-rlf-program/"
-    },
-    {
-      "id": "184437",
-      "title": "California Community Reinvestment Grants Program",
-      "agency": "Governor's Office of Business and Economic Development",
-      "summary": "The CalCRG program awards grants to Local Health Departments and qualified Community-based Nonprofit Organizations to support job placement, mental health treatment, substance use disorder treatment, system navigation services, legal services to address barriers to reentry, and linkages to medical care for communities disproportionately affected by past…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Employment, Labor & Training",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Law, Justice, and Legal Services"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-03",
-      "closeDate": null,
-      "amountMin": 600000,
-      "amountMax": 3000000,
-      "applyUrl": "https://www.business.ca.gov/CalCRG"
     },
     {
       "id": "11714",
@@ -1953,10 +1829,7 @@
         "Environment & Water"
       ],
       "applicantTypes": [
-        "business",
-        "individual",
         "nonprofit",
-        "other",
         "public agency",
         "tribal"
       ],
@@ -2458,6 +2331,29 @@
       "applyUrl": "https://wcb.ca.gov/Programs/Lower-American-River"
     },
     {
+      "id": "191037",
+      "title": "Lunch at the Library Summer 2027",
+      "agency": "CA State Library",
+      "summary": "Funds and support are available for all California public libraries that help to provide USDA summer meals for children and youth. The Lunch at the Library program helps California public libraries to establish library locations as U.S Department of Agriculture (USDA) summer meal sites and take pop-up libraries to other USDA community meal sites while…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Food & Nutrition",
+        "Libraries and Arts"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.library.ca.gov/grants/lunch/"
+    },
+    {
       "id": "83054",
       "title": "Monarch Butterfly and Pollinator Rescue",
       "agency": "Wildlife Conservation Board",
@@ -2567,7 +2463,7 @@
       "applyUrl": "https://wildlife.ca.gov/OSPR/Local-Government-Outreach"
     },
     {
-      "id": "1059",
+      "id": "191196",
       "title": "Orphan Site Cleanup Fund",
       "agency": "State Water Resources Control Board",
       "summary": "The Orphan Site Cleanup Fund (OSCF) is a grant program providing financial assistance to eligible applicants for the cleanup of sites contaminated by leaking petroleum underground storage tanks where there is no financially responsible party, and the applicant is not an eligible claimant to the UST Cleanup Fund.",
