@@ -1,101 +1,9 @@
 {
-  "lastUpdated": "2026-09-07T19:09:37.028Z",
+  "lastUpdated": "2026-09-14T19:50:36.925Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
   "grantCount": 170,
   "grants": [
-    {
-      "id": "180519",
-      "title": "Tribal Wildfire Resilience Grants Solicitation 2026",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "Tribal Wildfire Resilience grants is part of CAL FIRE’s Climate and Energy Program and supports California Native American tribes in managing ancestral lands, implementing and promoting Traditional Environmental Knowledges in wildfire resilience, and establishing wildfire safety for tribal communities.",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Employment, Labor & Training",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-08",
-      "closeDate": "2026-09-08",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/tribal-wildfire-resilience"
-    },
-    {
-      "id": "184494",
-      "title": "2026-27 Student Trauma Notification (TN) Program",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "The purpose of the Program is to create school district notification systems designed to decrease the negative impacts on children who are exposed to violence and trauma by improving communication and collaboration between first responders, schools, and community resources.",
-      "categories": [
-        "Education"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-07",
-      "closeDate": "2026-09-10",
-      "amountMin": 1,
-      "amountMax": 214999,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "190263",
-      "title": "Rubberized Pavement Grant Program",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The purpose of the grant is to promote markets for Rubberized Asphalt Concrete (RAC) products with crumb rubber derived from only California-generated waste tires to resurface roads using RAC Hot-Mix or Chip Seal applications. The program is designed to encourage first-time users of rubberized pavement. Parking lots and alleys are eligible.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Environment & Water",
-        "Science, Technology, and Research & Development",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-05",
-      "closeDate": "2026-09-10",
-      "amountMin": 375000,
-      "amountMax": 750000,
-      "applyUrl": "https://calrecycle.ca.gov/Tires/Grants/Pavement/"
-    },
-    {
-      "id": "191013",
-      "title": "Capital Infusion Program (CIP) 2026-2027",
-      "agency": "Governor's Office of Business and Economic Development",
-      "summary": "This grant is ONLY open to the five Small Business Development Center (SBDC) Networks in California. This is NOT a grant for small businesses. This funding is for the Small Business Development Centers (SBDCs) in the Northern CA, Central CA, Los Angeles, Orange County Inland Empire, and San Diego and Imperial regions to support their efforts to help small…",
-      "categories": [
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-18",
-      "closeDate": "2026-09-11",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://calosba.ca.gov/for-calosba-partners/funding-opportunities-for-partners/"
-    },
     {
       "id": "164058",
       "title": "2026 Dairy Plus Program",
@@ -140,6 +48,29 @@
       "amountMin": 1,
       "amountMax": 127500,
       "applyUrl": "https://caloes.intelligrants.com/"
+    },
+    {
+      "id": "191256",
+      "title": "Legacy Disposal Site Abatement Grant Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The program provides financial assistance in the form of reimbursement grants up to $750,000 in matching funds for eligible costs to assist public entities requiring financial assistance, and committed to accelerating the pace of cleanup, restoring sites, and protecting public health and safety and the environment.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Health & Human Services",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-16",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calrecycle.ca.gov/LEA/GrantsLoans/SolidWaste/LocalGrants/"
     },
     {
       "id": "191022",
@@ -403,6 +334,27 @@
       "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
     },
     {
+      "id": "191109",
+      "title": "Forest Legacy Program Capacity and Project Development 2026",
+      "agency": "Department of Forestry and Fire Protection",
+      "summary": "CAL FIRE’s Forest Legacy Program funds landscape-scale conservation projects intended to conserve working forests and working forested landscapes. This solicitation aims to increase organizational capacity for eligible applicants and support the development of high-quality forest conservation projects.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "other"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-30",
+      "amountMin": 50000,
+      "amountMax": 150000,
+      "applyUrl": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/what-we-do/grants/forest-legacy/forest-legacy-program-capacity-and-project-development-2026-grant-guidelines.pdf?rev=5f1378e086444119b54013cfe398372a&hash=452B7C95C97CAFC8F09768DF715FE961"
+    },
+    {
       "id": "190497",
       "title": "California Investment and Innovation Program (Cal IIP) 2027",
       "agency": "State Treasurer's Office",
@@ -582,6 +534,29 @@
       "applyUrl": "https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/grants-management/grants-central-system/"
     },
     {
+      "id": "191262",
+      "title": "Illegal Disposal Site Abatement Grant Program",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "This program provides financial assistance in the form of reimbursement grants up to $500,000 to help public entities accelerate the pace of cleanup, restore sites, and turn today’s problems into tomorrow’s opportunities.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Health & Human Services",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-09",
+      "closeDate": "2026-10-16",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calrecycle.ca.gov/LEA/GrantsLoans/SolidWaste/LocalGrants/"
+    },
+    {
       "id": "189912",
       "title": "Quantum FAST Challenge",
       "agency": "Governor's Office of Business and Economic Development",
@@ -624,6 +599,27 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/registered-nurse-rn/"
+    },
+    {
+      "id": "191106",
+      "title": "Recycled Glass Processing Incentive Grant Program (FY 2026-27)",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The fundamental goal of the Program is to stimulate an increase of furnace-ready glass cullet in the making of new glass beverage containers within the State of California.",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-08",
+      "closeDate": "2026-10-22",
+      "amountMin": 1000000,
+      "amountMax": 4000000,
+      "applyUrl": "https://calrecycle.ca.gov/bevcontainer/grants/rgp/fy202627/"
     },
     {
       "id": "184092",
