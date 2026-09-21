@@ -1,97 +1,9 @@
 {
-  "lastUpdated": "2026-09-14T19:50:36.925Z",
+  "lastUpdated": "2026-09-21T19:59:12.228Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 170,
+  "grantCount": 176,
   "grants": [
-    {
-      "id": "164058",
-      "title": "2026 Dairy Plus Program",
-      "agency": "CA Department of Food and Agriculture",
-      "summary": "The California Department of Food and Agriculture (CDFA) Office of Agricultural Resilience and Sustainability (OARS) 2026 Dairy Plus Program will award competitive grants to California dairy farms for the implementation of advanced manure management practices that address both methane emissions and nitrogen and salt surplus.",
-      "categories": [
-        "Agriculture",
-        "Animal Services",
-        "Disadvantaged Communities",
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "business",
-        "individual",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-06-16",
-      "closeDate": "2026-09-14",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.cdfa.ca.gov/oars/dairyplus/docs/2026/2026_DairyPlus_RGA.pdf"
-    },
-    {
-      "id": "184500",
-      "title": "FY 2026-27 Bullying and Violence in School Advocacy (XB) Program Supplemental",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "The purpose of the Program is to provide counseling, advocacy, and other support services to children/teenagers who have been victimized by bullying and /or school violence.",
-      "categories": [
-        "Education"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-07",
-      "closeDate": "2026-09-14",
-      "amountMin": 1,
-      "amountMax": 127500,
-      "applyUrl": "https://caloes.intelligrants.com/"
-    },
-    {
-      "id": "191256",
-      "title": "Legacy Disposal Site Abatement Grant Program",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The program provides financial assistance in the form of reimbursement grants up to $750,000 in matching funds for eligible costs to assist public entities requiring financial assistance, and committed to accelerating the pace of cleanup, restoring sites, and protecting public health and safety and the environment.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Environment & Water",
-        "Health & Human Services",
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-16",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://calrecycle.ca.gov/LEA/GrantsLoans/SolidWaste/LocalGrants/"
-    },
-    {
-      "id": "191022",
-      "title": "CDSS San Diego Newcomers Project",
-      "agency": "Department of Social Services",
-      "summary": "The purpose of the SDNP is to ensure the effective resettlement of refugees and other eligible noncitizens through culturally and linguistically appropriate services and promote refugee advancement past self-sufficiency and towards long-term integration in San Diego County.",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "San Diego"
-      ],
-      "openDate": "2026-08-19",
-      "closeDate": "2026-09-18",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.cdss.ca.gov/inforesources/refugees/funding"
-    },
     {
       "id": "190512",
       "title": "Elevate Youth California: Cohort 8 Standard Track",
@@ -220,6 +132,31 @@
       "amountMin": 1000000,
       "amountMax": 10000000,
       "applyUrl": "https://sgc.ca.gov/grant-programs/crc/application/"
+    },
+    {
+      "id": "191346",
+      "title": "Division of Boating and Waterways 2026 Boating Infrastructure Grant",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provides funding to construct or improve infrastructure used by transient recreational vessels 26 feet or more in length.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-15",
+      "closeDate": "2026-09-29",
+      "amountMin": 300000,
+      "amountMax": 1500000,
+      "applyUrl": "https://dbw.parks.ca.gov/?page_id=28821"
     },
     {
       "id": "98154",
@@ -514,6 +451,27 @@
       "applyUrl": "https://calrecycle.ca.gov/tires/grants/tda/fy202627/"
     },
     {
+      "id": "191235",
+      "title": "LA County TECH (CEA-LAT) Grant – Round 3",
+      "agency": "Public Utilities Commission",
+      "summary": "The CEA-LAT Grant Program supports community-based organizations that conduct outreach and education related to the Technology for Equipment and Clean Heating (TECH) Clean California initiative. Grant-funded activities help residents learn about building decarbonization, electrification technologies, healthy homes, and opportunities to access clean energy…",
+      "categories": [
+        "Education",
+        "Energy"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-15",
+      "closeDate": "2026-10-15",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cpuc.ca.gov/about-cpuc/divisions/news-and-public-information-office/business-and-community-outreach/equity-and-access-grant-program"
+    },
+    {
       "id": "191181",
       "title": "FY 2026-27 Intimate Partner Violence Prevention (FD) Program Supplemental",
       "agency": "Governor's Office of Emergency Services",
@@ -622,6 +580,81 @@
       "applyUrl": "https://calrecycle.ca.gov/bevcontainer/grants/rgp/fy202627/"
     },
     {
+      "id": "191664",
+      "title": "Delta Community, Environment, and Climate Grant Program",
+      "agency": "Sacramento-San Joaquin Delta Conservancy",
+      "summary": "The purpoose of the Delta Community, Environment and Climate Grant Program is to fund multibenefit projects in the Delta and Suisun Marsh. The Conservancy is soliciting proposals for three different priorities: Community Enhancement, Nature-Based Solutions, and Ecosystem Restoration.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-17",
+      "closeDate": "2026-10-23",
+      "amountMin": 100000,
+      "amountMax": 2000000,
+      "applyUrl": "https://deltaconservancy.ca.gov/grant-program/prop-4/"
+    },
+    {
+      "id": "191499",
+      "title": "Scaling Dyadic Care Grant Program",
+      "agency": "Department of Health Care Services",
+      "summary": "The Department of Health Care Services (DHCS) launched the Scaling Dyadic Care Grant Program to make relationship-centered, family-focused behavioral health care a routine and accessible component of pediatric services throughout California.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Health & Human Services",
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-16",
+      "closeDate": "2026-10-26",
+      "amountMin": 500000,
+      "amountMax": 700000,
+      "applyUrl": "https://www.dhcs.ca.gov/providers-partners/dyadic-services-as-a-medi-cal-benefit/"
+    },
+    {
+      "id": "191679",
+      "title": "Emergency Medical Services Technical Assistance (EMS TA) Solicitation for Proposals (SFP) for Program Year 2026 (PY 26-27)",
+      "agency": "Employment Development Department",
+      "summary": "The EMS TA grant is designed to strengthen the quality, consistency, and sustainability of existing EMS Corps programs across California. The awardee must possess the capability to provide technical assistance such as operational support, on-the-ground project support, ongoing training, including technical assistance, and administrative support for program…",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-17",
+      "closeDate": "2026-10-27",
+      "amountMin": 1500000,
+      "amountMax": 1500000,
+      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/WDSFP_Workforce_Development_Solicitations_for_Proposals"
+    },
+    {
       "id": "184092",
       "title": "2026-27 Digital Divide Grant Program Round 4",
       "agency": "Public Utilities Commission",
@@ -646,6 +679,51 @@
       "applyUrl": "https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/california-teleconnect-fund/digital-divide-grant-program"
     },
     {
+      "id": "191667",
+      "title": "Rice Incentive Program",
+      "agency": "Sacramento-San Joaquin Delta Conservancy",
+      "summary": "Fund rice conversion projects on areas with highly organic soils in the Delta.",
+      "categories": [
+        "Agriculture"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-17",
+      "closeDate": "2026-10-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://deltaconservancy.ca.gov/grant-program/prop-4/"
+    },
+    {
+      "id": "191211",
+      "title": "Division of Boating and Waterways Aquatic Center Boating Safety Education Grant FY26",
+      "agency": "Department of Parks and Recreation",
+      "summary": "Provide boating safety education to the general public.",
+      "categories": [
+        "Education",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-18",
+      "closeDate": "2026-10-30",
+      "amountMin": 1,
+      "amountMax": 62000,
+      "applyUrl": "http://dbw.parks.ca.gov/?page_id=28817"
+    },
+    {
       "id": "187065",
       "title": "Local Highway Safety Improvement Program (HSIP)",
       "agency": "Department of Transportation",
@@ -665,6 +743,30 @@
       "amountMin": 100000,
       "amountMax": 10000000,
       "applyUrl": "https://dot.ca.gov/programs/local-assistance/fed-and-state-programs/highway-safety-improvement-program/apply-now"
+    },
+    {
+      "id": "191673",
+      "title": "Youth Community Access Grant Program (Round 4)",
+      "agency": "CA Natural Resources Agency",
+      "summary": "YCA Grants will fund projects that serve youth from low-income and disadvantaged communities and provide immersive and meaningful experiences with natural or cultural resources within California that participants otherwise would not have.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-21",
+      "closeDate": "2026-11-04",
+      "amountMin": 30000,
+      "amountMax": 300000,
+      "applyUrl": "https://resources.ca.gov/grants/youth"
     },
     {
       "id": "152751",
@@ -710,6 +812,32 @@
       "amountMin": 200000,
       "amountMax": 8500000,
       "applyUrl": "https://www.parks.ca.gov/spp"
+    },
+    {
+      "id": "191763",
+      "title": "2027 Nonpoint Source (NPS) Grant Program – Clean Water Act section 319(h)",
+      "agency": "State Water Resources Control Board",
+      "summary": "The NPS Grant Program seeks proposals for projects that reduce runoff of pollution to waters of the state, such as agricultural projects that reduce pesticide and nutrient runoff, improvement or decommissioning of dirt roads to reduce erosion and sediment runoff, streambank stabilization to reduce erosion and infrastructure improvements for ranching and…",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Science, Technology, and Research & Development"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-18",
+      "closeDate": "2026-12-18",
+      "amountMin": 100000,
+      "amountMax": 1000000,
+      "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/nps/319grants.html"
     },
     {
       "id": "190524",
@@ -3466,6 +3594,32 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://hcai.ca.gov/wp-content/uploads/2022/06/19.-Small-and-Rural-Hospital-Relief-Program-Eligibility-Tool.pdf"
+    },
+    {
+      "id": "191454",
+      "title": "Small Grants Program",
+      "agency": "Sacramento-San Joaquin Delta Conservancy",
+      "summary": "The Program provides funding for eligible entities to complete projects under $100,000 that make transformative investments in the Delta’s social, economic, scientific, and physical infrastructure. Projects may support community needs, advance scientific research that informs resource management, or enhance tourism and public understanding of Delta places…",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Housing, Community and Economic Development",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-18",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://deltaconservancy.ca.gov/grant-program/prop-4/#Small-Grant-Program-Solicitation"
     },
     {
       "id": "83120",
