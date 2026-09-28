@@ -1,138 +1,9 @@
 {
-  "lastUpdated": "2026-09-21T19:59:12.228Z",
+  "lastUpdated": "2026-09-28T21:13:44.662Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 176,
+  "grantCount": 172,
   "grants": [
-    {
-      "id": "190512",
-      "title": "Elevate Youth California: Cohort 8 Standard Track",
-      "agency": "Department of Health Care Services",
-      "summary": "Through this round of Elevate Youth California (EYC) funding, the Department of Health Care Services (DHCS) is making approximately $44 million available to community-based, Tribal, and county behavioral health organizations throughout California to expand youth and young adult substance use prevention through policy, systems, and environmental change.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-17",
-      "closeDate": "2026-09-21",
-      "amountMin": 1,
-      "amountMax": 1000000,
-      "applyUrl": "https://elevateyouthca.org/2026/08/funding-available-for-youth-substance-use-disorder-prevention-cohort-8-standard-track/"
-    },
-    {
-      "id": "191016",
-      "title": "2027 Specialty Crop Block Grant Program",
-      "agency": "CA Department of Food and Agriculture",
-      "summary": "The California Department of Food and Agriculture's (CDFA) Specialty Crop Block Grant Program (SCBGP) funds projects that enhance the competitiveness of California specialty crops. The SCBGP is designed to support all sectors of California's specialty crop industry and improve the performance of California specialty crops within local, domestic, national,…",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Education",
-        "Employment, Labor & Training",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-24",
-      "closeDate": "2026-09-21",
-      "amountMin": 100000,
-      "amountMax": 600000,
-      "applyUrl": "https://www.cdfa.ca.gov/Specialty_Crop_Competitiveness_Grants/docs/2027_RFCP.pdf"
-    },
-    {
-      "id": "161955",
-      "title": "Song-Brown Certified Nurse Midwifery (CNM) Training Programs 2026 Application",
-      "agency": "Department of Health Care Access and Information",
-      "summary": "The Song-Brown program funds institutions that train primary care health professionals to provide healthcare in California’s medically underserved areas.",
-      "categories": [
-        "Education",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-02-23",
-      "closeDate": "2026-09-23",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/certified-nurse-midwifery-cnm/"
-    },
-    {
-      "id": "161952",
-      "title": "Song Brown Family Nurse Practitioner and Physician Assistant (FNP & PA) 2026 Application",
-      "agency": "Department of Health Care Access and Information",
-      "summary": "The Song-Brown program funds institutions that train primary care health professionals to provide healthcare in California’s medically underserved areas.",
-      "categories": [
-        "Education",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-02-24",
-      "closeDate": "2026-09-23",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/family-nurse-practitioner-physician-assistant-fnp-pa/"
-    },
-    {
-      "id": "173694",
-      "title": "Community Resilience Centers Round 2 IMPLEMENTATION Grant (FY 26-27)",
-      "agency": "Strategic Growth Council",
-      "summary": "The Community Resilience Centers Program (CRC) funds planning, development, construction, and upgrades of local facilities to serve as Community Resilience Centers, providing shelter and resources during climate and other emergencies. The program will also fund ongoing year-round community services and programs that build overall community resilience.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Education",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Libraries and Arts",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-02",
-      "closeDate": "2026-09-25",
-      "amountMin": 1000000,
-      "amountMax": 10000000,
-      "applyUrl": "https://sgc.ca.gov/grant-programs/crc/application/"
-    },
     {
       "id": "191346",
       "title": "Division of Boating and Waterways 2026 Boating Infrastructure Grant",
@@ -655,6 +526,29 @@
       "applyUrl": "https://edd.ca.gov/en/jobs_and_training/WDSFP_Workforce_Development_Solicitations_for_Proposals"
     },
     {
+      "id": "191505",
+      "title": "Increased Recycling of Empty Glass Beverage Containers Grant Program, FY 2026-27",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The fundamental goal of the Program is to assist in funding regional pilot programs that are supplying bins for collection of empty glass beverage containers from five or more restaurants and on-sale retail licensed establishments licensed pursuant to the Alcoholic Beverage Control Act (Division 9, commencing with Section 2300, of the Business and…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-22",
+      "closeDate": "2026-10-29",
+      "amountMin": 250000,
+      "amountMax": 4000000,
+      "applyUrl": "https://calrecycle.ca.gov/bevcontainer/grants/egr/fy202627/"
+    },
+    {
       "id": "184092",
       "title": "2026-27 Digital Divide Grant Program Round 4",
       "agency": "Public Utilities Commission",
@@ -743,6 +637,31 @@
       "amountMin": 100000,
       "amountMax": 10000000,
       "applyUrl": "https://dot.ca.gov/programs/local-assistance/fed-and-state-programs/highway-safety-improvement-program/apply-now"
+    },
+    {
+      "id": "191343",
+      "title": "2026 California Nutrition Incentive Program",
+      "agency": "CA Department of Food and Agriculture",
+      "summary": "The 2026 CNIP RFP is focused on increasing California-grown fresh fruit and vegetable purchases at Certified Farmers’ Markets and California Small Businesses* by shoppers using CalFresh (SNAP) benefits and sustaining proposals in high need areas.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Food & Nutrition",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "other",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-25",
+      "closeDate": "2026-11-03",
+      "amountMin": 50000,
+      "amountMax": 12500000,
+      "applyUrl": "https://cafarmtofork.cdfa.ca.gov/farm_to_fork/grants/cnip.html"
     },
     {
       "id": "191673",
@@ -3530,7 +3449,7 @@
       "id": "59151",
       "title": "Senate Bill 1 Sea Level Rise Adaptation Grant Program – Track 1",
       "agency": "Ocean Protection Council",
-      "summary": "The goal of the Senate Bill 1 Sea Level Rise Adaptation Planning Grant Program (SB 1 Grant Program) is to support the implementation of SB 1 (Atkins, 2021) for local, regional, and tribal governments. Ultimately, the SB 1 Grant Program aims to provide funding for coastal communities to develop consistent sea level rise (SLR) adaptation plans and projects to…",
+      "summary": "Track 1 of the SB 1 SLR Adaptation Grant Program supports jurisdiction-wide and regional sea level rise planning across California’s coast and San Francisco Bay. Projects advance consistent, comprehensive SLR Adaptation Plans, apply statewide criteria, incorporate equitable community-informed planning, and prepare jurisdictions for future adaptation…",
       "categories": [
         "Disadvantaged Communities",
         "Disaster Prevention & Relief",
@@ -3550,29 +3469,6 @@
       "amountMin": 200000,
       "amountMax": 1500000,
       "applyUrl": "https://www.opc.ca.gov/sb-1-funding/"
-    },
-    {
-      "id": "141324",
-      "title": "Senate Bill 1 Sea Level Rise Tribal Cultural Resources Funding Program",
-      "agency": "Ocean Protection Council",
-      "summary": "The purpose of the Sea Level Rise (SLR) Tribal Cultural Resources Funding Program is to provide funding for tribes to assess and plan for the impacts of SLR on their ancestral lands, cultural sites, lifeways, and resources in a manner that is meaningful and beneficial to the tribe.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2025-07-19",
-      "closeDate": null,
-      "amountMin": 250000,
-      "amountMax": 750000,
-      "applyUrl": "https://www.opc.ca.gov/sb-1-tribal-funding/"
     },
     {
       "id": "2187",
