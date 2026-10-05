@@ -1,188 +1,9 @@
 {
-  "lastUpdated": "2026-09-28T21:13:44.662Z",
+  "lastUpdated": "2026-10-05T22:00:41.791Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 172,
+  "grantCount": 169,
   "grants": [
-    {
-      "id": "191346",
-      "title": "Division of Boating and Waterways 2026 Boating Infrastructure Grant",
-      "agency": "Department of Parks and Recreation",
-      "summary": "Provides funding to construct or improve infrastructure used by transient recreational vessels 26 feet or more in length.",
-      "categories": [
-        "Environment & Water",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "other",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-29",
-      "amountMin": 300000,
-      "amountMax": 1500000,
-      "applyUrl": "https://dbw.parks.ca.gov/?page_id=28821"
-    },
-    {
-      "id": "98154",
-      "title": "2025 Tribal Multifamily Finance Super Notice of Funding Availability",
-      "agency": "Department of Housing and Community Development",
-      "summary": "The Department announces the availability of approximately $50 million in funds available through this first round of the Tribal Multifamily Finance Super Notice of Funding Availability (Tribal MFSN). This NOFA makes funds more easily accessible to Tribes and Tribal Entities and provides flexible options to address the unique needs of Indian communities to…",
-      "categories": [
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2025-04-01",
-      "closeDate": "2026-09-30",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.hcd.ca.gov/grants-and-funding/tribal-multifamily-finance-super-nofa"
-    },
-    {
-      "id": "173037",
-      "title": "Transformative Climate Communities Round 6 PLANNING Grant (FY 25-26)",
-      "agency": "Strategic Growth Council",
-      "summary": "The Transformative Climate Communities Program furthers the purposes of AB 32 (Nunez, 2006) and AB 2722 (Burke, 2016) by funding projects that reduce greenhouse gas emissions (GHG) through the development and implementation of neighborhood-level transformative climate community plans that include multiple coordinated GHG emissions reduction projects that…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-05-29",
-      "closeDate": "2026-09-30",
-      "amountMin": 300000,
-      "amountMax": 300000,
-      "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
-    },
-    {
-      "id": "173232",
-      "title": "Transformative Climate Communities Round 6 PROJECT DEVELOPMENT Grant (FY 25-26)",
-      "agency": "Strategic Growth Council",
-      "summary": "The TCC Program furthers the purposes of AB 32 (Nunez, 2006) and AB 2722 (Burke, 2016) by funding projects that reduce greenhouse gas emissions (GHG) through the development and implementation of neighborhood-level transformative climate community plans that include multiple coordinated GHG emissions reduction projects that provide local economic,…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-05-29",
-      "closeDate": "2026-09-30",
-      "amountMin": 1,
-      "amountMax": 5000000,
-      "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
-    },
-    {
-      "id": "173241",
-      "title": "Transformative Climate Communities Round 6 IMPLEMENTATION Grant (FY 25-26)",
-      "agency": "Strategic Growth Council",
-      "summary": "The TCC Program furthers the purposes of AB 32 (Nunez, 2006) and AB 2722 (Burke, 2016) by funding projects that reduce greenhouse gas emissions (GHG) through the development and implementation of neighborhood-level transformative climate community plans that include multiple coordinated GHG emissions reduction projects that provide local economic,…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Employment, Labor & Training",
-        "Energy",
-        "Environment & Water",
-        "Food & Nutrition",
-        "Health & Human Services",
-        "Housing, Community and Economic Development",
-        "Parks & Recreation",
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-05-29",
-      "closeDate": "2026-09-30",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://sgc.ca.gov/wp-content/uploads/20260414-TCC-R6FinalGuidelines-Draft.pdf"
-    },
-    {
-      "id": "191109",
-      "title": "Forest Legacy Program Capacity and Project Development 2026",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "CAL FIRE’s Forest Legacy Program funds landscape-scale conservation projects intended to conserve working forests and working forested landscapes. This solicitation aims to increase organizational capacity for eligible applicants and support the development of high-quality forest conservation projects.",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "other"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-30",
-      "amountMin": 50000,
-      "amountMax": 150000,
-      "applyUrl": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/what-we-do/grants/forest-legacy/forest-legacy-program-capacity-and-project-development-2026-grant-guidelines.pdf?rev=5f1378e086444119b54013cfe398372a&hash=452B7C95C97CAFC8F09768DF715FE961"
-    },
-    {
-      "id": "190497",
-      "title": "California Investment and Innovation Program (Cal IIP) 2027",
-      "agency": "State Treasurer's Office",
-      "summary": "Cal IIP was established to provide grants to enhance the capacity and ability of community development financial institutions (CDFIs) to provide programs including technical assistance and access to capital to economically disadvantaged communities throughout California.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "business"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-12",
-      "closeDate": "2026-10-01",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.treasurer.ca.gov/cpcfa/caliip/application.asp"
-    },
     {
       "id": "190254",
       "title": "California Serves Grant Program 2026-27",
@@ -361,29 +182,6 @@
       "amountMin": 1,
       "amountMax": 132828,
       "applyUrl": "https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/grants-management/grants-central-system/"
-    },
-    {
-      "id": "191262",
-      "title": "Illegal Disposal Site Abatement Grant Program",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "This program provides financial assistance in the form of reimbursement grants up to $500,000 to help public entities accelerate the pace of cleanup, restore sites, and turn today’s problems into tomorrow’s opportunities.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Environment & Water",
-        "Health & Human Services",
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-09",
-      "closeDate": "2026-10-16",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://calrecycle.ca.gov/LEA/GrantsLoans/SolidWaste/LocalGrants/"
     },
     {
       "id": "189912",
@@ -639,6 +437,29 @@
       "applyUrl": "https://dot.ca.gov/programs/local-assistance/fed-and-state-programs/highway-safety-improvement-program/apply-now"
     },
     {
+      "id": "191046",
+      "title": "The Recreational Trails Program (RTP) – R27",
+      "agency": "Department of Parks and Recreation",
+      "summary": "The purpose of the Recreational Trails Program is to provide for well managed OHV Recreation by providing financial assistance to eligible agencies and organizations that develop, maintain, operate, expand, support, or contribute to well managed, high-quality, OHV Recreation areas, roads, and trails, and to responsibly maintain the wildlife, soils, and…",
+      "categories": [
+        "Education",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-02",
+      "closeDate": "2026-11-02",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://ohv.parks.ca.gov/?page_id=24881"
+    },
+    {
       "id": "191343",
       "title": "2026 California Nutrition Incentive Program",
       "agency": "CA Department of Food and Agriculture",
@@ -686,6 +507,86 @@
       "amountMin": 30000,
       "amountMax": 300000,
       "applyUrl": "https://resources.ca.gov/grants/youth"
+    },
+    {
+      "id": "192300",
+      "title": "2026 Local Partnership Competitive Program",
+      "agency": "Transportation Commission",
+      "summary": "The primary objective of this program is to provide funding to counties, cities, districts, and regional transportation agencies in which voters have approved fees or taxes dedicated solely to transportation improvements or that have imposed fees, including uniform developer fees, dedicated solely to transportation improvements.",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-30",
+      "closeDate": "2026-11-18",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://catc.ca.gov/programs/sb1/local-partnership-program"
+    },
+    {
+      "id": "192294",
+      "title": "2026 Solutions for Congested Corridors Program",
+      "agency": "Transportation Commission",
+      "summary": "The purpose of the Solutions for Congested Corridors Program is to provide funding to achieve a balanced set of transportation, environmental, and community access improvements to reduce congestion throughout the state.",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-30",
+      "closeDate": "2026-11-19",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://catc.ca.gov/programs/sb1/solutions-for-congested-corridors-program"
+    },
+    {
+      "id": "192288",
+      "title": "2026 Trade Corridor Enhancement Program",
+      "agency": "Transportation Commission",
+      "summary": "The purpose of the Trade Corridor Enhancement Program is to provide funding for infrastructure improvements on federally designated Trade Corridors of National and Regional Significance, on California's portion of the National Highway Freight Network, as identified in California Freight Mobility Plan, and along other corridors that have a high volume of…",
+      "categories": [
+        "Transportation"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-30",
+      "closeDate": "2026-11-20",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://catc.ca.gov/programs/sb1/trade-corridor-enhancement-program"
+    },
+    {
+      "id": "192465",
+      "title": "FY 2025 Next Generation Warning System (NGWS) for Early Earthquake Warning (EEW) Grant Program CFO",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "Next Generation Early Warning streaming projects",
+      "categories": [
+        "Disaster Prevention & Relief"
+      ],
+      "applicantTypes": [
+        "business"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-01",
+      "closeDate": "2026-11-25",
+      "amountMin": 1,
+      "amountMax": 750000,
+      "applyUrl": "https://caloes.intelligrants.com/"
     },
     {
       "id": "152751",
@@ -2109,30 +2010,6 @@
       "applyUrl": "https://www.energy.ca.gov/"
     },
     {
-      "id": "80633",
-      "title": "Grants and Cooperative Agreements Program (GCA)- G25",
-      "agency": "Department of Parks and Recreation",
-      "summary": "The Grants and Cooperative Agreements (GCA) Program provides for well managed Off-Highway Vehicle (OHV) Recreation by providing financial assistance to eligible agencies and organizations that develop, maintain, operate, expand, support, or contribute to well managed, high-quality, OHV Recreation areas, roads, and trails, and to responsibly maintain the…",
-      "categories": [
-        "Education",
-        "Environment & Water",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2025-02-04",
-      "closeDate": null,
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://ohv.parks.ca.gov/?page_id=30524"
-    },
-    {
       "id": "3309",
       "title": "Greenhouse Gas Reduction Loan Program",
       "agency": "Department of Resources Recycling and Recovery",
@@ -2438,28 +2315,6 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://wildlife.ca.gov/OSPR/Local-Government-Outreach"
-    },
-    {
-      "id": "16238",
-      "title": "Nature Based Solutions – Wildlife Corridors",
-      "agency": "Department of Fish and Wildlife",
-      "summary": "Funding to support connectivity projects that advance multi-benefit and nature-based solutions, consistent with the State Wildlife Action Plan, the California Wildlife Barriers Report, and the Fish Passage Annual Legislative Report.",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2022-12-09",
-      "closeDate": null,
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://wildlife.ca.gov/Conservation/Watersheds/Restoration-Grants/Concept-Application"
     },
     {
       "id": "82967",
@@ -3257,6 +3112,26 @@
       "applyUrl": "https://wcb.ca.gov/Grants"
     },
     {
+      "id": "192057",
+      "title": "REHABILITATIVE INVESTMENT GRANTS FOR HEALING AND TRANSFORMATION (RIGHT) GRANT 4.0",
+      "agency": "CA Department of Corrections and Rehabilitation",
+      "summary": "This Grant is to provide support to eligible community-based, nonprofit organizations for the purpose of delivering trauma-informed, rehabilitative and/or restorative justice programming in CDCR institutions.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": null,
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cdcr.ca.gov/rehabilitation/grants/"
+    },
+    {
       "id": "1131",
       "title": "Replacing, Removing, or Upgrading Underground Storage Tanks Grant",
       "agency": "State Water Resources Control Board",
@@ -3802,6 +3677,30 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://wildlife.ca.gov/Grants/Upland-Game-Bird"
+    },
+    {
+      "id": "190509",
+      "title": "Urban Streams Restoration Program",
+      "agency": "Department of Water Resources",
+      "summary": "The Urban Streams Restoration Program (USRP), established by Water Code section 7048 which declared that urban creek protection, restoration, and enhancement are best undertaken by local agencies and organizations with assistance from the State.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-01",
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Integrated-Regional-Water-Management/Urban-Streams-Restoration-Program/Files/FinalUSRP-Guidelines-and-PSP81126.pdf"
     },
     {
       "id": "190194",
