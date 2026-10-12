@@ -1,73 +1,9 @@
 {
-  "lastUpdated": "2026-10-05T22:00:41.791Z",
+  "lastUpdated": "2026-10-12T22:29:29.906Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 169,
+  "grantCount": 173,
   "grants": [
-    {
-      "id": "190254",
-      "title": "California Serves Grant Program 2026-27",
-      "agency": "CA Department of Education",
-      "summary": "Funding for the annual grant program is intended to support expanding access for high school graduates to the State Seal of Civic Engagement through high quality service-learning programs. Emphasis shall be on programs that demonstrate rich civic engagement and learning in pursuit of a State Seal of Civic Engagement specifically through service-learning.",
-      "categories": [
-        "Education"
-      ],
-      "applicantTypes": [
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-07",
-      "closeDate": "2026-10-05",
-      "amountMin": 500000,
-      "amountMax": 500000,
-      "applyUrl": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp"
-    },
-    {
-      "id": "163098",
-      "title": "Farm and Ranch Solid Waste Cleanup and Abatement Grant Program FR92",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The Farm & Ranch Solid Waste Clean Up & Abatement Grant program provides funding for cleaning up and preventing illegal dumping on agricultural properties (CCR, Section 17991(d)). Each fiscal year has four application cycles, with the fourth serving as the pilot cycle. Cycle 92 (FR92) is the second cycle.",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-09",
-      "closeDate": "2026-10-07",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
-    },
-    {
-      "id": "191019",
-      "title": "FY 2027-28 Sustainable Transportation Planning Grant",
-      "agency": "Department of Transportation",
-      "summary": "Sustainable Communities support/implement local/regional multimodal transportation and land use planning projects that further a region’s RTP SCS and contribute to GHG reduction. Strategic Partnerships support Federal Planning Factors and transportation/multimodal planning studies in partnership with Caltrans that address regional, interregional, and…",
-      "categories": [
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-18",
-      "closeDate": "2026-10-09",
-      "amountMin": 50000,
-      "amountMax": 700000,
-      "applyUrl": "https://dot.ca.gov/programs/transportation-planning/division-of-transportation-planning/regional-and-community-planning/sustainable-transportation-planning-grants"
-    },
     {
       "id": "190281",
       "title": "Farmworkers Advancement Program (FAP) Grant for Program Year 2026-27 (PY 26-27)",
@@ -141,27 +77,6 @@
       "amountMin": 1,
       "amountMax": 375000,
       "applyUrl": "https://calrecycle.ca.gov/tires/grants/tda/fy202627/"
-    },
-    {
-      "id": "191235",
-      "title": "LA County TECH (CEA-LAT) Grant – Round 3",
-      "agency": "Public Utilities Commission",
-      "summary": "The CEA-LAT Grant Program supports community-based organizations that conduct outreach and education related to the Technology for Equipment and Clean Heating (TECH) Clean California initiative. Grant-funded activities help residents learn about building decarbonization, electrification technologies, healthy homes, and opportunities to access clean energy…",
-      "categories": [
-        "Education",
-        "Energy"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-15",
-      "closeDate": "2026-10-15",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.cpuc.ca.gov/about-cpuc/divisions/news-and-public-information-office/business-and-community-outreach/equity-and-access-grant-program"
     },
     {
       "id": "191181",
@@ -371,6 +286,27 @@
       "applyUrl": "https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/california-teleconnect-fund/digital-divide-grant-program"
     },
     {
+      "id": "191235",
+      "title": "LA County TECH (CEA-LAT) Grant – Round 3",
+      "agency": "Public Utilities Commission",
+      "summary": "The CEA-LAT Grant Program supports community-based organizations that conduct outreach and education related to the Technology for Equipment and Clean Heating (TECH) Clean California initiative. Grant-funded activities help residents learn about building decarbonization, electrification technologies, healthy homes, and opportunities to access clean energy…",
+      "categories": [
+        "Education",
+        "Energy"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-09-15",
+      "closeDate": "2026-10-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cpuc.ca.gov/about-cpuc/divisions/news-and-public-information-office/business-and-community-outreach/equity-and-access-grant-program"
+    },
+    {
       "id": "191667",
       "title": "Rice Incentive Program",
       "agency": "Sacramento-San Joaquin Delta Conservancy",
@@ -460,6 +396,66 @@
       "applyUrl": "https://ohv.parks.ca.gov/?page_id=24881"
     },
     {
+      "id": "191967",
+      "title": "2026 CalAgPlate Grant Program",
+      "agency": "CA Department of Food and Agriculture",
+      "summary": "The CalAgPlate program funds projects that support agricultural education, agricultural career awareness and development, agriculture career training, and agriculture leadership development to assist students at the kindergarten through twelfth grade (K-12), post-secondary, and adult education levels.",
+      "categories": [
+        "Agriculture",
+        "Education",
+        "Employment, Labor & Training",
+        "Food & Nutrition"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-06",
+      "closeDate": "2026-11-02",
+      "amountMin": 2500,
+      "amountMax": 195500,
+      "applyUrl": "https://www.cdfa.ca.gov/egov/calagplate/"
+    },
+    {
+      "id": "192810",
+      "title": "Emergency Medical Services (EMS) Grant for Program Year 2026-27 (PY 26-27)",
+      "agency": "Employment Development Department",
+      "summary": "EMS Program funding will be awarded to increase the number of Emergency Medical Technicians (EMTs) in local communities with a particular focus in the inclusion of young adult participants who come from a disadvantaged or underrepresented backgrounds, including experience in the justice system.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Butte",
+        "Colusa",
+        "Contra Costa",
+        "Fresno",
+        "Glenn",
+        "Kings",
+        "Los Angeles",
+        "Riverside",
+        "Sacramento",
+        "San Diego",
+        "Tulare",
+        "Ventura"
+      ],
+      "openDate": "2026-10-08",
+      "closeDate": "2026-11-02",
+      "amountMin": 850000,
+      "amountMax": 1250000,
+      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/wdsfp_workforce_development_solicitations_for_proposals"
+    },
+    {
       "id": "191343",
       "title": "2026 California Nutrition Incentive Program",
       "agency": "CA Department of Food and Agriculture",
@@ -507,6 +503,52 @@
       "amountMin": 30000,
       "amountMax": 300000,
       "applyUrl": "https://resources.ca.gov/grants/youth"
+    },
+    {
+      "id": "192060",
+      "title": "FY 2027/28 CDFW Boating Access Grant Program",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "CDFW's Boating Access Grant Program provides funding for projects that increase access to recreational boating opportunities across California's waterways. The Boating Access program provides funding for a broad range of access facilities and associated amenities that benefit recreational boaters.",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-06",
+      "closeDate": "2026-11-05",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Grants/Boating-Access"
+    },
+    {
+      "id": "193566",
+      "title": "Employment and Training Pathways Program (ETPP) Program Year 2026-27 (PY 26-27)",
+      "agency": "Employment Development Department",
+      "summary": "The ETPP grants will be awarded to develop and implement projects that accelerate pathways to employment for populations facing significant employment barriers into high-demand occupations for good-quality jobs.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Employment, Labor & Training"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-09",
+      "closeDate": "2026-11-09",
+      "amountMin": 500000,
+      "amountMax": 2000000,
+      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/WDSFP_Workforce_Development_Solicitations_for_Proposals"
     },
     {
       "id": "192300",
@@ -589,6 +631,26 @@
       "applyUrl": "https://caloes.intelligrants.com/"
     },
     {
+      "id": "192603",
+      "title": "Cannabis Equity Grants Program for Local Jurisdictions",
+      "agency": "Governor's Office of Business and Economic Development",
+      "summary": "The purpose of the Cannabis Equity Grants Program for Local Jurisdictions is to advance economic justice for populations and communities impacted by cannabis prohibition and the War on Drugs by providing support to local jurisdictions as they promote equity in California and eliminate barriers to enter the newly regulated cannabis industry for equity program…",
+      "categories": [
+        "Housing, Community and Economic Development"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-08",
+      "closeDate": "2026-12-01",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://business.ca.gov/CEG"
+    },
+    {
       "id": "152751",
       "title": "2025–26 After School Education and Safety grant program (Round 2)",
       "agency": "CA Department of Education",
@@ -658,6 +720,29 @@
       "amountMin": 100000,
       "amountMax": 1000000,
       "applyUrl": "https://www.waterboards.ca.gov/water_issues/programs/nps/319grants.html"
+    },
+    {
+      "id": "163104",
+      "title": "Farm and Ranch Solid Waste Cleanup and Abatement Grant Program FR93",
+      "agency": "Department of Resources Recycling and Recovery",
+      "summary": "The Farm & Ranch Solid Waste Clean Up & Abatement Grant program provides funding for cleaning up and preventing illegal dumping on agricultural properties (CCR, Section 17991(d)). Each fiscal year has four application cycles, with the fourth serving as the pilot cycle. Cycle 93 (FR93) is the third cycle.",
+      "categories": [
+        "Agriculture",
+        "Disadvantaged Communities",
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-08",
+      "closeDate": "2027-01-06",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
     },
     {
       "id": "190524",
@@ -2097,6 +2182,30 @@
       "amountMin": 25000,
       "amountMax": 1500000,
       "applyUrl": "https://www.treasurer.ca.gov/chffa/programs/help.asp"
+    },
+    {
+      "id": "192864",
+      "title": "High Road to Construction Careers 2026",
+      "agency": "Workforce Development Board",
+      "summary": "The California Workforce Development Board (CWDB), in partnership with the California Department of Transportation (Caltrans), is offering $19 million in grants for the High Road to Construction Careers 2026 (HRCC 2026) Grant Program. This second round of funding is a competitive opportunity during the 2026-27 state fiscal year.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Education",
+        "Employment, Labor & Training"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": null,
+      "closeDate": null,
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://cwdb.ca.gov/cwdb-home/grant-information/hrcc-2026-r2/"
     },
     {
       "id": "164586",
