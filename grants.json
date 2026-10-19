@@ -1,103 +1,9 @@
 {
-  "lastUpdated": "2026-10-12T22:29:29.906Z",
+  "lastUpdated": "2026-10-19T20:34:46.959Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 173,
+  "grantCount": 170,
   "grants": [
-    {
-      "id": "190281",
-      "title": "Farmworkers Advancement Program (FAP) Grant for Program Year 2026-27 (PY 26-27)",
-      "agency": "Employment Development Department",
-      "summary": "The goal of this grant is to fund projects that focus on farmworker needs at a regional level by offering essential skills and upskilling training for farmworkers to either advance in the agricultural industry and/or prepare for advancement outside of the agricultural sector.",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Employment, Labor & Training"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "San Joaquin"
-      ],
-      "openDate": "2026-09-03",
-      "closeDate": "2026-10-12",
-      "amountMin": 1,
-      "amountMax": 1000000,
-      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/wdsfp_workforce_development_solicitations_for_proposals"
-    },
-    {
-      "id": "188472",
-      "title": "Extreme Heat and Community Resilience Program Round 2",
-      "agency": "Governor’s Office of Land Use and Climate Innovation",
-      "summary": "The Extreme Heat and Community Resilience Program (Extreme Heat Program) is housed within the Governor’s Office of Land Use and Climate Innovation (LCI). The Program provides funding for projects to protect California communities most vulnerable to the impacts of extreme heat.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Disaster Prevention & Relief",
-        "Education",
-        "Energy",
-        "Environment & Water",
-        "Health & Human Services",
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-20",
-      "closeDate": "2026-10-13",
-      "amountMin": 750000,
-      "amountMax": 4500000,
-      "applyUrl": "https://lci.ca.gov/wp-content/uploads/Round-2-Final-Guidelines.pdf"
-    },
-    {
-      "id": "189801",
-      "title": "Tire-Derived Aggregate Grant Program",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The Tire-Derived Aggregate (TDA) Grant Program (Program) provides assistance to local governments to solve a variety of engineering challenges, using tire derived aggregate from shredded tires as an alternative to conventional lightweight aggregates in civil engineering projects and assists in diverting waste tires from landfill disposal, prevent illegal…",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-27",
-      "closeDate": "2026-10-15",
-      "amountMin": 1,
-      "amountMax": 375000,
-      "applyUrl": "https://calrecycle.ca.gov/tires/grants/tda/fy202627/"
-    },
-    {
-      "id": "191181",
-      "title": "FY 2026-27 Intimate Partner Violence Prevention (FD) Program Supplemental",
-      "agency": "Governor's Office of Emergency Services",
-      "summary": "The purpose of the Intimate Partner Violence Prevention (FD) Program is to prevent intimate partner violence, including teen dating violence, and sexual assault.",
-      "categories": [
-        "Education"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-08-28",
-      "closeDate": "2026-10-16",
-      "amountMin": 1,
-      "amountMax": 132828,
-      "applyUrl": "https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/grants-management/grants-central-system/"
-    },
     {
       "id": "189912",
       "title": "Quantum FAST Challenge",
@@ -631,6 +537,26 @@
       "applyUrl": "https://caloes.intelligrants.com/"
     },
     {
+      "id": "192057",
+      "title": "REHABILITATIVE INVESTMENT GRANTS FOR HEALING AND TRANSFORMATION (RIGHT) GRANT 4.0",
+      "agency": "CA Department of Corrections and Rehabilitation",
+      "summary": "This Grant is to provide support to eligible community-based, nonprofit organizations for the purpose of delivering trauma-informed, rehabilitative and/or restorative justice programming in CDCR institutions.",
+      "categories": [
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-01",
+      "closeDate": "2026-11-30",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.cdcr.ca.gov/rehabilitation/grants/"
+    },
+    {
       "id": "192603",
       "title": "Cannabis Equity Grants Program for Local Jurisdictions",
       "agency": "Governor's Office of Business and Economic Development",
@@ -670,6 +596,31 @@
       "amountMin": 50000,
       "amountMax": 203500,
       "applyUrl": "https://www.cde.ca.gov/fg/fo/r27/ases25rfaround2.asp"
+    },
+    {
+      "id": "192621",
+      "title": "Trauma Recovery Center Grant Fiscal Year 27/28",
+      "agency": "Victim Compensation Board",
+      "summary": "The Trauma Recovery Center Grant funds centers throughout California that assist victims of violent crime. These centers provide wrap-around services and assist victims who are typically unserved and underserved communities.",
+      "categories": [
+        "Disadvantaged Communities",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-14",
+      "closeDate": "2026-12-15",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://victims.ca.gov/board/grant-opportunities/"
     },
     {
       "id": "191124",
@@ -3219,26 +3170,6 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://wcb.ca.gov/Grants"
-    },
-    {
-      "id": "192057",
-      "title": "REHABILITATIVE INVESTMENT GRANTS FOR HEALING AND TRANSFORMATION (RIGHT) GRANT 4.0",
-      "agency": "CA Department of Corrections and Rehabilitation",
-      "summary": "This Grant is to provide support to eligible community-based, nonprofit organizations for the purpose of delivering trauma-informed, rehabilitative and/or restorative justice programming in CDCR institutions.",
-      "categories": [
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": null,
-      "closeDate": null,
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.cdcr.ca.gov/rehabilitation/grants/"
     },
     {
       "id": "1131",
