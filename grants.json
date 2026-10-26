@@ -1,99 +1,9 @@
 {
-  "lastUpdated": "2026-10-19T20:34:46.959Z",
+  "lastUpdated": "2026-10-26T20:28:37.746Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 170,
+  "grantCount": 168,
   "grants": [
-    {
-      "id": "189912",
-      "title": "Quantum FAST Challenge",
-      "agency": "Governor's Office of Business and Economic Development",
-      "summary": "The Quantum FAST Challenge is a competitive grant program that seeks to strengthen California's quantum ecosystem by funding projects in two priority areas: (1) Education and workforce development projects that build the talent pipeline that quantum technologies require; and (2) Applied use case demonstrations that pair researchers and students with industry…",
-      "categories": [
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "other",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-30",
-      "closeDate": "2026-10-20",
-      "amountMin": 50000,
-      "amountMax": 500000,
-      "applyUrl": "https://calearninglab.org/grant/quantum-fast/"
-    },
-    {
-      "id": "161958",
-      "title": "Song Brown Registered Nurse Education Programs (RN) 2026 Application",
-      "agency": "Department of Health Care Access and Information",
-      "summary": "The Song-Brown program funds institutions that train primary care health professionals to provide healthcare in California’s medically underserved areas.",
-      "categories": [
-        "Education",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-02-24",
-      "closeDate": "2026-10-22",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://hcai.ca.gov/workforce/financial-assistance/grants/song-brown/registered-nurse-rn/"
-    },
-    {
-      "id": "191106",
-      "title": "Recycled Glass Processing Incentive Grant Program (FY 2026-27)",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The fundamental goal of the Program is to stimulate an increase of furnace-ready glass cullet in the making of new glass beverage containers within the State of California.",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-08",
-      "closeDate": "2026-10-22",
-      "amountMin": 1000000,
-      "amountMax": 4000000,
-      "applyUrl": "https://calrecycle.ca.gov/bevcontainer/grants/rgp/fy202627/"
-    },
-    {
-      "id": "191664",
-      "title": "Delta Community, Environment, and Climate Grant Program",
-      "agency": "Sacramento-San Joaquin Delta Conservancy",
-      "summary": "The purpoose of the Delta Community, Environment and Climate Grant Program is to fund multibenefit projects in the Delta and Suisun Marsh. The Conservancy is soliciting proposals for three different priorities: Community Enhancement, Nature-Based Solutions, and Ecosystem Restoration.",
-      "categories": [
-        "Agriculture",
-        "Disadvantaged Communities",
-        "Environment & Water",
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-17",
-      "closeDate": "2026-10-23",
-      "amountMin": 100000,
-      "amountMax": 2000000,
-      "applyUrl": "https://deltaconservancy.ca.gov/grant-program/prop-4/"
-    },
     {
       "id": "191499",
       "title": "Scaling Dyadic Care Grant Program",
@@ -450,9 +360,9 @@
       "counties": [
         "Statewide"
       ],
-      "openDate": "2026-10-09",
+      "openDate": "2026-10-08",
       "closeDate": "2026-11-09",
-      "amountMin": 500000,
+      "amountMin": 1000000,
       "amountMax": 2000000,
       "applyUrl": "https://edd.ca.gov/en/jobs_and_training/WDSFP_Workforce_Development_Solicitations_for_Proposals"
     },
@@ -598,6 +508,34 @@
       "applyUrl": "https://www.cde.ca.gov/fg/fo/r27/ases25rfaround2.asp"
     },
     {
+      "id": "193758",
+      "title": "Mojave Desert Tortoise Recovery",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The California Department of Fish and Wildlife (CDFW) is offering $2 million in grant funding to develop or enhance Mojave Desert tortoise (Gopherus agassizii) Recovery. This funding supports projects that produce measurable, near-term progress toward Mojave Desert Tortoise recovery in California, prioritizing actions with a strong evidence base and the…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "business",
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Imperial",
+        "Inyo",
+        "Kern",
+        "Los Angeles",
+        "Riverside",
+        "San Bernardino"
+      ],
+      "openDate": "2026-10-21",
+      "closeDate": "2026-12-03",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Grants/Restoration-Grants"
+    },
+    {
       "id": "192621",
       "title": "Trauma Recovery Center Grant Fiscal Year 27/28",
       "agency": "Victim Compensation Board",
@@ -694,6 +632,27 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
+    },
+    {
+      "id": "194175",
+      "title": "Land and Water Conservation Fund (LWCF)",
+      "agency": "Department of Parks and Recreation",
+      "summary": "The Land and Water Conservation Fund (LWCF) was established by Congress in 1964 to fulfill a bipartisan commitment to safeguard our natural areas, water resources and cultural heritage, and to provide recreation opportunities to all Americans.",
+      "categories": [
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-23",
+      "closeDate": "2027-01-14",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://www.parks.ca.gov/?page_id=21360"
     },
     {
       "id": "190524",
@@ -2549,7 +2508,7 @@
       "closeDate": null,
       "amountMin": null,
       "amountMax": null,
-      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+      "applyUrl": "https://smmc.ca.gov/grants"
     },
     {
       "id": "175143",
@@ -3404,7 +3363,7 @@
       "closeDate": null,
       "amountMin": null,
       "amountMax": null,
-      "applyUrl": "https://hcai.ca.gov/wp-content/uploads/2022/06/19.-Small-and-Rural-Hospital-Relief-Program-Eligibility-Tool.pdf"
+      "applyUrl": "https://hcai.ca.gov/wp-content/uploads/2026/10/2026-SRHRP-Grant-Guide-ADA-Compliant-1.pdf"
     },
     {
       "id": "191454",
