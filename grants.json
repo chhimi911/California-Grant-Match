@@ -1,172 +1,9 @@
 {
-  "lastUpdated": "2026-10-26T20:28:37.746Z",
+  "lastUpdated": "2026-11-02T23:06:09.015Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 168,
+  "grantCount": 161,
   "grants": [
-    {
-      "id": "191499",
-      "title": "Scaling Dyadic Care Grant Program",
-      "agency": "Department of Health Care Services",
-      "summary": "The Department of Health Care Services (DHCS) launched the Scaling Dyadic Care Grant Program to make relationship-centered, family-focused behavioral health care a routine and accessible component of pediatric services throughout California.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Education",
-        "Health & Human Services",
-        "Housing, Community and Economic Development"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "other",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-16",
-      "closeDate": "2026-10-26",
-      "amountMin": 500000,
-      "amountMax": 700000,
-      "applyUrl": "https://www.dhcs.ca.gov/providers-partners/dyadic-services-as-a-medi-cal-benefit/"
-    },
-    {
-      "id": "191679",
-      "title": "Emergency Medical Services Technical Assistance (EMS TA) Solicitation for Proposals (SFP) for Program Year 2026 (PY 26-27)",
-      "agency": "Employment Development Department",
-      "summary": "The EMS TA grant is designed to strengthen the quality, consistency, and sustainability of existing EMS Corps programs across California. The awardee must possess the capability to provide technical assistance such as operational support, on-the-ground project support, ongoing training, including technical assistance, and administrative support for program…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Employment, Labor & Training",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-17",
-      "closeDate": "2026-10-27",
-      "amountMin": 1500000,
-      "amountMax": 1500000,
-      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/WDSFP_Workforce_Development_Solicitations_for_Proposals"
-    },
-    {
-      "id": "191505",
-      "title": "Increased Recycling of Empty Glass Beverage Containers Grant Program, FY 2026-27",
-      "agency": "Department of Resources Recycling and Recovery",
-      "summary": "The fundamental goal of the Program is to assist in funding regional pilot programs that are supplying bins for collection of empty glass beverage containers from five or more restaurants and on-sale retail licensed establishments licensed pursuant to the Alcoholic Beverage Control Act (Division 9, commencing with Section 2300, of the Business and…",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-22",
-      "closeDate": "2026-10-29",
-      "amountMin": 250000,
-      "amountMax": 4000000,
-      "applyUrl": "https://calrecycle.ca.gov/bevcontainer/grants/egr/fy202627/"
-    },
-    {
-      "id": "184092",
-      "title": "2026-27 Digital Divide Grant Program Round 4",
-      "agency": "Public Utilities Commission",
-      "summary": "The Digital Divide Grant Program will award one grant of $100,000 for rural and urban public schools and two grants of up to $50,000 each for non-profit Community Based Organizations (CBO). The grants will fund digital projects that serve beneficiary public schools/districts and non-profit Community Organizations.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Education",
-        "Housing, Community and Economic Development",
-        "Science, Technology, and Research & Development"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-06",
-      "closeDate": "2026-10-30",
-      "amountMin": 50000,
-      "amountMax": 100000,
-      "applyUrl": "https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/california-teleconnect-fund/digital-divide-grant-program"
-    },
-    {
-      "id": "191235",
-      "title": "LA County TECH (CEA-LAT) Grant – Round 3",
-      "agency": "Public Utilities Commission",
-      "summary": "The CEA-LAT Grant Program supports community-based organizations that conduct outreach and education related to the Technology for Equipment and Clean Heating (TECH) Clean California initiative. Grant-funded activities help residents learn about building decarbonization, electrification technologies, healthy homes, and opportunities to access clean energy…",
-      "categories": [
-        "Education",
-        "Energy"
-      ],
-      "applicantTypes": [
-        "nonprofit"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-15",
-      "closeDate": "2026-10-30",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.cpuc.ca.gov/about-cpuc/divisions/news-and-public-information-office/business-and-community-outreach/equity-and-access-grant-program"
-    },
-    {
-      "id": "191667",
-      "title": "Rice Incentive Program",
-      "agency": "Sacramento-San Joaquin Delta Conservancy",
-      "summary": "Fund rice conversion projects on areas with highly organic soils in the Delta.",
-      "categories": [
-        "Agriculture"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-17",
-      "closeDate": "2026-10-30",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://deltaconservancy.ca.gov/grant-program/prop-4/"
-    },
-    {
-      "id": "191211",
-      "title": "Division of Boating and Waterways Aquatic Center Boating Safety Education Grant FY26",
-      "agency": "Department of Parks and Recreation",
-      "summary": "Provide boating safety education to the general public.",
-      "categories": [
-        "Education",
-        "Environment & Water",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-18",
-      "closeDate": "2026-10-30",
-      "amountMin": 1,
-      "amountMax": 62000,
-      "applyUrl": "http://dbw.parks.ca.gov/?page_id=28817"
-    },
     {
       "id": "187065",
       "title": "Local Highway Safety Improvement Program (HSIP)",
@@ -536,6 +373,28 @@
       "applyUrl": "https://wildlife.ca.gov/Grants/Restoration-Grants"
     },
     {
+      "id": "194241",
+      "title": "2027 CNIP Expansion – WIC, WIC Farmers’ Market Nutrition Program and Senior Farmers’ Market Nutrition Program",
+      "agency": "CA Department of Food and Agriculture",
+      "summary": "CNIP was established to encourage the purchase and consumption of healthy, California-grown fresh fruits, vegetables, and nuts by nutrition benefit clients, including CalFresh, WIC, WIC FMNP, and SFMNP clients.",
+      "categories": [
+        "Agriculture",
+        "Food & Nutrition",
+        "Health & Human Services"
+      ],
+      "applicantTypes": [
+        "nonprofit"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-30",
+      "closeDate": "2026-12-04",
+      "amountMin": 10000,
+      "amountMax": 300000,
+      "applyUrl": "https://cafarmtofork.cdfa.ca.gov/farm_to_fork/grants/cnip.html"
+    },
+    {
       "id": "192621",
       "title": "Trauma Recovery Center Grant Fiscal Year 27/28",
       "agency": "Victim Compensation Board",
@@ -632,6 +491,26 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://calrecycle.ca.gov/lea/grantsloans/farmranch/fy202526/"
+    },
+    {
+      "id": "194244",
+      "title": "FY 2026-27 Human Trafficking Vertical Prosecution (HP) Program",
+      "agency": "Governor's Office of Emergency Services",
+      "summary": "The purpose of the Program is to support dedicated time of a Deputy District Attorney and a District Attorney Investigator for the purpose of identifying, investigating, and prosecuting human trafficking crimes.",
+      "categories": [
+        "Law, Justice, and Legal Services"
+      ],
+      "applicantTypes": [
+        "public agency"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-10-29",
+      "closeDate": "2027-01-08",
+      "amountMin": 1,
+      "amountMax": 818181,
+      "applyUrl": "https://caloes.intelligrants.com/"
     },
     {
       "id": "194175",
@@ -1071,31 +950,6 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://dtsc.ca.gov/revolving-loan-fund-rlf-program/"
-    },
-    {
-      "id": "11714",
-      "title": "California Forest Improvement Program",
-      "agency": "Department of Forestry and Fire Protection",
-      "summary": "The purpose of the California Forest Improvement Program (CFIP) is to encourage private and public investment in, and improved management of, California forest lands and resources, to ensure adequate high quality timber supplies, related employment and other economic benefits, and the protection, maintenance, and enhancement of a productive and stable forest…",
-      "categories": [
-        "Agriculture",
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "business",
-        "individual",
-        "nonprofit",
-        "other",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2022-07-12",
-      "closeDate": null,
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.fire.ca.gov/what-we-do/grants/california-forest-improvement"
     },
     {
       "id": "164595",
@@ -2270,29 +2124,6 @@
       "applyUrl": "https://wcb.ca.gov/Programs/Lower-American-River"
     },
     {
-      "id": "191037",
-      "title": "Lunch at the Library Summer 2027",
-      "agency": "CA State Library",
-      "summary": "Funds and support are available for all California public libraries that help to provide USDA summer meals for children and youth. The Lunch at the Library program helps California public libraries to establish library locations as U.S Department of Agriculture (USDA) summer meal sites and take pop-up libraries to other USDA community meal sites while…",
-      "categories": [
-        "Disadvantaged Communities",
-        "Food & Nutrition",
-        "Libraries and Arts"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-01",
-      "closeDate": null,
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://www.library.ca.gov/grants/lunch/"
-    },
-    {
       "id": "83054",
       "title": "Monarch Butterfly and Pollinator Rescue",
       "agency": "Wildlife Conservation Board",
@@ -2486,7 +2317,7 @@
       "closeDate": null,
       "amountMin": null,
       "amountMax": null,
-      "applyUrl": "https://smmc.ca.gov/grants-redo/"
+      "applyUrl": "https://smmc.ca.gov/grants"
     },
     {
       "id": "164031",
