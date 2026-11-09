@@ -1,185 +1,9 @@
 {
-  "lastUpdated": "2026-11-02T23:06:09.015Z",
+  "lastUpdated": "2026-11-09T23:46:19.970Z",
   "source": "California Grants Portal via the California Open Data Portal",
   "resourceId": "111c8c88-21f6-453c-ae2c-b4785a0624f5",
-  "grantCount": 161,
+  "grantCount": 155,
   "grants": [
-    {
-      "id": "187065",
-      "title": "Local Highway Safety Improvement Program (HSIP)",
-      "agency": "Department of Transportation",
-      "summary": "Achieve a significant reduction in traffic fatalities and serious injuries on all local public roads.",
-      "categories": [
-        "Transportation"
-      ],
-      "applicantTypes": [
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-07-10",
-      "closeDate": "2026-11-02",
-      "amountMin": 100000,
-      "amountMax": 10000000,
-      "applyUrl": "https://dot.ca.gov/programs/local-assistance/fed-and-state-programs/highway-safety-improvement-program/apply-now"
-    },
-    {
-      "id": "191046",
-      "title": "The Recreational Trails Program (RTP) – R27",
-      "agency": "Department of Parks and Recreation",
-      "summary": "The purpose of the Recreational Trails Program is to provide for well managed OHV Recreation by providing financial assistance to eligible agencies and organizations that develop, maintain, operate, expand, support, or contribute to well managed, high-quality, OHV Recreation areas, roads, and trails, and to responsibly maintain the wildlife, soils, and…",
-      "categories": [
-        "Education",
-        "Environment & Water",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-10-02",
-      "closeDate": "2026-11-02",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://ohv.parks.ca.gov/?page_id=24881"
-    },
-    {
-      "id": "191967",
-      "title": "2026 CalAgPlate Grant Program",
-      "agency": "CA Department of Food and Agriculture",
-      "summary": "The CalAgPlate program funds projects that support agricultural education, agricultural career awareness and development, agriculture career training, and agriculture leadership development to assist students at the kindergarten through twelfth grade (K-12), post-secondary, and adult education levels.",
-      "categories": [
-        "Agriculture",
-        "Education",
-        "Employment, Labor & Training",
-        "Food & Nutrition"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-10-06",
-      "closeDate": "2026-11-02",
-      "amountMin": 2500,
-      "amountMax": 195500,
-      "applyUrl": "https://www.cdfa.ca.gov/egov/calagplate/"
-    },
-    {
-      "id": "192810",
-      "title": "Emergency Medical Services (EMS) Grant for Program Year 2026-27 (PY 26-27)",
-      "agency": "Employment Development Department",
-      "summary": "EMS Program funding will be awarded to increase the number of Emergency Medical Technicians (EMTs) in local communities with a particular focus in the inclusion of young adult participants who come from a disadvantaged or underrepresented backgrounds, including experience in the justice system.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Employment, Labor & Training",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Butte",
-        "Colusa",
-        "Contra Costa",
-        "Fresno",
-        "Glenn",
-        "Kings",
-        "Los Angeles",
-        "Riverside",
-        "Sacramento",
-        "San Diego",
-        "Tulare",
-        "Ventura"
-      ],
-      "openDate": "2026-10-08",
-      "closeDate": "2026-11-02",
-      "amountMin": 850000,
-      "amountMax": 1250000,
-      "applyUrl": "https://edd.ca.gov/en/jobs_and_training/wdsfp_workforce_development_solicitations_for_proposals"
-    },
-    {
-      "id": "191343",
-      "title": "2026 California Nutrition Incentive Program",
-      "agency": "CA Department of Food and Agriculture",
-      "summary": "The 2026 CNIP RFP is focused on increasing California-grown fresh fruit and vegetable purchases at Certified Farmers’ Markets and California Small Businesses* by shoppers using CalFresh (SNAP) benefits and sustaining proposals in high need areas.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Food & Nutrition",
-        "Health & Human Services"
-      ],
-      "applicantTypes": [
-        "business",
-        "nonprofit",
-        "other",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-25",
-      "closeDate": "2026-11-03",
-      "amountMin": 50000,
-      "amountMax": 12500000,
-      "applyUrl": "https://cafarmtofork.cdfa.ca.gov/farm_to_fork/grants/cnip.html"
-    },
-    {
-      "id": "191673",
-      "title": "Youth Community Access Grant Program (Round 4)",
-      "agency": "CA Natural Resources Agency",
-      "summary": "YCA Grants will fund projects that serve youth from low-income and disadvantaged communities and provide immersive and meaningful experiences with natural or cultural resources within California that participants otherwise would not have.",
-      "categories": [
-        "Disadvantaged Communities",
-        "Education",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-09-21",
-      "closeDate": "2026-11-04",
-      "amountMin": 30000,
-      "amountMax": 300000,
-      "applyUrl": "https://resources.ca.gov/grants/youth"
-    },
-    {
-      "id": "192060",
-      "title": "FY 2027/28 CDFW Boating Access Grant Program",
-      "agency": "Department of Fish and Wildlife",
-      "summary": "CDFW's Boating Access Grant Program provides funding for projects that increase access to recreational boating opportunities across California's waterways. The Boating Access program provides funding for a broad range of access facilities and associated amenities that benefit recreational boaters.",
-      "categories": [
-        "Environment & Water",
-        "Parks & Recreation"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": "2026-10-06",
-      "closeDate": "2026-11-05",
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://wildlife.ca.gov/Grants/Boating-Access"
-    },
     {
       "id": "193566",
       "title": "Employment and Training Pathways Program (ETPP) Program Year 2026-27 (PY 26-27)",
@@ -420,6 +244,36 @@
       "applyUrl": "https://victims.ca.gov/board/grant-opportunities/"
     },
     {
+      "id": "194406",
+      "title": "Delta-Based Decontamination Control Sites to Prevent the Spread of Golden Mussel",
+      "agency": "Department of Fish and Wildlife",
+      "summary": "The California Department of Fish and Wildlife (CDFW) is offering $6 million in grant funding to develop or enhance boating decontamination control efforts in the Sacramento-San Joaquin Delta (Delta). This funding supports projects that help prevent the spread of invasive golden mussel (Limnoperna fortunei) from the Delta, ensuring the long-term health of…",
+      "categories": [
+        "Environment & Water",
+        "Parks & Recreation"
+      ],
+      "applicantTypes": [
+        "business",
+        "individual",
+        "nonprofit",
+        "other",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Contra Costa",
+        "Sacramento",
+        "San Joaquin",
+        "Solano",
+        "Yolo"
+      ],
+      "openDate": "2026-11-03",
+      "closeDate": "2026-12-15",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://wildlife.ca.gov/Conservation/Invasives/Species/Golden-Mussel#fundingopportunities"
+    },
+    {
       "id": "191124",
       "title": "Statewide Park Development and Community Revitalization Program (SPP) – Round 5 – Proposition 4",
       "agency": "Department of Parks and Recreation",
@@ -616,6 +470,28 @@
       "amountMin": 1000,
       "amountMax": 10000,
       "applyUrl": "https://dbw.parks.ca.gov/?page_id=28818"
+    },
+    {
+      "id": "171777",
+      "title": "Dam Safety and Climate Resilience Local Assistance",
+      "agency": "Department of Water Resources",
+      "summary": "Senate Bill 122 added Part 4, Section 6700 to the Water Code to create a new program, the Dam Safety and Climate Resilience Local Assistance Program, within DWR for the purpose of providing state funding for repairs, rehabilitation, enhancements, and other dam safety projects at existing state jurisdictional dams and associated facilities that were in…",
+      "categories": [
+        "Environment & Water"
+      ],
+      "applicantTypes": [
+        "nonprofit",
+        "public agency",
+        "tribal"
+      ],
+      "counties": [
+        "Statewide"
+      ],
+      "openDate": "2026-11-06",
+      "closeDate": "2027-02-04",
+      "amountMin": null,
+      "amountMax": null,
+      "applyUrl": "https://water.ca.gov/Work-With-Us/Grants-And-Loans/Dam-Safety-and-Enhancements-Program"
     },
     {
       "id": "83138",
@@ -1612,28 +1488,6 @@
       "amountMin": null,
       "amountMax": null,
       "applyUrl": "https://www.waterboards.ca.gov/safer/funding_solicitation.html"
-    },
-    {
-      "id": "171777",
-      "title": "Dam Safety and Climate Resilience Local Assistance",
-      "agency": "Department of Water Resources",
-      "summary": "Senate Bill 122 added Part 4, Section 6700 to the Water Code to create a new program, the Dam Safety and Climate Resilience Local Assistance Program, within DWR for the purpose of providing state funding for repairs, rehabilitation, enhancements, and other dam safety projects at existing state jurisdictional dams and associated facilities that were in…",
-      "categories": [
-        "Environment & Water"
-      ],
-      "applicantTypes": [
-        "nonprofit",
-        "public agency",
-        "tribal"
-      ],
-      "counties": [
-        "Statewide"
-      ],
-      "openDate": null,
-      "closeDate": null,
-      "amountMin": null,
-      "amountMax": null,
-      "applyUrl": "https://water.ca.gov/Work-With-Us/Grants-And-Loans/Dam-Safety-and-Enhancements-Program"
     },
     {
       "id": "150465",
